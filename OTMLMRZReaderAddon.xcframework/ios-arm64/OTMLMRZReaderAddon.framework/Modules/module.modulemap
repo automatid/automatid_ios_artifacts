@@ -1,0 +1,11 @@
+framework module OTMLMRZReaderAddon {
+  umbrella header "OTMLMRZReaderAddon-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTMLMRZReaderAddon.Swift {
+  header "OTMLMRZReaderAddon-Swift.h"
+  requires objc
+}

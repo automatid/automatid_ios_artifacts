@@ -1,0 +1,3477 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZModel",
+        "printedName": "MRZModel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "documentType",
+            "printedName": "documentType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)documentType",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC12documentTypeSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)documentType",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC12documentTypeSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setDocumentType:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC12documentTypeSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC12documentTypeSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC12documentTypeSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "documentSubType",
+            "printedName": "documentSubType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)documentSubType",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC15documentSubTypeSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)documentSubType",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC15documentSubTypeSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setDocumentSubType:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC15documentSubTypeSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC15documentSubTypeSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC15documentSubTypeSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "countryCode",
+            "printedName": "countryCode",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)countryCode",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11countryCodeSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)countryCode",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11countryCodeSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setCountryCode:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11countryCodeSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC11countryCodeSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11countryCodeSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "passportNumber",
+            "printedName": "passportNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)passportNumber",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14passportNumberSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)passportNumber",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14passportNumberSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setPassportNumber:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14passportNumberSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC14passportNumberSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14passportNumberSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sex",
+            "printedName": "sex",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)sex",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC3sexSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)sex",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC3sexSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setSex:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC3sexSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC3sexSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC3sexSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nationality",
+            "printedName": "nationality",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)nationality",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11nationalitySSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)nationality",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11nationalitySSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setNationality:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11nationalitySSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC11nationalitySSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11nationalitySSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dateOfBirth",
+            "printedName": "dateOfBirth",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Date?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)dateOfBirth",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11dateOfBirth10Foundation4DateVSgvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)dateOfBirth",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11dateOfBirth10Foundation4DateVSgvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setDateOfBirth:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11dateOfBirth10Foundation4DateVSgvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC11dateOfBirth10Foundation4DateVSgvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11dateOfBirth10Foundation4DateVSgvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "expirationDate",
+            "printedName": "expirationDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Date?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)expirationDate",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14expirationDate10Foundation0E0VSgvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)expirationDate",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14expirationDate10Foundation0E0VSgvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setExpirationDate:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14expirationDate10Foundation0E0VSgvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC14expirationDate10Foundation0E0VSgvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14expirationDate10Foundation0E0VSgvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dateOfBirthString",
+            "printedName": "dateOfBirthString",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)dateOfBirthString",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC17dateOfBirthStringSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)dateOfBirthString",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC17dateOfBirthStringSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setDateOfBirthString:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC17dateOfBirthStringSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC17dateOfBirthStringSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC17dateOfBirthStringSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "expirationDateString",
+            "printedName": "expirationDateString",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)expirationDateString",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC20expirationDateStringSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)expirationDateString",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC20expirationDateStringSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setExpirationDateString:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC20expirationDateStringSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC20expirationDateStringSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC20expirationDateStringSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "lastName",
+            "printedName": "lastName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)lastName",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC8lastNameSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)lastName",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC8lastNameSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setLastName:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC8lastNameSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC8lastNameSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC8lastNameSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "firstName",
+            "printedName": "firstName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)firstName",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC9firstNameSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)firstName",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC9firstNameSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setFirstName:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC9firstNameSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC9firstNameSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC9firstNameSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rawMRZ",
+            "printedName": "rawMRZ",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)rawMRZ",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC6rawMRZSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)rawMRZ",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC6rawMRZSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setRawMRZ:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC6rawMRZSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC6rawMRZSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC6rawMRZSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "personalNumber",
+            "printedName": "personalNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)personalNumber",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14personalNumberSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)personalNumber",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14personalNumberSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)setPersonalNumber:",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14personalNumberSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon8MRZModelC14personalNumberSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC14personalNumberSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "description",
+            "printedName": "description",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(py)description",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11descriptionSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "description",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)description",
+                "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC11descriptionSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "description",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZModel",
+                "printedName": "OTMLMRZReaderAddon.MRZModel",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel(im)init",
+            "mangledName": "$s18OTMLMRZReaderAddon8MRZModelCACycfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel",
+        "mangledName": "$s18OTMLMRZReaderAddon8MRZModelC",
+        "moduleName": "OTMLMRZReaderAddon",
+        "isOpen": true,
+        "objc_name": "MRZModel",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZParser",
+        "printedName": "MRZParser",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "rawMRZ",
+            "printedName": "rawMRZ",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(py)rawMRZ",
+            "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC6rawMRZSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)rawMRZ",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC6rawMRZSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)setRawMRZ:",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC6rawMRZSSvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon9MRZParserC6rawMRZSSvM",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC6rawMRZSSvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mrz",
+            "printedName": "mrz",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZModel",
+                "printedName": "OTMLMRZReaderAddon.MRZModel",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(py)mrz",
+            "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC3mrzAA8MRZModelCvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZModel",
+                    "printedName": "OTMLMRZReaderAddon.MRZModel",
+                    "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)mrz",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC3mrzAA8MRZModelCvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZModel",
+                    "printedName": "OTMLMRZReaderAddon.MRZModel",
+                    "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)setMrz:",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC3mrzAA8MRZModelCvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon9MRZParserC3mrzAA8MRZModelCvM",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC3mrzAA8MRZModelCvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(scan:debug:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZParser",
+                "printedName": "OTMLMRZReaderAddon.MRZParser",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)initWithScan:debug:",
+            "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC4scan5debugACSS_Sbtcfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "objc_name": "initWithScan:debug:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "description",
+            "printedName": "description",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(py)description",
+            "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC11descriptionSSvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "description",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)description",
+                "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC11descriptionSSvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "description",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZParser",
+                "printedName": "OTMLMRZReaderAddon.MRZParser",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser(im)init",
+            "mangledName": "$s18OTMLMRZReaderAddon9MRZParserCACycfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser",
+        "mangledName": "$s18OTMLMRZReaderAddon9MRZParserC",
+        "moduleName": "OTMLMRZReaderAddon",
+        "isOpen": true,
+        "objc_name": "MRZParser",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZTD1",
+        "printedName": "MRZTD1",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(scan:debug:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZTD1",
+                "printedName": "OTMLMRZReaderAddon.MRZTD1",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD1"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD1(im)initWithScan:debug:",
+            "mangledName": "$s18OTMLMRZReaderAddon6MRZTD1C4scan5debugACSS_Sbtcfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "objc_name": "initWithScan:debug:",
+            "declAttributes": [
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD1",
+        "mangledName": "$s18OTMLMRZReaderAddon6MRZTD1C",
+        "moduleName": "OTMLMRZReaderAddon",
+        "isOpen": true,
+        "objc_name": "MRZTD1",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "OTMLMRZReaderAddon.MRZParser",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZTD3",
+        "printedName": "MRZTD3",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(scan:debug:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZTD3",
+                "printedName": "OTMLMRZReaderAddon.MRZTD3",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD3"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD3(im)initWithScan:debug:",
+            "mangledName": "$s18OTMLMRZReaderAddon6MRZTD3C4scan5debugACSS_Sbtcfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "objc_name": "initWithScan:debug:",
+            "declAttributes": [
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZTD3",
+        "mangledName": "$s18OTMLMRZReaderAddon6MRZTD3C",
+        "moduleName": "OTMLMRZReaderAddon",
+        "isOpen": true,
+        "objc_name": "MRZTD3",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZParser",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "OTMLMRZReaderAddon.MRZParser",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "TesseractOCRSDKiOS",
+        "printedName": "TesseractOCRSDKiOS",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "GPUImage",
+        "printedName": "GPUImage",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MRZType",
+        "printedName": "MRZType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "auto",
+            "printedName": "auto",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(OTMLMRZReaderAddon.MRZType.Type) -> OTMLMRZReaderAddon.MRZType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "OTMLMRZReaderAddon.MRZType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZType",
+                        "printedName": "OTMLMRZReaderAddon.MRZType",
+                        "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType@MRZTypeAuto",
+            "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO4autoyA2CmF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "td1",
+            "printedName": "td1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(OTMLMRZReaderAddon.MRZType.Type) -> OTMLMRZReaderAddon.MRZType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "OTMLMRZReaderAddon.MRZType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZType",
+                        "printedName": "OTMLMRZReaderAddon.MRZType",
+                        "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType@MRZTypeTd1",
+            "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO3td1yA2CmF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "td3",
+            "printedName": "td3",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(OTMLMRZReaderAddon.MRZType.Type) -> OTMLMRZReaderAddon.MRZType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "OTMLMRZReaderAddon.MRZType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MRZType",
+                        "printedName": "OTMLMRZReaderAddon.MRZType",
+                        "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType@MRZTypeTd3",
+            "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO3td3yA2CmF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTMLMRZReaderAddon.MRZType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18OTMLMRZReaderAddon7MRZTypeO8rawValueACSgSi_tcfc",
+            "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO8rawValueACSgSi_tcfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18OTMLMRZReaderAddon7MRZTypeO8rawValueSivp",
+            "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO8rawValueSivp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon7MRZTypeO8rawValueSivg",
+                "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO8rawValueSivg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType",
+        "mangledName": "$s18OTMLMRZReaderAddon7MRZTypeO",
+        "moduleName": "OTMLMRZReaderAddon",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PassportScanner",
+        "printedName": "PassportScanner",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "debug",
+            "printedName": "debug",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(py)debug",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5debugSbvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)debug",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5debugSbvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setDebug:",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5debugSbvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon15PassportScannerC5debugSbvM",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5debugSbvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "accuracy",
+            "printedName": "accuracy",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(py)accuracy",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC8accuracySfvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)accuracy",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC8accuracySfvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setAccuracy:",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC8accuracySfvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon15PassportScannerC8accuracySfvM",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC8accuracySfvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mrzType",
+            "printedName": "mrzType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MRZType",
+                "printedName": "OTMLMRZReaderAddon.MRZType",
+                "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(py)mrzType",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC7mrzTypeAA7MRZTypeOvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)mrzType",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC7mrzTypeAA7MRZTypeOvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZType",
+                    "printedName": "OTMLMRZReaderAddon.MRZType",
+                    "usr": "c:@M@OTMLMRZReaderAddon@E@MRZType"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setMrzType:",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC7mrzTypeAA7MRZTypeOvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon15PassportScannerC7mrzTypeAA7MRZTypeOvM",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC7mrzTypeAA7MRZTypeOvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tesseractTrainedDataAbsolutePath",
+            "printedName": "tesseractTrainedDataAbsolutePath",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(py)tesseractTrainedDataAbsolutePath",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC32tesseractTrainedDataAbsolutePathSSSgvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)tesseractTrainedDataAbsolutePath",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC32tesseractTrainedDataAbsolutePathSSSgvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setTesseractTrainedDataAbsolutePath:",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC32tesseractTrainedDataAbsolutePathSSSgvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon15PassportScannerC32tesseractTrainedDataAbsolutePathSSSgvM",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC32tesseractTrainedDataAbsolutePathSSSgvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "setupCompleted",
+            "printedName": "setupCompleted",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(py)setupCompleted",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC14setupCompletedSbvp",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setupCompleted",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC14setupCompletedSbvg",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setSetupCompleted:",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC14setupCompletedSbvs",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18OTMLMRZReaderAddon15PassportScannerC14setupCompletedSbvM",
+                "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC14setupCompletedSbvM",
+                "moduleName": "OTMLMRZReaderAddon",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)setup",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5setupyyF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "preprocessedImage",
+            "printedName": "preprocessedImage(for:sourceImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "TesseractOCRSDKiOS.MGTesseract?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MGTesseract",
+                    "printedName": "TesseractOCRSDKiOS.MGTesseract",
+                    "usr": "c:objc(cs)MGTesseract"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)preprocessedImageForTesseract:sourceImage:",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC17preprocessedImage3for06sourceF0So7UIImageCSgSo11MGTesseractCSg_AItF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "isOpen": true,
+            "objc_name": "preprocessedImageForTesseract:sourceImage:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "parseImage",
+            "printedName": "parseImage(sourceImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTMLMRZReaderAddon.MRZModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MRZModel",
+                    "printedName": "OTMLMRZReaderAddon.MRZModel",
+                    "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)MRZModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)parseImageWithSourceImage:",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC10parseImage06sourceF0AA8MRZModelCSgSo7UIImageC_tF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "objc_name": "parseImageWithSourceImage:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doOCR",
+            "printedName": "doOCR(image:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18OTMLMRZReaderAddon15PassportScannerC5doOCR5imageSSSo7UIImageC_tF",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC5doOCR5imageSSSo7UIImageC_tF",
+            "moduleName": "OTMLMRZReaderAddon",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PassportScanner",
+                "printedName": "OTMLMRZReaderAddon.PassportScanner",
+                "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner(im)init",
+            "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerCACycfc",
+            "moduleName": "OTMLMRZReaderAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLMRZReaderAddon@objc(cs)PassportScanner",
+        "mangledName": "$s18OTMLMRZReaderAddon15PassportScannerC",
+        "moduleName": "OTMLMRZReaderAddon",
+        "isOpen": true,
+        "objc_name": "PassportScanner",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 212,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 262,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 308,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 357,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 395,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 632,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 681,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 725,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 771,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 911,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "IntegerLiteral",
+      "offset": 342,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "BooleanLiteral",
+      "offset": 369,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "BooleanLiteral",
+      "offset": 430,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1402,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 9,
+      "value": "\"OTMLMRZReaderAddon.MRZParser\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 317,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 434,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 529,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 631,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 716,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1778,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 369,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 465,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 567,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 669,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 789,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 443,
+      "length": 3,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 523,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 443,
+      "length": 3,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 523,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 740,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 873,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1180,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "FloatLiteral",
+      "offset": 1570,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "FloatLiteral",
+      "offset": 1707,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1754,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2282,
+      "length": 5,
+      "value": "\"eng\""
+    }
+  ]
+}

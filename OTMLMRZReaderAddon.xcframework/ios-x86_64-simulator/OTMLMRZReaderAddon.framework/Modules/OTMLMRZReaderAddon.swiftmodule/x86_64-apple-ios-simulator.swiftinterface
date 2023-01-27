@@ -1,0 +1,77 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 effective-4.2 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name OTMLMRZReaderAddon
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import Foundation
+import GPUImage
+@_exported import OTMLMRZReaderAddon
+import Swift
+import TesseractOCRSDKiOS
+import UIKit
+import _Concurrency
+import _StringProcessing
+@_inheritsConvenienceInitializers @objc(MRZModel) open class MRZModel : ObjectiveC.NSObject {
+  @objc public var documentType: Swift.String
+  @objc public var documentSubType: Swift.String
+  @objc public var countryCode: Swift.String
+  @objc public var passportNumber: Swift.String
+  @objc public var sex: Swift.String
+  @objc public var nationality: Swift.String
+  @objc public var dateOfBirth: Foundation.Date?
+  @objc public var expirationDate: Foundation.Date?
+  @objc public var dateOfBirthString: Swift.String
+  @objc public var expirationDateString: Swift.String
+  @objc public var lastName: Swift.String
+  @objc public var firstName: Swift.String
+  @objc public var rawMRZ: Swift.String
+  @objc public var personalNumber: Swift.String
+  @objc override dynamic open var description: Swift.String {
+    @objc get
+  }
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc(MRZParser) open class MRZParser : ObjectiveC.NSObject {
+  @objc public var rawMRZ: Swift.String
+  @objc public var mrz: OTMLMRZReaderAddon.MRZModel
+  @objc public init(scan: Swift.String, debug: Swift.Bool = false)
+  @objc override dynamic open var description: Swift.String {
+    @objc get
+  }
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(MRZTD1) open class MRZTD1 : OTMLMRZReaderAddon.MRZParser {
+  @objc override public init(scan: Swift.String, debug: Swift.Bool = false)
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(MRZTD3) open class MRZTD3 : OTMLMRZReaderAddon.MRZParser {
+  @objc override public init(scan: Swift.String, debug: Swift.Bool = false)
+  @objc deinit
+}
+@objc public enum MRZType : Swift.Int {
+  case auto
+  case td1
+  case td3
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@_inheritsConvenienceInitializers @objc(PassportScanner) open class PassportScanner : ObjectiveC.NSObject, TesseractOCRSDKiOS.MGTesseractDelegate {
+  @objc public var debug: Swift.Bool
+  @objc public var accuracy: Swift.Float
+  @objc public var mrzType: OTMLMRZReaderAddon.MRZType
+  @objc public var tesseractTrainedDataAbsolutePath: Swift.String?
+  @objc public var setupCompleted: Swift.Bool
+  @objc public func setup()
+  @objc open func preprocessedImage(for tesseract: TesseractOCRSDKiOS.MGTesseract!, sourceImage: UIKit.UIImage!) -> UIKit.UIImage!
+  @objc public func parseImage(sourceImage: UIKit.UIImage) -> OTMLMRZReaderAddon.MRZModel!
+  open func doOCR(image: UIKit.UIImage) -> Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension OTMLMRZReaderAddon.MRZType : Swift.Equatable {}
+extension OTMLMRZReaderAddon.MRZType : Swift.Hashable {}
+extension OTMLMRZReaderAddon.MRZType : Swift.RawRepresentable {}

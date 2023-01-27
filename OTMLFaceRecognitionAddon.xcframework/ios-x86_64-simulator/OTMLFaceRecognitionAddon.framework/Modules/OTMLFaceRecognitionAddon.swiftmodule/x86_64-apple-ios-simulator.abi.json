@@ -1,0 +1,1261 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OTML",
+        "printedName": "OTML",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceRecognitionCustomComponentFactory",
+        "printedName": "FaceRecognitionCustomComponentFactory",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "component",
+            "printedName": "component(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLComponent",
+                    "printedName": "OTML.OTMLComponent",
+                    "usr": "c:objc(cs)OTMLComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTMLModels.OTMLComponentModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLComponentModel",
+                    "printedName": "OTMLModels.OTMLComponentModel",
+                    "usr": "c:objc(cs)OTMLComponentModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)FaceRecognitionCustomComponentFactory(im)componentWithModel:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon04FaceB22CustomComponentFactoryC9component4withSo13OTMLComponentCSgSo0J5ModelCSg_tF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "componentWithModel:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FaceRecognitionCustomComponentFactory",
+                "printedName": "OTMLFaceRecognitionAddon.FaceRecognitionCustomComponentFactory",
+                "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)FaceRecognitionCustomComponentFactory"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)FaceRecognitionCustomComponentFactory(im)init",
+            "mangledName": "$s24OTMLFaceRecognitionAddon04FaceB22CustomComponentFactoryCACycfc",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)FaceRecognitionCustomComponentFactory",
+        "mangledName": "$s24OTMLFaceRecognitionAddon04FaceB22CustomComponentFactoryC",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OTML",
+        "printedName": "OTML",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTMLFaceRecognitionActionReceiver",
+        "printedName": "OTMLFaceRecognitionActionReceiver",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "actionCommand",
+            "printedName": "actionCommand(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLActionCommand?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLActionCommand",
+                    "printedName": "OTML.OTMLActionCommand",
+                    "usr": "c:objc(cs)OTMLActionCommand"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLResolvedAction?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLResolvedAction",
+                    "printedName": "OTML.OTMLResolvedAction",
+                    "usr": "c:objc(cs)OTMLResolvedAction"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)actionCommandFromResolvedAction:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB14ActionReceiverC13actionCommand4fromSo010OTMLActionG0CSgSo012OTMLResolvedD0CSg_tF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "actionCommandFromResolvedAction:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "canResolve",
+            "printedName": "canResolve(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLParameter?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLParameter",
+                    "printedName": "OTML.OTMLParameter",
+                    "usr": "c:objc(cs)OTMLParameter"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)canResolveParameter:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB14ActionReceiverC10canResolveySbSo13OTMLParameterCSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "canResolveParameter:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resolve",
+            "printedName": "resolve(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLParameterEntry?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLParameterEntry",
+                    "printedName": "OTML.OTMLParameterEntry",
+                    "usr": "c:objc(cs)OTMLParameterEntry"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLParameter?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLParameter",
+                    "printedName": "OTML.OTMLParameter",
+                    "usr": "c:objc(cs)OTMLParameter"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)resolveParameter:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB14ActionReceiverC7resolveySo18OTMLParameterEntryCSgSo0G0CSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "resolveParameter:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OTMLFaceRecognitionActionReceiver",
+                "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionActionReceiver",
+                "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)init",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB14ActionReceiverCACycfc",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver",
+        "mangledName": "$s24OTMLFaceRecognitionAddon0aB14ActionReceiverC",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OTML",
+        "printedName": "OTML",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreVideo",
+        "printedName": "CoreVideo",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitCommon",
+        "printedName": "MLKitCommon",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitVision",
+        "printedName": "MLKitVision",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitFaceDetection",
+        "printedName": "MLKitFaceDetection",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTMLFaceRecognitionComponent",
+        "printedName": "OTMLFaceRecognitionComponent",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "newContentView",
+            "printedName": "newContentView(withFrame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)newContentViewWithFrame:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC14newContentView9withFrameSo6UIViewCSgSo6CGRectV_tF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "objc_name": "newContentViewWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handleConcreteComponentParameters",
+            "printedName": "handleConcreteComponentParameters(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)handleConcreteComponentParameters:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC014handleConcreteD10ParametersySbSDys11AnyHashableVypGSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "objc_name": "handleConcreteComponentParameters:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "atShow",
+            "printedName": "atShow(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)atShowView:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC6atShowyySo6UIViewCSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "atShowView:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "atHide",
+            "printedName": "atHide(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)atHideView:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC6atHideyySo6UIViewCSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "objc_name": "atHideView:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getParametrizationValue",
+            "printedName": "getParametrizationValue(withFlag:validate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)getParametrizationValueWithFlag:validate:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC23getParametrizationValue8withFlag8validateSSSgAG_SbtF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "objc_name": "getParametrizationValueWithFlag:validate:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didTrigger",
+            "printedName": "didTrigger(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)didTrigger:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC10didTriggeryySSSgF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "objc_name": "didTrigger:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "dispose",
+            "printedName": "dispose()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)dispose",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC7disposeyyF",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "objc_name": "dispose",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(otmlComponent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLFaceRecognitionComponent",
+                    "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionComponent",
+                    "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTML.OTMLComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLComponent",
+                    "printedName": "OTML.OTMLComponent",
+                    "usr": "c:objc(cs)OTMLComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)initWithOTMLComponent:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC04otmlD0ACSgSo13OTMLComponentCSg_tcfc",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithOTMLComponent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(model:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLFaceRecognitionComponent",
+                    "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionComponent",
+                    "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTMLModels.OTMLComponentModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLComponentModel",
+                    "printedName": "OTMLModels.OTMLComponentModel",
+                    "usr": "c:objc(cs)OTMLComponentModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)initWithModel:",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC5modelACSgSo18OTMLComponentModelCSg_tcfc",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithModel:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OTMLFaceRecognitionComponent",
+                "printedName": "OTMLFaceRecognitionAddon.OTMLFaceRecognitionComponent",
+                "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)init",
+            "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentCACycfc",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent",
+        "mangledName": "$s24OTMLFaceRecognitionAddon0aB9ComponentC",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)OTMLComponent",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "OTML.OTMLComponent",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreVideo",
+        "printedName": "CoreVideo",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTMLFaceRecognitionAddon"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIUtilities",
+        "printedName": "UIUtilities",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "addCircle",
+            "printedName": "addCircle(atPoint:to:color:radius:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:24OTMLFaceRecognitionAddon11UIUtilitiesC9addCircle7atPoint2to5color6radiusySo7CGPointV_So6UIViewCSo7UIColorC14CoreFoundation7CGFloatVtFZ",
+            "mangledName": "$s24OTMLFaceRecognitionAddon11UIUtilitiesC9addCircle7atPoint2to5color6radiusySo7CGPointV_So6UIViewCSo7UIColorC12CoreGraphics7CGFloatVtFZ",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addRectangle",
+            "printedName": "addRectangle(_:to:color:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:24OTMLFaceRecognitionAddon11UIUtilitiesC12addRectangle_2to5colorySo6CGRectV_So6UIViewCSo7UIColorCtFZ",
+            "mangledName": "$s24OTMLFaceRecognitionAddon11UIUtilitiesC12addRectangle_2to5colorySo6CGRectV_So6UIViewCSo7UIColorCtFZ",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createUIImage",
+            "printedName": "createUIImage(from:orientation:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CVBuffer",
+                "printedName": "CoreVideo.CVBuffer",
+                "usr": "c:@T@CVBufferRef"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Orientation",
+                "printedName": "UIKit.UIImage.Orientation",
+                "usr": "c:@E@UIImageOrientation"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:24OTMLFaceRecognitionAddon11UIUtilitiesC13createUIImage4from11orientationSo0F0CSgSo11CVBufferRefa_So0F11OrientationVtFZ",
+            "mangledName": "$s24OTMLFaceRecognitionAddon11UIUtilitiesC13createUIImage4from11orientationSo0F0CSgSo11CVBufferRefa_So0F11OrientationVtFZ",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "imageOrientation",
+            "printedName": "imageOrientation(fromDevicePosition:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Orientation",
+                "printedName": "UIKit.UIImage.Orientation",
+                "usr": "c:@E@UIImageOrientation"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Position",
+                "printedName": "AVFoundation.AVCaptureDevice.Position",
+                "hasDefaultArg": true,
+                "usr": "c:@E@AVCaptureDevicePosition"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:24OTMLFaceRecognitionAddon11UIUtilitiesC16imageOrientation18fromDevicePositionSo07UIImageF0VSo09AVCapturehI0V_tFZ",
+            "mangledName": "$s24OTMLFaceRecognitionAddon11UIUtilitiesC16imageOrientation18fromDevicePositionSo07UIImageF0VSo09AVCapturehI0V_tFZ",
+            "moduleName": "OTMLFaceRecognitionAddon",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:24OTMLFaceRecognitionAddon11UIUtilitiesC",
+        "mangledName": "$s24OTMLFaceRecognitionAddon11UIUtilitiesC",
+        "moduleName": "OTMLFaceRecognitionAddon",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "kind": "StringLiteral",
+      "offset": 253,
+      "length": 13,
+      "value": "\"otml_device\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 20,
+      "value": "\"is_mlkit_supported\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7129,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7457,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7500,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7535,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "Array",
+      "offset": 7571,
+      "length": 44,
+      "value": "[30.0, 20.0, 10.0, 0.0, 10.0, 20.0, 30.0]"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "Array",
+      "offset": 7650,
+      "length": 79,
+      "value": "[[20.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 20.0]]"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 3763,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 3810,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 3853,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 3907,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 3959,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 4003,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4040,
+      "length": 1,
+      "value": "4"
+    }
+  ]
+}
