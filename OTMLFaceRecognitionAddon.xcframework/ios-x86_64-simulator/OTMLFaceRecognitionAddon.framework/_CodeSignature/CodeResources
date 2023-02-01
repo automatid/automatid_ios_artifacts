@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pvbBZey466ooDfJD/GHAvWfHWlk=
+		ocbCNMbUbmpquaDBXg+QVxFyWeY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pvbBZey466ooDfJD/GHAvWfHWlk=
+			ocbCNMbUbmpquaDBXg+QVxFyWeY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4g8uMoZAlldMmNhgu48smMT7Gb0pNKARt4K3VuT1Ojw=
+			vTTZb82pDo5jS//xoteCrbOb9fR9GUjr10pHRt1go4A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
