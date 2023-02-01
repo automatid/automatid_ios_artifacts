@@ -8,7 +8,6 @@
 
 #import "OTMLActionCommandSet.h"
 #import "OTMLActionCommandWithTriggerResult.h"
-#import <TOCropViewController/TOCropViewController.h>
 
 
 @interface OTMLNativeBridgeCommand : OTMLActionCommandSet
@@ -43,7 +42,7 @@
 @end
 @interface OTMLOpenPhonebookCommand : OTMLActionCommand
 @end
-@interface OTMLOpenEditPhotoCommand : OTMLActionCommandWithTriggerResult <TOCropViewControllerDelegate>
+@interface OTMLOpenEditPhotoCommand : OTMLActionCommandWithTriggerResult
 @end
 
 @interface OTMLIsNotificationInNotificationCenterCommand : OTMLActionCommand
