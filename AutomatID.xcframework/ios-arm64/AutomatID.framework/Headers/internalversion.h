@@ -1,1 +1,0 @@
-#define OT_INTERNAL_VERSION @"1"
