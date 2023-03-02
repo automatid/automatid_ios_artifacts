@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NFCPassportReader-Swift.h</key>
 		<data>
-		NrOr8rZVtX92ZjSBMkhKqbaW+VY=
+		GonVIa3Mkj4QP3O3eJBz3EHU+Ko=
 		</data>
 		<key>Headers/NFCPassportReader-umbrella.h</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h17KWoiwJeCY4Eb12vjLPkT8TYw=
+		OR+WL/ALYv3ezmqt/JNzlBVLurE=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wxm3eMVhL2CKg5U/fD9dHc/sFJc=
+		sZznXke4y9SXnqDt/GJY0RSxG3o=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		h17KWoiwJeCY4Eb12vjLPkT8TYw=
+		OR+WL/ALYv3ezmqt/JNzlBVLurE=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EDzGggPjRMHr/6U4zOR76XYgGo8=
+		a3s3Stq2Ltzro+uACHvKJuS1Pes=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UODKhruYfOIeMAP7P7ME2FFP2Wr3nYAsBM7GSoqJYk4=
+			tJdT0MkodrTUAgujeBrLn8t2i+EmS/CCseKUHb+rP1g=
 			</data>
 		</dict>
 		<key>Headers/NFCPassportReader-umbrella.h</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJmkpiHXZ0pZNfoHbgzPUupgdaTc68o5oUWoLj/xZBI=
+			LHYeQHfJB7THlpd7F9EboK5/kurfOIeCOstWg9XdeuA=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EWFyskkXD+OYW7yB1O9Ka5a12sCijm/DEKWU9YTyPhA=
+			TpHcL/f+KFus3EEgR1en2IsZLQN7mDkSRUkBw4woj6U=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJmkpiHXZ0pZNfoHbgzPUupgdaTc68o5oUWoLj/xZBI=
+			LHYeQHfJB7THlpd7F9EboK5/kurfOIeCOstWg9XdeuA=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bpPo4ZRm8XNwe/fFNWHaQ9mZ26fwuPtAO3ARJ/qtRIs=
+			LiJjvUgO5RhI6VUavqjfdYwywMC8kBX75Rcip8qXLJc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
