@@ -4,9 +4,9 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import CoreNFC
 import Foundation
-import NFCPassportReader
 import OTML
 @_exported import OTMLNfcDocumentReaderModule
+import OTNFCPassportReader
 import Swift
 import UIKit
 import _Concurrency

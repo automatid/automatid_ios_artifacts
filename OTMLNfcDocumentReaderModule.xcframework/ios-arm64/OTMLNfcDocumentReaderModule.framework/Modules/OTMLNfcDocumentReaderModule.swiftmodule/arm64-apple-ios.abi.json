@@ -298,8 +298,8 @@
       },
       {
         "kind": "Import",
-        "name": "NFCPassportReader",
-        "printedName": "NFCPassportReader",
+        "name": "OTNFCPassportReader",
+        "printedName": "OTNFCPassportReader",
         "declKind": "Import",
         "moduleName": "OTMLNfcDocumentReaderModule"
       },
