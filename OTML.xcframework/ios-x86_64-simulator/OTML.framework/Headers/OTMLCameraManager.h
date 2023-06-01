@@ -26,7 +26,7 @@
 -(void)mountPreviewInView:(UIView*)aView;
 -(void)startCapture;
 -(void)stopCapture;
-
+-(void)stopCaptureButNotPreview;
 
 
 //generic

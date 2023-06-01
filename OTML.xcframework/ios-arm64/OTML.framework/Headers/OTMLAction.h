@@ -8,7 +8,7 @@
 
 
 
-#import <OTMLModels/TBXML+Unescape.h>
+#import <OTMLModels/OTTBXMLUnescaper.h>
 #import "OTMLNewCondition.h"
 #import "OTMLDatasource.h"
 

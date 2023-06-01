@@ -7,7 +7,7 @@
 //
 
 
-#import <OTMLModels/TBXML+Unescape.h>
+#import <OTMLModels/OTTBXMLUnescaper.h>
 
 @interface OTMLUpdateSection : NSObject
 

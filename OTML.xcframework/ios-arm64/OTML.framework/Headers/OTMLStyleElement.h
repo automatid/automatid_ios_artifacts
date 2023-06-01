@@ -7,7 +7,7 @@
 //
 
 #import <OTMLModels/OTMLComponentModel.h>
-#import <OTMLModels/TBXML+Unescape.h>
+#import <OTMLModels/OTTBXMLUnescaper.h>
 
 
 typedef enum {
