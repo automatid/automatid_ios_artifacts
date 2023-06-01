@@ -6,7 +6,7 @@
 //  Copyright (c) 2012-2020 opentech.com. All rights reserved.
 //
 
-#import <OTMLModels/TBXML+Unescape.h>
+#import <OTMLModels/OTTBXMLUnescaper.h>
 
 @interface MPTBXMLUtil : NSObject
 

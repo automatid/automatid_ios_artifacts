@@ -1,14 +1,17 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name OTMLMRZReaderAddon
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
+import Accelerate
 import Foundation
 import GPUImage
+import MLKitTextRecognition
+import MLKitVision
 @_exported import OTMLMRZReaderAddon
 import Swift
-import TesseractOCRSDKiOS
 import UIKit
+import Vision
 import _Concurrency
 import _StringProcessing
 @_inheritsConvenienceInitializers @objc(MRZModel) open class MRZModel : ObjectiveC.NSObject {
@@ -30,6 +33,10 @@ import _StringProcessing
     @objc get
   }
   @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(MRZFrenchIdCard) open class MRZFrenchIdCard : OTMLMRZReaderAddon.MRZParser {
+  @objc override public init(scan: Swift.String, debug: Swift.Bool = false)
   @objc deinit
 }
 @objc(MRZParser) open class MRZParser : ObjectiveC.NSObject {
@@ -59,16 +66,15 @@ import _StringProcessing
     get
   }
 }
-@_inheritsConvenienceInitializers @objc(PassportScanner) open class PassportScanner : ObjectiveC.NSObject, TesseractOCRSDKiOS.MGTesseractDelegate {
+@_inheritsConvenienceInitializers @objc(PassportScanner) open class PassportScanner : ObjectiveC.NSObject {
   @objc public var debug: Swift.Bool
   @objc public var accuracy: Swift.Float
   @objc public var mrzType: OTMLMRZReaderAddon.MRZType
   @objc public var tesseractTrainedDataAbsolutePath: Swift.String?
   @objc public var setupCompleted: Swift.Bool
   @objc public func setup()
-  @objc open func preprocessedImage(for tesseract: TesseractOCRSDKiOS.MGTesseract!, sourceImage: UIKit.UIImage!) -> UIKit.UIImage!
-  @objc public func parseImage(sourceImage: UIKit.UIImage) -> OTMLMRZReaderAddon.MRZModel!
-  open func doOCR(image: UIKit.UIImage) -> Swift.String
+  @objc public func clarify(sourceImage: UIKit.UIImage) -> UIKit.UIImage
+  @objc public func completionedParseImage(sourceImage: UIKit.UIImage, completion: @escaping (OTMLMRZReaderAddon.MRZModel?) -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit
 }

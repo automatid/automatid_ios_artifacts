@@ -1153,109 +1153,606 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 13,
       "value": "\"otml_device\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 20,
       "value": "\"is_mlkit_supported\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "kind": "StringLiteral",
+      "offset": 1458,
+      "length": 6,
+      "value": "\"true\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "kind": "StringLiteral",
+      "offset": 1612,
+      "length": 7,
+      "value": "\"false\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1442,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1665,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3251,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 3675,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 3987,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 4299,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 4611,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 4923,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 5235,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 5547,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 5859,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 6430,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7129,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7457,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7500,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7535,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
       "offset": 7571,
       "length": 44,
-      "value": "[30.0, 20.0, 10.0, 0.0, 10.0, 20.0, 30.0]"
+      "value": "[-30.0, -20.0, -10.0, 0.0, 10.0, 20.0, 30.0]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
       "offset": 7650,
       "length": 79,
       "value": "[[20.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 20.0]]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9546,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9633,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10628,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10703,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10726,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12674,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12770,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13105,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 13462,
+      "length": 36,
+      "value": "\"no image frame from camera Manager\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13662,
+      "length": 3,
+      "value": "270"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13868,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13874,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14188,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15316,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15361,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15638,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15661,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15812,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16250,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 16433,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 16584,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16817,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 17063,
+      "length": 3,
+      "value": "\";\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17085,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 17437,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 17910,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18167,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "Array",
+      "offset": 18241,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 18672,
+      "length": 4,
+      "value": "-5.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 18679,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 18719,
+      "length": 4,
+      "value": "-5.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 18726,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18963,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19375,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19586,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19691,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19796,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19901,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20006,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20111,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20216,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21775,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21906,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22037,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22168,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22299,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22430,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22561,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23511,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 24257,
+      "length": 67,
+      "value": "\"Failed to detect faces with error: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 24322,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 24405,
+      "length": 46,
+      "value": "\"On-Device face detector returned no results.\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "FloatLiteral",
+      "offset": 392,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3763,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3810,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3853,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3907,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3959,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 4003,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "IntegerLiteral",
       "offset": 4040,
       "length": 1,
       "value": "4"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4284,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4298,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4320,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4336,
+      "length": 1,
+      "value": "0"
     }
   ]
 }

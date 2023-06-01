@@ -1430,137 +1430,872 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
       "kind": "Array",
       "offset": 354,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
       "kind": "BooleanLiteral",
       "offset": 388,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "Array",
+      "offset": 800,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 834,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 915,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1134,
+      "length": 129,
+      "value": "\"Adding to blacklist a rule with JSONPATH: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1193,
+      "length": 3,
+      "value": "\" and VALUE: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1218,
+      "length": 3,
+      "value": "\" and ID: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1237,
+      "length": 3,
+      "value": "\" and TIMER: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1262,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1290,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "FloatLiteral",
+      "offset": 1379,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1691,
+      "length": 78,
+      "value": "\"Removing from blacklist a rule with ID: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1737,
+      "length": 1,
+      "value": "\", blacklist is now \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 1768,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1921,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1947,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2103,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2398,
+      "length": 140,
+      "value": "\"Push notification blacklisted by rule with JSONPATH: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2468,
+      "length": 3,
+      "value": "\" and VALUE: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2493,
+      "length": 3,
+      "value": "\" and ID: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2512,
+      "length": 3,
+      "value": "\" and TIMER: \""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 2537,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2567,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2638,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
       "kind": "StringLiteral",
       "offset": 2834,
       "length": 33,
       "value": "\"OTML.OTMLPushNotificationActionCommand\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "kind": "StringLiteral",
+      "offset": 4947,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 693,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 734,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 780,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 837,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 875,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 915,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 963,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1002,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1090,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1150,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1200,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1259,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1310,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1360,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/OTSCIWS\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1962,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2097,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2249,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2382,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2505,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2636,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2797,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 2947,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 3116,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 3268,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 3418,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3637,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3697,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3732,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3793,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4202,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4240,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4506,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5789,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5832,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5892,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5927,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5988,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6633,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7257,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7284,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7410,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7753,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7918,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 8991,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 9500,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9588,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9646,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9896,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9934,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10735,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 10818,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10872,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11501,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11539,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11663,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12133,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12209,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12221,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12999,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13151,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13189,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13521,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13563,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13612,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13624,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 14328,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14370,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14486,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14524,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14607,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14638,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 143,
       "length": 25,
       "value": "\"OTML.OTMLSliderButtonComponent\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 339,
+      "length": 3,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 432,
+      "length": 3,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 464,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 547,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 555,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 636,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 644,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 757,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 770,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 804,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 816,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 869,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 881,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 934,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1073,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1080,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1170,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1177,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1218,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1232,
+      "length": 1,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1248,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/OT_Networking\/NSURLSession based\/OTMLNetworkLayerWrapper\/OTMPNetworkHmacSupporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1351,
+      "length": 3,
+      "value": "\"&\""
     }
   ]
 }

@@ -206,6 +206,7 @@
 #import "OTMLStatefulComponent.h"
 #import "ModelMacros.h"
 #import "OTMLModelFactoriesConfigurator.h"
+#import "OTTBXMLUnescaper.h"
 #import "TBXML+Unescape.h"
 #import "OTMLModels.OTVersion.h"
 
