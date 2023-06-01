@@ -449,630 +449,630 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanActionReceiver.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanActionReceiver.swift",
       "kind": "BooleanLiteral",
       "offset": 1753,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanActionReceiver.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanActionReceiver.swift",
       "kind": "BooleanLiteral",
       "offset": 2256,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 562,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 15,
       "value": "\"target is nil\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 873,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 1023,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 1179,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 2368,
       "length": 5,
       "value": "\"⬜\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 2529,
       "length": 6,
       "value": "\"🟦\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 2836,
       "length": 18,
       "value": "\"reading passport\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3223,
       "length": 48,
       "value": "\"Hold your iPhone near an NFC enabled document.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3439,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3608,
       "length": 176,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3731,
       "length": 30,
       "value": "\"Authenticating with document\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3762,
       "length": 1,
       "value": "\"\n\n\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 3783,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4047,
       "length": 153,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4168,
       "length": 9,
       "value": "\"Reading\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4178,
       "length": 1,
       "value": "\"\n\n\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4199,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4510,
       "length": 16,
       "value": "\"Tag not valid.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 4777,
       "length": 56,
       "value": "\"More than 1 tags was found. Please present only 1 tag.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 5067,
       "length": 37,
       "value": "\"Connection error. Please try again.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 5341,
       "length": 38,
       "value": "\"MRZ Key not valid for this document.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 5545,
       "length": 21,
       "value": "\"Tag connection lost\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 5716,
       "length": 37,
       "value": "\"An error occured. Please try again.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 5932,
       "length": 37,
       "value": "\"An error occured. Please try again.\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 6287,
       "length": 67,
       "value": "\"Sorry, there was a problem reading the document. Please try again\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 6553,
       "length": 28,
       "value": "\"Document read successfully\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "Array",
       "offset": 7600,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 7644,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 8198,
       "length": 8,
       "value": "\"Failed\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 8379,
       "length": 8,
       "value": "\"Failed\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 8560,
       "length": 8,
       "value": "\"Failed\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "FloatLiteral",
       "offset": 8787,
       "length": 3,
       "value": "0.9"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 8929,
       "length": 6,
       "value": "\"B64:\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "BooleanLiteral",
       "offset": 9485,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 9642,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "Dictionary",
       "offset": 9734,
       "length": 38,
       "value": "[(\"nfc_document_read_result\", \"success\")]"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 10076,
       "length": 13,
       "value": "\"TagNotValid\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 10279,
       "length": 21,
       "value": "\"MoreThanOneTagFound\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 10486,
       "length": 17,
       "value": "\"ConnectionError\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 10687,
       "length": 15,
       "value": "\"InvalidMRZKey\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 10886,
       "length": 14,
       "value": "\"GenericError\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 11084,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "Dictionary",
       "offset": 11155,
       "length": 39,
       "value": "[(\"nfc_document_read_result\", \"canceled\")]"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 11352,
       "length": 14,
       "value": "\"GenericError\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 11492,
       "length": 30,
       "value": "\"nfc_document_read_error_type\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 11555,
       "length": 9,
       "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 11746,
       "length": 16,
       "value": "\"NoNFCAvailable\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 11965,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12006,
       "length": 15,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12019,
       "length": 12,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12071,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12085,
       "length": 14,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 12096,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12116,
       "length": 17,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12124,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12132,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 12536,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 12587,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 12639,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12854,
       "length": 80,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12863,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12882,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12888,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12908,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12914,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 12933,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 13154,
       "length": 3,
       "value": "\"<\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "Dictionary",
       "offset": 13332,
       "length": 443,
       "value": "[(\"0\", \"0\"), (\"1\", \"1\"), (\"2\", \"2\"), (\"3\", \"3\"), (\"4\", \"4\"), (\"5\", \"5\"), (\"6\", \"6\"), (\"7\", \"7\"), (\"8\", \"8\"), (\"9\", \"9\"), (\"<\", \"0\"), (\" \", \"0\"), (\"A\", \"10\"), (\"B\", \"11\"), (\"C\", \"12\"), (\"D\", \"13\"), (\"E\", \"14\"), (\"F\", \"15\"), (\"G\", \"16\"), (\"H\", \"17\"), (\"I\", \"18\"), (\"J\", \"19\"), (\"K\", \"20\"), (\"L\", \"21\"), (\"M\", \"22\"), (\"N\", \"23\"), (\"O\", \"24\"), (\"P\", \"25\"), (\"Q\", \"26\"), (\"R\", \"27\"), (\"S\", \"28\"), (\"T\", \"29\"), (\"U\", \"30\"), (\"V\", \"31\"), (\"W\", \"32\"), (\"X\", \"33\"), (\"Y\", \"34\"), (\"Z\", \"35\")]"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 13803,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 13821,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "Array",
       "offset": 13857,
       "length": 9,
       "value": "[7, 3, 1]"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 13943,
       "length": 6,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 13948,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 14007,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 14107,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 14112,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 14155,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 15771,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 15879,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 16223,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 16340,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 16549,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 16731,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 17758,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "IntegerLiteral",
       "offset": 17946,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 19041,
       "length": 32,
       "value": "\"addEventErrorDescriptionSwift:\""
     },
     {
-      "filePath": "\/Users\/alessio\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
       "kind": "StringLiteral",
       "offset": 19271,
       "length": 13,

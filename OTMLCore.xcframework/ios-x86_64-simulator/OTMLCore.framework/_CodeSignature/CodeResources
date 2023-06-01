@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/OTMLCore.OTVersion.h</key>
 		<data>
-		GL5LZpYh9OJ5FcQlLyMEsizW+LM=
+		jG/aOlsXl96ZFWiWxuerAkK2TxY=
 		</data>
 		<key>Headers/OTMLCore.h</key>
 		<data>
@@ -270,11 +270,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5MHye6p80eJFvoGHMGOibpiMlbk=
+		KLBjL/vWfLBb9nnTQZD9wqjpCUA=
 		</data>
 		<key>Modules/OTMLCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		o+d7qlpEt+xAEfpe928mkz+0Fto=
+		ONzUS/u9GqGKa8FVUUP4oMnR+tk=
 		</data>
 		<key>Modules/OTMLCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -290,7 +290,7 @@
 		</data>
 		<key>Modules/OTMLCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q8ao2PoAkHf0yJBNwMV2cFAE9zs=
+		8AiPZREBCTT46U7XWUKTLh/pSls=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -479,11 +479,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GL5LZpYh9OJ5FcQlLyMEsizW+LM=
+			jG/aOlsXl96ZFWiWxuerAkK2TxY=
 			</data>
 			<key>hash2</key>
 			<data>
-			dTO3kJTEjQ6ukixXA2txWUv1yhbWeVyQztprTdsTTcc=
+			ngUy4bIEUU2H6nyGHRz9lPSsfqXeccFPaXJ7B1q0YPY=
 			</data>
 		</dict>
 		<key>Headers/OTMLCore.h</key>
@@ -1029,11 +1029,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o+d7qlpEt+xAEfpe928mkz+0Fto=
+			ONzUS/u9GqGKa8FVUUP4oMnR+tk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pr/yjRsN5JiqbTnCRkUxcXfI+IBVYX+ctYFvAyx6JTA=
+			7SGXgrVH/SDvPYHWaninMxOnLsNvTOBjuoJpcMlnQ3M=
 			</data>
 		</dict>
 		<key>Modules/OTMLCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1073,11 +1073,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q8ao2PoAkHf0yJBNwMV2cFAE9zs=
+			8AiPZREBCTT46U7XWUKTLh/pSls=
 			</data>
 			<key>hash2</key>
 			<data>
-			ahqyNyc9206ze0hjEgBFEsLVfRMRV5okYSS0S+Q23Ng=
+			JruEhJ0CYlwjquYKLX7xc1RMdCV5HtcVfYLv/2g6Rto=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

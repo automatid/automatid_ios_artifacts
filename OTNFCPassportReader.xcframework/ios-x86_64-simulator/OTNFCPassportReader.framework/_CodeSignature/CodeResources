@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ybY1FOgj4Hnhov0qGtoEXGo+EoE=
+		c3Kixzzpnzx+ok/5ISluEwOL/2I=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		j3EcP+V4L7oZS7DWdKbKJkmlktI=
+		Qc6ZCGdhAHjbCMS2H/XuUHVZkGQ=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YWCNC4SgMOcB3uWmClhAp1bBtFU=
+		2zgV8m4qlW/YMXUKJqxzf957wcE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,11 +69,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j3EcP+V4L7oZS7DWdKbKJkmlktI=
+			Qc6ZCGdhAHjbCMS2H/XuUHVZkGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6zn/+u2sfNhy/BH4mja89syBiveebrrlWjv1coRBKT8=
+			CoO1MVDWlaemm0DPzxr1Kghrz28hncLMvmlhn7qtRuM=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YWCNC4SgMOcB3uWmClhAp1bBtFU=
+			2zgV8m4qlW/YMXUKJqxzf957wcE=
 			</data>
 			<key>hash2</key>
 			<data>
-			niqtuWMUXPpkPezDo8DIPOS5q57KwcerYwjJ+4CGzck=
+			ZTX83ocL06YA8XHNr9gW7j+wXW5bd+7mAjX1E8FtAi4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

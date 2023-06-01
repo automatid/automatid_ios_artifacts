@@ -14,6 +14,10 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+@_inheritsConvenienceInitializers @objc(MRZFrenchIdCard) open class MRZFrenchIdCard : OTMLMRZReaderAddon.MRZParser {
+  @objc override public init(scan: Swift.String, debug: Swift.Bool = false)
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @objc(MRZModel) open class MRZModel : ObjectiveC.NSObject {
   @objc public var documentType: Swift.String
   @objc public var documentSubType: Swift.String
@@ -33,10 +37,6 @@ import _StringProcessing
     @objc get
   }
   @objc override dynamic public init()
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @objc(MRZFrenchIdCard) open class MRZFrenchIdCard : OTMLMRZReaderAddon.MRZParser {
-  @objc override public init(scan: Swift.String, debug: Swift.Bool = false)
   @objc deinit
 }
 @objc(MRZParser) open class MRZParser : ObjectiveC.NSObject {
