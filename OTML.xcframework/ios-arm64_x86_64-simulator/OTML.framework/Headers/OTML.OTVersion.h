@@ -1,1 +1,1 @@
-#define OTML_version @"b'ac1b05ab2'" //short git version of following full git version b'ac1b05ab2b88fee7c3a3367eb9b43a73eb152156'
+#define OTML_version @"b'51a04938b'" //short git version of following full git version b'51a04938b9754b3221923749d39e3b6697bfe0c4'
