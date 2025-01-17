@@ -1,0 +1,11 @@
+framework module OTNFCPassportReader {
+  umbrella header "OTNFCPassportReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTNFCPassportReader.Swift {
+  header "OTNFCPassportReader-Swift.h"
+  requires objc
+}

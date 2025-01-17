@@ -1,0 +1,25 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name OTMLNfcDocumentReaderModule
+import Foundation
+import OTML
+@_exported import OTMLNfcDocumentReaderModule
+import OTNFCPassportReader
+import Swift
+import UIKit
+import _Concurrency
+import _CoreNFC_UIKit
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTNFCDRScanActionReceiver : ObjectiveC.NSObject, OTML.OTMLCustomActionResolver {
+  @objc public func actionCommand(from aResolvedAction: OTML.OTMLResolvedAction!) -> OTML.OTMLActionCommand!
+  @objc public func canResolve(_ aParameter: OTML.OTMLParameter!) -> Swift.Bool
+  @objc public func resolve(_ aParameter: OTML.OTMLParameter!) -> OTML.OTMLParameterEntry!
+  @objc public func hasNFC() -> Swift.Bool
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class OTNFCDRScanDocumentAction : OTML.OTMLActionCommand {
+  @objc override dynamic public func execute(_ aAction: OTML.OTMLResolvedAction!, on aNestingVC: OTML.OTMLViewController!)
+  @objc deinit
+}
