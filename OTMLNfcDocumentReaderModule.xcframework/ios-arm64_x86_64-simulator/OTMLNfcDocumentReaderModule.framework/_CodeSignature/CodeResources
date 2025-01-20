@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/OTMLNfcDocumentReaderModule.OTVersion.h</key>
 		<data>
-		9T+Gq+id27Y7HmGRMfdXMCGAYe4=
+		InrVmiTHp/CdOu1jnmpUOL/7H1o=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -108,11 +108,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9T+Gq+id27Y7HmGRMfdXMCGAYe4=
+			InrVmiTHp/CdOu1jnmpUOL/7H1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			5XzLppJV6ezcW9M/WZdu3UV3AViWEiiWq8SZ6B2X72w=
+			3RJ0YYGLWJRhEoucztpdnrgjtAo1bENKljPcCh2JnHI=
 			</data>
 		</dict>
 		<key>Modules/OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
