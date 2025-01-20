@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/OTMLFaceRecognitionAddon.OTVersion.h</key>
 		<data>
-		aTIyE1SfXDXHMI0enp/xOkTxudQ=
+		zsE3fDkWvYQPH68Ln91irDFoa68=
 		</data>
 		<key>Headers/OTMLFaceRecognitionDebugMode.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		I9CNQTYtkCqSEn0885BlEnriDqg=
+		zoDr5bBZHvCgJRtsRnyuTaR2tsk=
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aTIyE1SfXDXHMI0enp/xOkTxudQ=
+			zsE3fDkWvYQPH68Ln91irDFoa68=
 			</data>
 			<key>hash2</key>
 			<data>
-			HiOarAE5S7w310uGPCHaNHHQ7WLAWqBfVB/wMDO9ENA=
+			cdDnWI+lm5OFoZmUtRLNBCVglA3ByxVsNl+jGr8xGjY=
 			</data>
 		</dict>
 		<key>Headers/OTMLFaceRecognitionDebugMode.h</key>

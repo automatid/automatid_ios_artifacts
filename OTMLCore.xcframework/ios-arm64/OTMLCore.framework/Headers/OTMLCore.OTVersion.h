@@ -1,1 +1,1 @@
-#define OTMLCore_version @"b'735ef29'" //short git version of following full git version b'735ef290d1a7bd3075df4731396bee69d5daf169'
+#define OTMLCore_version @"b'a2cff6c'" //short git version of following full git version b'a2cff6cd58cca4021cb8f9fc220b4e187cde70f3'
