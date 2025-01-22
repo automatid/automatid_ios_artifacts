@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/OTMLFaceRecognitionAddon.OTVersion.h</key>
 		<data>
-		7VhejdhDsnr/dZAVGLyNMtYeSjw=
+		xdaqkTdOy8rwm6zswU91QFH5qq0=
 		</data>
 		<key>Headers/OTMLFaceRecognitionDebugMode.h</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Headers/ProjectConfigurationOTMLFaceRecognitionAddon.h</key>
 		<data>
-		7edUmfAHOiJWpHILDGlMsPkhCDA=
+		QedOMrKkvs3U8GmJc7xD9g+8nTE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zoDr5bBZHvCgJRtsRnyuTaR2tsk=
+		gs8wv+Tv3uDGnpe4WOG6jqB0tZg=
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		N9N/BQuswFTcWeJau2EwYOnuR8Y=
+		e/yqQjm9vDpu9XHMJlpZWU7ANm4=
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		N9N/BQuswFTcWeJau2EwYOnuR8Y=
+		e/yqQjm9vDpu9XHMJlpZWU7ANm4=
 		</data>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7VhejdhDsnr/dZAVGLyNMtYeSjw=
+			xdaqkTdOy8rwm6zswU91QFH5qq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			CCc8ihqCrH/kn8ZO/F+L270Upe1GB0ooT+x9ufGo5yA=
+			XPiIYx5fc6WPmdI0heDSw2kipFyAqez1XOcbfJFZC1Y=
 			</data>
 		</dict>
 		<key>Headers/OTMLFaceRecognitionDebugMode.h</key>
@@ -168,22 +168,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7edUmfAHOiJWpHILDGlMsPkhCDA=
+			QedOMrKkvs3U8GmJc7xD9g+8nTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			yZ4IZ0qmiDAgJf8GKoxnbBwciU1Y4iEw7u1ZZGi1qKs=
+			dTBkn2aU+pyA2Zd490wPYM4ixV3uBjII1J0N3nbBbfc=
 			</data>
 		</dict>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N9N/BQuswFTcWeJau2EwYOnuR8Y=
+			e/yqQjm9vDpu9XHMJlpZWU7ANm4=
 			</data>
 			<key>hash2</key>
 			<data>
-			bJbbx0yRBZrcZm3lS0dvMuVGAEsjCDY6m/w3hVuoy2s=
+			yGybIkVRWFo+YDxpWHpg261+rTytiVQr54eFjb4QfI0=
 			</data>
 		</dict>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -234,11 +234,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N9N/BQuswFTcWeJau2EwYOnuR8Y=
+			e/yqQjm9vDpu9XHMJlpZWU7ANm4=
 			</data>
 			<key>hash2</key>
 			<data>
-			bJbbx0yRBZrcZm3lS0dvMuVGAEsjCDY6m/w3hVuoy2s=
+			yGybIkVRWFo+YDxpWHpg261+rTytiVQr54eFjb4QfI0=
 			</data>
 		</dict>
 		<key>Modules/OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

@@ -3620,280 +3620,280 @@
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10099,
+      "offset": 10493,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 10925,
+      "offset": 11319,
       "length": 4,
       "value": "\"L1\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10969,
+      "offset": 11363,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11015,
+      "offset": 11409,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11058,
+      "offset": 11452,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11096,
+      "offset": 11490,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 11132,
+      "offset": 11526,
       "length": 4,
       "value": "\"L2\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11176,
+      "offset": 11570,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
-      "offset": 11222,
+      "offset": 11616,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
-      "offset": 11267,
+      "offset": 11661,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11307,
+      "offset": 11701,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 11343,
+      "offset": 11737,
       "length": 4,
       "value": "\"L3\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11387,
+      "offset": 11781,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11433,
+      "offset": 11827,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11476,
+      "offset": 11870,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11515,
+      "offset": 11909,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 11551,
+      "offset": 11945,
       "length": 4,
       "value": "\"L4\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11595,
+      "offset": 11989,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11641,
+      "offset": 12035,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11685,
+      "offset": 12079,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11723,
+      "offset": 12117,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 11759,
+      "offset": 12153,
       "length": 4,
       "value": "\"E1\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11803,
+      "offset": 12197,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11847,
+      "offset": 12241,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11890,
+      "offset": 12284,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 11928,
+      "offset": 12322,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 11964,
+      "offset": 12358,
       "length": 4,
       "value": "\"E2\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12008,
+      "offset": 12402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12052,
+      "offset": 12446,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12095,
+      "offset": 12489,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
-      "offset": 12133,
+      "offset": 12527,
       "length": 3,
       "value": "2.2"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
-      "offset": 12171,
+      "offset": 12565,
       "length": 4,
       "value": "\"E3\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12215,
+      "offset": 12609,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12259,
+      "offset": 12653,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12302,
+      "offset": 12696,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12340,
+      "offset": 12734,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
-      "offset": 12344,
+      "offset": 12738,
       "length": 3,
       "value": "2.2"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12456,
+      "offset": 12850,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12481,
+      "offset": 12875,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
-      "offset": 12485,
+      "offset": 12879,
       "length": 1,
       "value": "3"
     }

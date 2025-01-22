@@ -3,6 +3,6 @@
 #ifndef ProjectConfigurationOTMLFaceRecognitionAddon_h
 #define ProjectConfigurationOTMLFaceRecognitionAddon_h
 
-	#define OTML_FACE_RECOGNITION_DEBUG_ENABLED
+	#undef OTML_FACE_RECOGNITION_DEBUG_ENABLED
 
 #endif /* ProjectConfigurationOTMLFaceRecognitionAddon_h*/

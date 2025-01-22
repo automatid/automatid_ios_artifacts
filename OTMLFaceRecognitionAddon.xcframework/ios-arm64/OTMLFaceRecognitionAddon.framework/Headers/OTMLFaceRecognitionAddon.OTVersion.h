@@ -1,1 +1,1 @@
-#define OTMLFaceRecognitionAddon_version @"b'8768a1c'" //short git version of following full git version b'8768a1cdd57fea36c3dff083683f5eb043f24929'
+#define OTMLFaceRecognitionAddon_version @"b'5c4d836'" //short git version of following full git version b'5c4d8363e2c82fcdd834ffa4739f35faf53965c7'

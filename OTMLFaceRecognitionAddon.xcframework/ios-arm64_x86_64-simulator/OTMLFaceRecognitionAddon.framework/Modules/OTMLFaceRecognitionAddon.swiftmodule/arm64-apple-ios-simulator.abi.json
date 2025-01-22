@@ -1225,21 +1225,21 @@
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 32212,
+      "offset": 32251,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 32264,
+      "offset": 32303,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 32288,
+      "offset": 32327,
       "length": 1,
       "value": "0"
     },

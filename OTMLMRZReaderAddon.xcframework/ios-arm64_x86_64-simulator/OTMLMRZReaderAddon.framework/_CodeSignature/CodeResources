@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/OTMLMRZReaderAddon.OTVersion.h</key>
 		<data>
-		2eAXdVgOrNjzX/HQG5TWuPBkY8Y=
+		2JT9ZD9jTcxqJwtjiajleBFIUU8=
 		</data>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EwKMxOCiN+xMNMTVGTWxhSN85Cs=
+		2eGQIxZ38ImGqVysnnYDmap4q8k=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kj1qNYZFdcchGt1DrAAmYQsVHVw=
+		hw1dAdQnzkg4vivH7yC9Ub9WiUs=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kj1qNYZFdcchGt1DrAAmYQsVHVw=
+		hw1dAdQnzkg4vivH7yC9Ub9WiUs=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2eAXdVgOrNjzX/HQG5TWuPBkY8Y=
+			2JT9ZD9jTcxqJwtjiajleBFIUU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			aRhM+Lh4q8+GH4DayPWpGhhi/ktYVAyBUhfMnPGMIzo=
+			O0BoNiIFxL/PMcIYcPBrbrOt74skMuMK7GokN9n7CAc=
 			</data>
 		</dict>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
@@ -194,11 +194,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kj1qNYZFdcchGt1DrAAmYQsVHVw=
+			hw1dAdQnzkg4vivH7yC9Ub9WiUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			G3W2KnraoYgUHx8fQS4jffcfuXSDC2cKHH1QCj+WByw=
+			iLLk6aPKu9dewxyjCLZjVK2q4BTNRDM4YbPHdasbTaI=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -249,11 +249,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kj1qNYZFdcchGt1DrAAmYQsVHVw=
+			hw1dAdQnzkg4vivH7yC9Ub9WiUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			G3W2KnraoYgUHx8fQS4jffcfuXSDC2cKHH1QCj+WByw=
+			iLLk6aPKu9dewxyjCLZjVK2q4BTNRDM4YbPHdasbTaI=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
