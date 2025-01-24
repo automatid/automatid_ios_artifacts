@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "OTML",
+    "printedName": "OTML",
     "children": [
       {
         "kind": "Import",
@@ -245,6 +245,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -304,6 +318,22 @@
         "moduleName": "OTML",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -515,6 +545,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -665,6 +709,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -819,6 +877,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -904,6 +976,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -944,6 +1017,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -998,6 +1072,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1024,6 +1099,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1073,6 +1149,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1122,6 +1199,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1145,6 +1223,7 @@
             "mangledName": "$s4OTML25OTMLSliderButtonComponentC10createViewSo6UIViewCyF",
             "moduleName": "OTML",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "ObjC"
@@ -1186,6 +1265,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1214,6 +1294,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -1225,6 +1306,7 @@
         "mangledName": "$s4OTML25OTMLSliderButtonComponentC",
         "moduleName": "OTML",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjCMembers",
@@ -1236,6 +1318,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1284,6 +1380,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -1376,6 +1479,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1442,13 +1559,6 @@
       "offset": 388,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
-      "kind": "StringLiteral",
-      "offset": 2834,
-      "length": 33,
-      "value": "\"OTML.OTMLPushNotificationActionCommand\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
@@ -1557,10 +1667,339 @@
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3637,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3697,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3732,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3793,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4202,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4240,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4506,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5789,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5832,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5892,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5927,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5988,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6633,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7257,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7284,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7410,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7753,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7918,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 8991,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 143,
-      "length": 25,
-      "value": "\"OTML.OTMLSliderButtonComponent\""
+      "offset": 9500,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9588,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9646,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9896,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9934,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10735,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 10818,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10872,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11501,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11539,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11663,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12133,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12209,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12221,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12999,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13151,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13189,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13521,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13563,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13612,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13624,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 14328,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14370,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14486,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14524,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14607,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14638,
+      "length": 5,
+      "value": "false"
     }
   ]
 }

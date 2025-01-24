@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/OTMLMRZReaderAddon-Swift.h</key>
 		<data>
-		dOOTQf1k+dEXEka4iTRsLbM9Z8s=
+		ccnNB2WPHv7NRQqH/9axPeg8FbA=
 		</data>
 		<key>Headers/OTMLMRZReaderAddon-umbrella.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/OTMLMRZReaderAddon.OTVersion.h</key>
 		<data>
-		2JT9ZD9jTcxqJwtjiajleBFIUU8=
+		3mjYUeqdOsY0d1PUB2fBKKvPWtk=
 		</data>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
 		<data>
@@ -42,47 +42,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2eGQIxZ38ImGqVysnnYDmap4q8k=
+		Qe0KdGyb2Un04in5iysJ3Jfa9N8=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hw1dAdQnzkg4vivH7yC9Ub9WiUs=
+		tojM3iv2NzmzLt8WtwfJ+pkyGT0=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		z5TUyyFJdavNa6RtFJt67ojNii4=
+		3JuplkvphKIFmRXRVCrVcSv+S1I=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fQBK2iIusaTCrzZypkKDsp6K2D8=
+		SSHGbMpEYClJojeTURrAYobI/54=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		z5TUyyFJdavNa6RtFJt67ojNii4=
+		3JuplkvphKIFmRXRVCrVcSv+S1I=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Jq0CqLI3t4Gv+ldRzewuJ3EKz38=
+		zu46s8N20pPVh1vWQWseUIQ1rlw=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hw1dAdQnzkg4vivH7yC9Ub9WiUs=
+		tojM3iv2NzmzLt8WtwfJ+pkyGT0=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yZXr273mdJ2KvdoYDTBQdoeQtsI=
+		qOFffy0U3226w9UO1YLKni6Yl1U=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DtliCqXRPu5pC6B9yBZmfU9ULyo=
+		FPpLTEAZnGbeFOPt3H1T6+95nYs=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yZXr273mdJ2KvdoYDTBQdoeQtsI=
+		qOFffy0U3226w9UO1YLKni6Yl1U=
 		</data>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		alrad6m0pwuXKBoTxIpFSewgn2M=
+		wNndFagLLUy7DyqfC6HCFfFAfxs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dOOTQf1k+dEXEka4iTRsLbM9Z8s=
+			ccnNB2WPHv7NRQqH/9axPeg8FbA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4YSmD1U4UZ/Lk5co1ifT05pQxT8YB5izXYbptVTkv/E=
+			y41StFYZYlrnrIEU2jHgJnV7PC2n9BE7ISoXYP/Vujk=
 			</data>
 		</dict>
 		<key>Headers/OTMLMRZReaderAddon-umbrella.h</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2JT9ZD9jTcxqJwtjiajleBFIUU8=
+			3mjYUeqdOsY0d1PUB2fBKKvPWtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			O0BoNiIFxL/PMcIYcPBrbrOt74skMuMK7GokN9n7CAc=
+			o7PgoB00pPzMcjNMPCVNQPe2udyKG9vy3gA60R63OWw=
 			</data>
 		</dict>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
@@ -194,110 +194,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hw1dAdQnzkg4vivH7yC9Ub9WiUs=
+			tojM3iv2NzmzLt8WtwfJ+pkyGT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iLLk6aPKu9dewxyjCLZjVK2q4BTNRDM4YbPHdasbTaI=
+			pteS+pMv8sVREcsWfmi/367o6y8PuhvGjPby6AwHJLg=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z5TUyyFJdavNa6RtFJt67ojNii4=
+			3JuplkvphKIFmRXRVCrVcSv+S1I=
 			</data>
 			<key>hash2</key>
 			<data>
-			MamM4usLXStPWjuw/caYa7LDkGwrq9sUu40CUfHlM8U=
+			QlB1HXrtOAqPpqYLjzdLgjfyFpY0ixva7z7HVY46W2Y=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fQBK2iIusaTCrzZypkKDsp6K2D8=
+			SSHGbMpEYClJojeTURrAYobI/54=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q8tC8kbBOyQNfnSJdeTq6kFedCS9kuYuj+ylZt9OhTE=
+			bKC0n2DNMnFXXTLJxt66mCs7R1eE/6n3dyIWThPCkTA=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z5TUyyFJdavNa6RtFJt67ojNii4=
+			3JuplkvphKIFmRXRVCrVcSv+S1I=
 			</data>
 			<key>hash2</key>
 			<data>
-			MamM4usLXStPWjuw/caYa7LDkGwrq9sUu40CUfHlM8U=
+			QlB1HXrtOAqPpqYLjzdLgjfyFpY0ixva7z7HVY46W2Y=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jq0CqLI3t4Gv+ldRzewuJ3EKz38=
+			zu46s8N20pPVh1vWQWseUIQ1rlw=
 			</data>
 			<key>hash2</key>
 			<data>
-			E60AJ4QlLJAee076qPTW3u1FoljVSwbBaqWuq1SHGAw=
+			uts3dtUXimlYakHmqW9RnCp54bPteSR21tZ/4kxNhrE=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hw1dAdQnzkg4vivH7yC9Ub9WiUs=
+			tojM3iv2NzmzLt8WtwfJ+pkyGT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iLLk6aPKu9dewxyjCLZjVK2q4BTNRDM4YbPHdasbTaI=
+			pteS+pMv8sVREcsWfmi/367o6y8PuhvGjPby6AwHJLg=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yZXr273mdJ2KvdoYDTBQdoeQtsI=
+			qOFffy0U3226w9UO1YLKni6Yl1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			8G14ailbhiCfhXWdmSZrjG/WxouQ16EFbc6WxbMkLzs=
+			sdjyd5kz29eUCnU8voeWkh5suTPcU5Y4ryClreowwfE=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DtliCqXRPu5pC6B9yBZmfU9ULyo=
+			FPpLTEAZnGbeFOPt3H1T6+95nYs=
 			</data>
 			<key>hash2</key>
 			<data>
-			CGOyJscLB+z99wXUmwSWYR6qLhzlqwPJ9kd4PQqFWgo=
+			wrLmPKb7mMttpzc7qH9DqVXYmzQgIEdTjZ7WXlp4UkE=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yZXr273mdJ2KvdoYDTBQdoeQtsI=
+			qOFffy0U3226w9UO1YLKni6Yl1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			8G14ailbhiCfhXWdmSZrjG/WxouQ16EFbc6WxbMkLzs=
+			sdjyd5kz29eUCnU8voeWkh5suTPcU5Y4ryClreowwfE=
 			</data>
 		</dict>
 		<key>Modules/OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			alrad6m0pwuXKBoTxIpFSewgn2M=
+			wNndFagLLUy7DyqfC6HCFfFAfxs=
 			</data>
 			<key>hash2</key>
 			<data>
-			i2VuFwF+BDoZJHan1ZUFhGK1U41yaTTLqDcfjpVTtFI=
+			KrO0c+04dtoaOw8l7t/zzpljUZz/AwBc8C8qMWxtj0U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

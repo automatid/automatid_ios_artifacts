@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OTNFCPassportReader-Swift.h</key>
 		<data>
-		nftIODK8p6xlgOL00LqCMc2N3e4=
+		1cOy/ES88tTHWuQ3PTwkeV497KI=
 		</data>
 		<key>Headers/OTNFCPassportReader-umbrella.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		01tQM5YAq5qBdkY7/3sGpuZyMw0=
+		QncQm5q1A7n2326STAruN+0RRUI=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ThcuimJfskD2FOex0YBXOTCDOuo=
+		I7u21yUudvRI0gO5LS1qgEWSxBA=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ClNvfMUvYHQ5rA8OLdN/07hEjCE=
+		6sYpyg88vtpnf/91ty6cL6mI5nw=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZMbspGxfZza0ru4cgQgYbQBkeGo=
+		wAfkj32Iz4VWQtik4Dv5DSVTL0I=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ClNvfMUvYHQ5rA8OLdN/07hEjCE=
+		6sYpyg88vtpnf/91ty6cL6mI5nw=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y4dnvkQ+lpU9gNfnvadejkOXWWE=
+		Kclw+ARlyQL8yeQ6pYjkLUfccsk=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ThcuimJfskD2FOex0YBXOTCDOuo=
+		I7u21yUudvRI0gO5LS1qgEWSxBA=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/pHXUfQ57DQ/sE/sqaXgtz2svSw=
+		2mkrvWNb0OIa0KSpLRLo88D7voQ=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		H52PKaHwFs6aEImd9KvnwZSBklA=
+		4KOSsMzGxV0PFU3Lqbvr80btZns=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/pHXUfQ57DQ/sE/sqaXgtz2svSw=
+		2mkrvWNb0OIa0KSpLRLo88D7voQ=
 		</data>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZWRHiEQJ8Mzfsk5OscmAqCWY6h0=
+		vDeAff0w/fYGCd0mbRB3XeL3lHo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nftIODK8p6xlgOL00LqCMc2N3e4=
+			1cOy/ES88tTHWuQ3PTwkeV497KI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ymjtneNsz8hmw/hKhB1qRmpxM0kPq7cabcjMa+BGGSQ=
+			BUgng7SEfITFZlAGv4wjbsFRqCZCOyisYJXmMclCJNE=
 			</data>
 		</dict>
 		<key>Headers/OTNFCPassportReader-umbrella.h</key>
@@ -89,110 +89,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ThcuimJfskD2FOex0YBXOTCDOuo=
+			I7u21yUudvRI0gO5LS1qgEWSxBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pJDChkVUvTrL3QCvqFRXo3YCvIVrWZFn69FzICv5cmQ=
+			mKwZq98+NJN01ohkDQb7Ni9/8qn2CO4wt6ZkWyYx7dI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ClNvfMUvYHQ5rA8OLdN/07hEjCE=
+			6sYpyg88vtpnf/91ty6cL6mI5nw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ndeduf2cWWmbAy3WpHp/WWK20qG2r3B6eZ4MEw7bnxM=
+			rmSBk37Y61NmTOHyL8FGCFh39rQmtBXqOHkinLcG9fI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZMbspGxfZza0ru4cgQgYbQBkeGo=
+			wAfkj32Iz4VWQtik4Dv5DSVTL0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			tG4JG8ET0ru7JAg6zzb5yiAnUC99Y8PO0O5DUuxRUk0=
+			NnGbpsvBirnNrH1frnYES0Lt6ILAisdtLldtPhTg8k8=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ClNvfMUvYHQ5rA8OLdN/07hEjCE=
+			6sYpyg88vtpnf/91ty6cL6mI5nw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ndeduf2cWWmbAy3WpHp/WWK20qG2r3B6eZ4MEw7bnxM=
+			rmSBk37Y61NmTOHyL8FGCFh39rQmtBXqOHkinLcG9fI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y4dnvkQ+lpU9gNfnvadejkOXWWE=
+			Kclw+ARlyQL8yeQ6pYjkLUfccsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			MLcs5D8HEf+0/MEBkdSF3Ldh9C68iWRvQIyO/UuLKDs=
+			pp7Wkj+EKG+bULFvHRWuY6E/KeHIcpaf+E3jr+B3v5Q=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ThcuimJfskD2FOex0YBXOTCDOuo=
+			I7u21yUudvRI0gO5LS1qgEWSxBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pJDChkVUvTrL3QCvqFRXo3YCvIVrWZFn69FzICv5cmQ=
+			mKwZq98+NJN01ohkDQb7Ni9/8qn2CO4wt6ZkWyYx7dI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/pHXUfQ57DQ/sE/sqaXgtz2svSw=
+			2mkrvWNb0OIa0KSpLRLo88D7voQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uICWPUWCkcJAbE886IHE3Skm2hRfWFv2q9sVpIEDPrk=
+			mWRqffsXB1yT9Vq7AwFWz/tU8mBGj9O0K/IGx48vKCI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H52PKaHwFs6aEImd9KvnwZSBklA=
+			4KOSsMzGxV0PFU3Lqbvr80btZns=
 			</data>
 			<key>hash2</key>
 			<data>
-			KKXm2NcbR4fON6NsifFLaLzRZzvOVZ2kfZqa+PztKzw=
+			r+bWtPURhaLr81+sh1q3flLj1saB8ryk9JGfFZT9/pE=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/pHXUfQ57DQ/sE/sqaXgtz2svSw=
+			2mkrvWNb0OIa0KSpLRLo88D7voQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uICWPUWCkcJAbE886IHE3Skm2hRfWFv2q9sVpIEDPrk=
+			mWRqffsXB1yT9Vq7AwFWz/tU8mBGj9O0K/IGx48vKCI=
 			</data>
 		</dict>
 		<key>Modules/OTNFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZWRHiEQJ8Mzfsk5OscmAqCWY6h0=
+			vDeAff0w/fYGCd0mbRB3XeL3lHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ozzYnDKeNsCTPJBX/O1v4SWQ7D4yTAVXq0bpRyDBa6E=
+			ChYQOkjhRoEL0McXFom3qBZgMTNwB91SDnckDMRVEhw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

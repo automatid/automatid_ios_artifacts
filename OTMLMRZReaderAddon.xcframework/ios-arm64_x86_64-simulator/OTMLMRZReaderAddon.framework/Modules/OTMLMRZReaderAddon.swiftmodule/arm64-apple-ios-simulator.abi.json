@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "OTMLMRZReaderAddon",
+    "printedName": "OTMLMRZReaderAddon",
     "children": [
       {
         "kind": "Import",
@@ -76,6 +76,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1591,6 +1605,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1975,6 +2003,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -2098,6 +2140,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -2219,6 +2275,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2555,6 +2625,20 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3242,6 +3326,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -3422,6 +3520,111 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 987,
+      "length": 14,
+      "value": "\"documentType\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1041,
+      "length": 17,
+      "value": "\"documentSubType\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1098,
+      "length": 13,
+      "value": "\"countryCode\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 16,
+      "value": "\"passportNumber\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1207,
+      "length": 13,
+      "value": "\"dateOfBirth\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1283,
+      "length": 19,
+      "value": "\"dateOfBirthString\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1348,
+      "length": 22,
+      "value": "\"expirationDateString\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1419,
+      "length": 5,
+      "value": "\"sex\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1464,
+      "length": 16,
+      "value": "\"expirationDate\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1543,
+      "length": 13,
+      "value": "\"nationality\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1596,
+      "length": 10,
+      "value": "\"lastName\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1646,
+      "length": 16,
+      "value": "\"personalNumber\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1702,
+      "length": 8,
+      "value": "\"rawMRZ\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1750,
+      "length": 11,
+      "value": "\"firstName\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "StringLiteral",
       "offset": 260,
@@ -3455,13 +3658,6 @@
       "offset": 1402,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
-      "kind": "StringLiteral",
-      "offset": 195,
-      "length": 9,
-      "value": "\"OTMLMRZReaderAddon.MRZParser\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
@@ -3546,20 +3742,6 @@
       "offset": 1060,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 509,
-      "length": 3,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 589,
-      "length": 3,
-      "value": "2"
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",

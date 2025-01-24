@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "OTMLFaceRecognitionAddon",
+    "printedName": "OTMLFaceRecognitionAddon",
     "children": [
       {
         "kind": "Import",
@@ -113,6 +113,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -356,6 +370,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -888,6 +916,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1146,7 +1188,23 @@
           "AccessControl",
           "ObjCMembers"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
@@ -1172,6 +1230,27 @@
       "offset": 381,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 56,
+      "value": "\"blink count \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 473,
+      "length": 7,
+      "value": "\" results \""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 497,
+      "length": 1,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
@@ -1221,6 +1300,104 @@
       "offset": 8123,
       "length": 79,
       "value": "[[20.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 20.0]]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 10124,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 10211,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11194,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11269,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11292,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13401,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13457,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13469,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13627,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13770,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13842,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 13974,
+      "length": 6,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13977,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 13979,
+      "length": 1,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/ec2-user\/iOS\/AutomatID\/DEV_OTSCIWS\/OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",

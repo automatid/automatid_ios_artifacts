@@ -1,1 +1,1 @@
-#define OTMLMRZReaderAddon_version @"b'6566a6e'" //short git version of following full git version b'6566a6e3a2e16898fd030815a8a488c978d969d8'
+#define OTMLMRZReaderAddon_version @"b'1eb999f'" //short git version of following full git version b'1eb999fd00b81ff417bd874c18f1b7028fc0f256'
