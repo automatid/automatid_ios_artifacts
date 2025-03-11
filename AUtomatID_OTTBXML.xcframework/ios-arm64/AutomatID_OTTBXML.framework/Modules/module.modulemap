@@ -1,0 +1,6 @@
+framework module AutomatID_OTTBXML {
+  umbrella header "AutomatID_OTTBXML-umbrella.h"
+
+  export *
+  module * { export * }
+}

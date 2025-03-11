@@ -1,0 +1,49 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLFaceRecognitionAddon
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import AVFoundation
+import AutomatID_OTML
+@_exported import AutomatID_OTMLFaceRecognitionAddon
+import CoreVideo
+import Foundation
+import MLKitCommon
+import MLKitFaceDetection
+import MLKitVision
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @objcMembers public class FaceRecognitionCustomComponentFactory : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomComponentFactory {
+  @objc public func component(with aModel: AutomatID_OTMLModels.OTMLComponentModel!) -> AutomatID_OTML.OTMLComponent!
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomActionResolver {
+  @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.OTMLResolvedAction!) -> AutomatID_OTML.OTMLActionCommand!
+  @objc public func canResolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> Swift.Bool
+  @objc public func resolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> AutomatID_OTML.OTMLParameterEntry!
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionComponent : AutomatID_OTML.OTMLComponent, AutomatID_OTML.OTMPShowHideViewProtocol {
+  @objc override dynamic public func newContentView(withFrame cViewFrame: CoreFoundation.CGRect) -> UIKit.UIView!
+  @objc override dynamic public func handleConcreteComponentParameters(_ updParams: [Swift.AnyHashable : Any]!) -> Swift.Bool
+  @objc public func atShow(_ aView: UIKit.UIView!)
+  @objc public func atHide(_ aView: UIKit.UIView!)
+  @objc override dynamic public func getParametrizationValue(withFlag aFlag: Swift.String!, validate validateNow: Swift.Bool) -> Swift.String!
+  @objc override dynamic public func didTrigger(_ aTrigger: Swift.String!)
+  @objc override dynamic public func dispose()
+  @objc override dynamic public init!(otmlComponent aComponent: AutomatID_OTML.OTMLComponent!)
+  @objc override dynamic public init!(model aModel: AutomatID_OTMLModels.OTMLComponentModel!)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objcMembers public class UIUtilities {
+  @objc public static func addCircle(atPoint point: CoreFoundation.CGPoint, to view: UIKit.UIView, color: UIKit.UIColor, radius: CoreFoundation.CGFloat)
+  @objc public static func addRectangle(_ rectangle: CoreFoundation.CGRect, to view: UIKit.UIView, color: UIKit.UIColor)
+  @objc public static func createUIImage(from imageBuffer: CoreVideo.CVImageBuffer, orientation: UIKit.UIImage.Orientation) -> UIKit.UIImage?
+  @objc public static func imageOrientation(fromDevicePosition devicePosition: AVFoundation.AVCaptureDevice.Position = .back) -> UIKit.UIImage.Orientation
+  @objc deinit
+}

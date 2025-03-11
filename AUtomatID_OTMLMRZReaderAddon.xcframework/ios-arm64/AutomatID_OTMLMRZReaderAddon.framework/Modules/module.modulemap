@@ -1,0 +1,11 @@
+framework module AutomatID_OTMLMRZReaderAddon {
+  umbrella header "AutomatID_OTMLMRZReaderAddon-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AutomatID_OTMLMRZReaderAddon.Swift {
+  header "AutomatID_OTMLMRZReaderAddon-Swift.h"
+  requires objc
+}
