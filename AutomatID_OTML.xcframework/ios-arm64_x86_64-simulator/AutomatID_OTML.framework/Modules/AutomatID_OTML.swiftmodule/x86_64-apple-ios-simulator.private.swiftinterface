@@ -1,0 +1,58 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTML
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+@_exported import AutomatID_OTML
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLPushNotificationBlacklistRules : ObjectiveC.NSObject, AutomatID_OTMLCore.OTMLRestartAppAwareProtocol {
+  @objc public class func getInstance() -> AutomatID_OTML.OTMLPushNotificationBlacklistRules
+  @objc override dynamic public init()
+  @objc public func willRestart()
+  @objc public func cleanBlacklist()
+  @objc public func blackListAll()
+  public func addRuleToBlacklist(rule: AutomatID_OTML.OTMLPushNotificationBlacklistRule)
+  @objc public func removeRuleFromBlacklistWithId(id: Swift.String)
+  @objc public func checkIfNotificationIsBlacklisted(payload: [Swift.AnyHashable : Swift.AnyHashable]) -> Swift.Bool
+  @objc deinit
+}
+public struct OTMLPushNotificationBlacklistRule {
+}
+@objc @objcMembers public class OTMLPushNotificationActionCommand : AutomatID_OTML.OTMLActionCommandSet {
+  @objc public func handleKeys() -> Swift.Array<Swift.String>
+  @objc override dynamic public func actionCommands() -> [Swift.AnyHashable : Any]!
+  @objc override dynamic public init!()
+  @objc public func newCommandDictionary() -> [Swift.String : AutomatID_OTML.OTMLActionCommand]
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLAddPushNotificationBlacklistActionCommand : AutomatID_OTML.OTMLActionCommand {
+  @objc override dynamic public func execute(_ aAction: AutomatID_OTML.OTMLResolvedAction!, on aNestingVC: AutomatID_OTML.OTMLViewController!)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLRemovePushNotificationBlacklistActionCommand : AutomatID_OTML.OTMLActionCommand {
+  @objc override dynamic public func execute(_ aAction: AutomatID_OTML.OTMLResolvedAction!, on aNestingVC: AutomatID_OTML.OTMLViewController!)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @objcMembers @_Concurrency.MainActor @preconcurrency public class OTMLSliderButtonComponent : AutomatID_OTML.OTMLComponent, UIKit.UIGestureRecognizerDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func contentHeightWrapped() -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func didTrigger(_ aTrigger: Swift.String!)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func handleConcreteComponentParameters(_ updParams: [Swift.AnyHashable : Any]!) -> Swift.Bool
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func updateFramesInView()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init!(model aModel: AutomatID_OTMLModels.OTMLComponentModel!)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init!(otmlComponent aComponent: AutomatID_OTML.OTMLComponent!)
+  @objc @_Concurrency.MainActor @preconcurrency public func createView() -> UIKit.UIView
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func newContentView(withFrame cViewFrame: CoreFoundation.CGRect) -> UIKit.UIView!
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMPNetworkHmacSupporter : ObjectiveC.NSObject {
+  @objc public static func elaborateBodyString(with bodyString: Swift.String) -> Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension AutomatID_OTML.OTMLSliderButtonComponent : Swift.Sendable {}

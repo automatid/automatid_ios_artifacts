@@ -1,0 +1,11 @@
+framework module AutomatID_OTMLNfcDocumentReaderModule {
+  umbrella header "AutomatID_OTMLNfcDocumentReaderModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AutomatID_OTMLNfcDocumentReaderModule.Swift {
+  header "AutomatID_OTMLNfcDocumentReaderModule-Swift.h"
+  requires objc
+}

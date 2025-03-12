@@ -1,0 +1,6 @@
+framework module AutomatID_OTMLModels {
+  umbrella header "AutomatID_OTMLModels-umbrella.h"
+
+  export *
+  module * { export * }
+}

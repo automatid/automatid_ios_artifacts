@@ -1,0 +1,6 @@
+framework module AutomatID {
+  umbrella header "AutomatID-umbrella.h"
+
+  export *
+  module * { export * }
+}
