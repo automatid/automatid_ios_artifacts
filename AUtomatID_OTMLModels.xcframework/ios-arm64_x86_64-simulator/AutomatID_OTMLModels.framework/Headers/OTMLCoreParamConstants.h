@@ -1,4 +1,0 @@
-
-
-@interface OTMLCoreParamConstants : NSObject
-@end
