@@ -312,8 +312,8 @@
       },
       {
         "kind": "Import",
-        "name": "OTNFCPassportReader",
-        "printedName": "OTNFCPassportReader",
+        "name": "AutomatID_OTNFCPassportReader",
+        "printedName": "AutomatID_OTNFCPassportReader",
         "declKind": "Import",
         "moduleName": "AutomatID_OTMLNfcDocumentReaderModule"
       },

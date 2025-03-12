@@ -4,9 +4,9 @@
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AutomatID_OTML
 @_exported import AutomatID_OTMLNfcDocumentReaderModule
+import AutomatID_OTNFCPassportReader
 import CoreNFC
 import Foundation
-import OTNFCPassportReader
 import Swift
 import UIKit
 import _Concurrency

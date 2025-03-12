@@ -22,15 +22,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZoHqXb7sTgNlpkTmJShnFtpmhHk=
+		/Q4m6Azj1UXCWAiXCD+W0liNn6M=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZPhDCMFMP38VZhp+jL3nKPLHhZc=
+		TYLUfgW5aP2kTvjFlzKPlNkX39w=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DejBqen1QF7Fk64dDUNoqXy/lhg=
+		f4r2Hizj8E7F/kTgs90SV7Rw8fU=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DejBqen1QF7Fk64dDUNoqXy/lhg=
+		f4r2Hizj8E7F/kTgs90SV7Rw8fU=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pIFHB8Ad2AnTYJtMhG3XthQfg74=
+		Iwaklc3sunIDMSl5FMUrikOszrU=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZPhDCMFMP38VZhp+jL3nKPLHhZc=
+		TYLUfgW5aP2kTvjFlzKPlNkX39w=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Z31q44iRck/K0e+yM3sCz6/yENM=
+		jNgB5Cui8q/wgu25HCbwyqIUZzI=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z31q44iRck/K0e+yM3sCz6/yENM=
+		jNgB5Cui8q/wgu25HCbwyqIUZzI=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hEiGQVNt0CvZDD4uK5FwlEvX3Ck=
+		9pZpH3R13BCcFMXIFS52AS76bZ8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,22 +119,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZPhDCMFMP38VZhp+jL3nKPLHhZc=
+			TYLUfgW5aP2kTvjFlzKPlNkX39w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ffAkUHk3gbu1Yjqh1vuQIcJ/ubKnFE7kZxCj+kLSCRg=
+			Cnd/14BdSUOb5unQtWjqJHqVIUbFCpUEHo4cCaj0VuI=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DejBqen1QF7Fk64dDUNoqXy/lhg=
+			f4r2Hizj8E7F/kTgs90SV7Rw8fU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uDZnPI1FNoXBar9WhpiieutPf/SxHEwM35H8wmdzTrY=
+			hZgtLTLTB1wH/x8okjdRhR790gASxSRdTVjOnfYMl20=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -152,44 +152,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DejBqen1QF7Fk64dDUNoqXy/lhg=
+			f4r2Hizj8E7F/kTgs90SV7Rw8fU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uDZnPI1FNoXBar9WhpiieutPf/SxHEwM35H8wmdzTrY=
+			hZgtLTLTB1wH/x8okjdRhR790gASxSRdTVjOnfYMl20=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pIFHB8Ad2AnTYJtMhG3XthQfg74=
+			Iwaklc3sunIDMSl5FMUrikOszrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			2FwLzsQAU/L75h86pWKA44HSmLDZ7I4wzlvWObidnYA=
+			PmMNpWpDiTVScABqE23tCpcIB4ITsALTiDdpYe1KSXY=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZPhDCMFMP38VZhp+jL3nKPLHhZc=
+			TYLUfgW5aP2kTvjFlzKPlNkX39w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ffAkUHk3gbu1Yjqh1vuQIcJ/ubKnFE7kZxCj+kLSCRg=
+			Cnd/14BdSUOb5unQtWjqJHqVIUbFCpUEHo4cCaj0VuI=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z31q44iRck/K0e+yM3sCz6/yENM=
+			jNgB5Cui8q/wgu25HCbwyqIUZzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			SjPnFdLMXSMvg46OjykM4TKt4nWDHlSV2rOV1vMpMCA=
+			SdLum4UF+jHkBjA3HEC1XzSv9CLtfGOBIX0c4bYMP8U=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -207,22 +207,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z31q44iRck/K0e+yM3sCz6/yENM=
+			jNgB5Cui8q/wgu25HCbwyqIUZzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			SjPnFdLMXSMvg46OjykM4TKt4nWDHlSV2rOV1vMpMCA=
+			SdLum4UF+jHkBjA3HEC1XzSv9CLtfGOBIX0c4bYMP8U=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hEiGQVNt0CvZDD4uK5FwlEvX3Ck=
+			9pZpH3R13BCcFMXIFS52AS76bZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			aE8UXVwoEq8Vpw42eU8Er85Yk2PT6X+UEVccqrz13R0=
+			I03NpomyM3HUH57KrGvLBL2L9b/Q4Rh7LsxX7PYq6og=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
