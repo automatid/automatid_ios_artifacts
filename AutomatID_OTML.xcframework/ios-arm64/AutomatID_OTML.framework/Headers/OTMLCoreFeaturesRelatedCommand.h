@@ -7,13 +7,13 @@
 //
 
 #import "OTMLActionCommandSet.h"
-@interface DoRevalidateHeader : OTMLActionCommand
+@interface AutomatID_DoRevalidateHeader : OTMLActionCommand
 @end
 
-@interface ShowHeaderTextfieldMode : OTMLActionCommand
+@interface AutomatID_ShowHeaderTextfieldMode : OTMLActionCommand
 @end
 
-@interface HideHeaderTextfieldMode : OTMLActionCommand
+@interface AutomatID_HideHeaderTextfieldMode : OTMLActionCommand
 @end
 
 @interface OTMLDownloadCommand : OTMLActionCommand <UIDocumentInteractionControllerDelegate>
