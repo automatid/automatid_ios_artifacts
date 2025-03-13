@@ -34,7 +34,7 @@
 #import "OTMPCryptedConfigFilePayloadReader.h"
 #import "OTMPDictionaryUtil.h"
 #import "OTMPOrderedDictionary.h"
-#import "MultiEndpointManager.h"
+#import "AutomatID_MultiEndpointManager.h"
 #import "OTMLReachability.h"
 #import "OTMPDeviceUtil.h"
 #import "OTMPPasscodeUtil.h"

@@ -4,17 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/AutomatID_MultiEndpointManager.h</key>
+		<data>
+		Y4wIRk1WGWbMSow102zuQOl2UZM=
+		</data>
 		<key>Headers/AutomatID_OTMLCore-Swift.h</key>
 		<data>
 		8OPA8VKSTitfYcndSU7oOVWOZAY=
 		</data>
 		<key>Headers/AutomatID_OTMLCore-umbrella.h</key>
 		<data>
-		SzEYqONzcw7bSLBIdgWJf17Qs/4=
+		6wRJnQ5T7aOaNj/CZeZzceI8M6Y=
 		</data>
 		<key>Headers/AutomatID_OTMLCore.OTVersion.h</key>
 		<data>
-		K7f3QFot7623Bo1W98wGQ5xXZFQ=
+		c3U0waCldj+ihTFGcYU/PlrCA5k=
 		</data>
 		<key>Headers/AutomatID_OTMPLoggerDefine.h</key>
 		<data>
@@ -27,10 +31,6 @@
 		<key>Headers/IBANValidator.h</key>
 		<data>
 		k+THBCYBi1Tg1/5ruGSMClAM/io=
-		</data>
-		<key>Headers/MultiEndpointManager.h</key>
-		<data>
-		pZqMjAxbXnOSKYn8CPw4oE5ZScs=
 		</data>
 		<key>Headers/NSArray+CountCast.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SMp//6OkO1CHqyz83/NrCBJefgQ=
+		tN0VTWF1himQKiKAdpWS0TahXS0=
 		</data>
 		<key>Modules/AutomatID_OTMLCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -319,6 +319,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/AutomatID_MultiEndpointManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y4wIRk1WGWbMSow102zuQOl2UZM=
+			</data>
+			<key>hash2</key>
+			<data>
+			S9ha49OfMGuVebZpAVtQ3jLif3KdPMPRtWZC+7Jq5nw=
+			</data>
+		</dict>
 		<key>Headers/AutomatID_OTMLCore-Swift.h</key>
 		<dict>
 			<key>hash</key>
@@ -334,22 +345,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SzEYqONzcw7bSLBIdgWJf17Qs/4=
+			6wRJnQ5T7aOaNj/CZeZzceI8M6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			90Sfoa2y76Zvl9mCD1UMCZOMBnBHpJs/BpBHirG3K0s=
+			gko8RPnHnMv0PKESVhiLSrkq4bijCWGN/rHHiymChTQ=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLCore.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7f3QFot7623Bo1W98wGQ5xXZFQ=
+			c3U0waCldj+ihTFGcYU/PlrCA5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			x4PBCuiH4XgleycMRfFq2dL3uhgTIEsCaU2yfJ24mEY=
+			IOwZV8j7wwsZIlY0N8n33t+KuYYivuqqztW54oD5lng=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMPLoggerDefine.h</key>
@@ -383,17 +394,6 @@
 			<key>hash2</key>
 			<data>
 			FpEEydhSYJliiCN8OUYCPXxji6SQ6zm6hebUpmfZ/oA=
-			</data>
-		</dict>
-		<key>Headers/MultiEndpointManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pZqMjAxbXnOSKYn8CPw4oE5ZScs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mt5sQ+N+yp9ZQlz/DPj4Wr1nkPH2XGjY3++ZLpvEE5U=
 			</data>
 		</dict>
 		<key>Headers/NSArray+CountCast.h</key>
