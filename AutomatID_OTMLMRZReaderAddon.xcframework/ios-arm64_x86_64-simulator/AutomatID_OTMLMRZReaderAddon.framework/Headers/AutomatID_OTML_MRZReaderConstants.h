@@ -1,0 +1,30 @@
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_raw_mrz;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_document_type;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_issuing_country;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_surname;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_name;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_splitted_surname;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_splitted_name;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_document_number;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_nationality;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_date_of_birth;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_sex;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_ocr_reader_mrz_expiration_date;
+
+extern NSString* const c_AutomatID_OTML_MRZReaderConstants_textfield_spacing_pattern_payment_card;
+
+
+
+@interface AutomatID_OTML_MRZReaderConstants : NSObject
+@end

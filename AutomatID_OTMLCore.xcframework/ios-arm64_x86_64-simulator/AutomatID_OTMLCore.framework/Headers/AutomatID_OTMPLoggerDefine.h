@@ -13,15 +13,15 @@
 #ifdef LOGACTIVE
 
     #define OTLogCreateDate(a) NSDate* a = [NSDate date]
-    #define OTLogDebug(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_DEBUG aspect:aspectMask from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLog(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_INFO aspect:aspectMask from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLogWarning(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_WARNING aspect:aspectMask|LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLogError(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_ERROR aspect:aspectMask|LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLogCritical(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_CRITICAL aspect:aspectMask|LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLogFrontend(aspectMask,a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_INFO aspect:aspectMask|LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
-    #define OTLogCriticalNow(aspectMask, a, ...) [OTMPLogger logwithLevel:LOG_LEVEL_INFO aspect:aspectMask|LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogDebug(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_DEBUG aspect:aspectMask from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLog(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_INFO aspect:aspectMask from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogWarning(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_WARNING aspect:aspectMask|AUTOMAT_ID_LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogError(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_ERROR aspect:aspectMask|AUTOMAT_ID_LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogCritical(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_CRITICAL aspect:aspectMask|AUTOMAT_ID_LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogFrontend(aspectMask,a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_INFO aspect:aspectMask|AUTOMAT_ID_LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
+    #define OTLogCriticalNow(aspectMask, a, ...) [AutomatID_OTMPLogger logwithLevel:AUTOMAT_ID_LOG_LEVEL_INFO aspect:aspectMask|AUTOMAT_ID_LOG_ASPECT_APPLICATION_2 from:__PRETTY_FUNCTION__ message:a, ##__VA_ARGS__]
 
-    #define OTExit(a) [OTMPLogger logEventAndExit:a]
+    #define OTExit(a) [AutomatID_OTMPLogger logEventAndExit:a]
     #define OTLoggerLog(a, ...) NSLog(a, ##__VA_ARGS__)
 
 

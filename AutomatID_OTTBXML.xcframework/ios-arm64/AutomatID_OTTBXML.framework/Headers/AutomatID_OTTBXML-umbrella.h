@@ -10,9 +10,9 @@
 #endif
 #endif
 
-#import "OTTBXML+Compression.h"
-#import "OTTBXML+HTTP.h"
-#import "OTTBXML.h"
+#import "AutomatID_OTTBXML+Compression.h"
+#import "AutomatID_OTTBXML+HTTP.h"
+#import "AutomatID_OTTBXML.h"
 
 FOUNDATION_EXPORT double AutomatID_OTTBXMLVersionNumber;
 FOUNDATION_EXPORT const unsigned char AutomatID_OTTBXMLVersionString[];

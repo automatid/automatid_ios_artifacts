@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Opentech ENG. All rights reserved.
 //
 
-#import <AutomatID_OTMLModels/OTMPColor.h>
-#import <AutomatID_OTMLModels/OTMLFont.h>
+#import <AutomatID_OTMLModels/AutomatID_OTMPColor.h>
+#import <AutomatID_OTMLModels/AutomatID_OTMLFont.h>
 
 
 @class OTMLfont;
@@ -18,10 +18,10 @@
 
 @property(nonatomic, assign) BOOL showPageNumber;
 @property(nonatomic, strong) NSString * headerText;
-@property(nonatomic, strong) OTMPColor * colorHeader;
-@property(nonatomic, strong) OTMLFont * fontHeader;
-@property(nonatomic, strong) OTMPColor * colorText;
-@property(nonatomic, strong) OTMLFont * fontContentText;
+@property(nonatomic, strong) AutomatID_OTMPColor * colorHeader;
+@property(nonatomic, strong) AutomatID_OTMLFont * fontHeader;
+@property(nonatomic, strong) AutomatID_OTMPColor * colorText;
+@property(nonatomic, strong) AutomatID_OTMLFont * fontContentText;
 @property(nonatomic, strong) NSString * filePath;
 
 -(id)initWithText:(NSString*) aText;

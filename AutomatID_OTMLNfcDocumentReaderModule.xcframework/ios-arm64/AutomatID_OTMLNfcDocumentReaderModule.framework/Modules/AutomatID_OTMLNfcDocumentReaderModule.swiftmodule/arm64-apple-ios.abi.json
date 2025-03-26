@@ -12352,13 +12352,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLActionCommand?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLActionCommand?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLActionCommand",
-                    "printedName": "AutomatID_OTML.OTMLActionCommand",
-                    "usr": "c:objc(cs)OTMLActionCommand"
+                    "name": "AutomatID_OTMLActionCommand",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLActionCommand",
+                    "usr": "c:objc(cs)AutomatID_OTMLActionCommand"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12366,13 +12366,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLResolvedAction?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLResolvedAction",
-                    "printedName": "AutomatID_OTML.OTMLResolvedAction",
-                    "usr": "c:objc(cs)OTMLResolvedAction"
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12380,7 +12380,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLNfcDocumentReaderModule@objc(cs)OTNFCDRScanActionReceiver(im)actionCommandFromResolvedAction:",
-            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC13actionCommand4fromSo010OTMLActionK0CSgSo012OTMLResolvedH0CSg_tF",
+            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC13actionCommand4fromSo0ab11_OTMLActionK0CSgSo0ab13_OTMLResolvedH0CSg_tF",
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "objc_name": "actionCommandFromResolvedAction:",
             "declAttributes": [
@@ -12403,13 +12403,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameter?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameter?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameter",
-                    "printedName": "AutomatID_OTML.OTMLParameter",
-                    "usr": "c:objc(cs)OTMLParameter"
+                    "name": "AutomatID_OTMLParameter",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameter",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameter"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12417,7 +12417,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLNfcDocumentReaderModule@objc(cs)OTNFCDRScanActionReceiver(im)canResolveParameter:",
-            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC10canResolveySbSo13OTMLParameterCSgF",
+            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC10canResolveySbSo0aB14_OTMLParameterCSgF",
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "objc_name": "canResolveParameter:",
             "declAttributes": [
@@ -12434,13 +12434,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameterEntry?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameterEntry?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameterEntry",
-                    "printedName": "AutomatID_OTML.OTMLParameterEntry",
-                    "usr": "c:objc(cs)OTMLParameterEntry"
+                    "name": "AutomatID_OTMLParameterEntry",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameterEntry",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameterEntry"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12448,13 +12448,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameter?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameter?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameter",
-                    "printedName": "AutomatID_OTML.OTMLParameter",
-                    "usr": "c:objc(cs)OTMLParameter"
+                    "name": "AutomatID_OTMLParameter",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameter",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameter"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12462,7 +12462,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLNfcDocumentReaderModule@objc(cs)OTNFCDRScanActionReceiver(im)resolveParameter:",
-            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC7resolveySo18OTMLParameterEntryCSgSo0K0CSgF",
+            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiverC7resolveySo0aB19_OTMLParameterEntryCSgSo0ab1_K0CSgF",
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "objc_name": "resolveParameter:",
             "declAttributes": [
@@ -12646,13 +12646,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLResolvedAction?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLResolvedAction",
-                    "printedName": "AutomatID_OTML.OTMLResolvedAction",
-                    "usr": "c:objc(cs)OTMLResolvedAction"
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12660,13 +12660,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLViewController?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLViewController?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLViewController",
-                    "printedName": "AutomatID_OTML.OTMLViewController",
-                    "usr": "c:objc(cs)OTMLViewController"
+                    "name": "AutomatID_OTMLViewController",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLViewController",
+                    "usr": "c:objc(cs)AutomatID_OTMLViewController"
                   }
                 ],
                 "usr": "s:Sq"
@@ -12674,7 +12674,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLNfcDocumentReaderModule@objc(cs)OTNFCDRScanDocumentAction(im)executeResolvedAction:onViewController:",
-            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule011OTNFCDRScanD6ActionC7execute_2onySo012OTMLResolvedH0CSg_So18OTMLViewControllerCSgtF",
+            "mangledName": "$s37AutomatID_OTMLNfcDocumentReaderModule011OTNFCDRScanD6ActionC7execute_2onySo0ab13_OTMLResolvedH0CSg_So0aB19_OTMLViewControllerCSgtF",
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "overriding": true,
             "objc_name": "executeResolvedAction:onViewController:",
@@ -12696,11 +12696,11 @@
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLActionCommand",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommand",
         "hasMissingDesignatedInitializers": true,
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
-          "AutomatID_OTML.OTMLActionCommand",
+          "AutomatID_OTML.AutomatID_OTMLActionCommand",
           "ObjectiveC.NSObject"
         ],
         "conformances": [

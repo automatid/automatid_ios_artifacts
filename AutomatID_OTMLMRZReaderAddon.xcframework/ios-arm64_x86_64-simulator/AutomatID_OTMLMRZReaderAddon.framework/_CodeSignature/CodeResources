@@ -10,7 +10,23 @@
 		</data>
 		<key>Headers/AutomatID_OTMLMRZReaderAddon-umbrella.h</key>
 		<data>
-		Bp7U8D9UbBfywALJdYjxN9vyidc=
+		aoRxxPrvk9ffnQrhAwzUeAlHdaU=
+		</data>
+		<key>Headers/AutomatID_OTML_MRZComponentModelFactory.h</key>
+		<data>
+		s8QAOLM603rhtUuvNFliLk1gwzA=
+		</data>
+		<key>Headers/AutomatID_OTML_MRZComponentModelToObjectInterface.h</key>
+		<data>
+		kq2mtruI6pXGeHSuoKLBNbg1eMI=
+		</data>
+		<key>Headers/AutomatID_OTML_MRZMrzReaderModel.h</key>
+		<data>
+		iQcrAsz8NOWEhZBt/51td0Z06t0=
+		</data>
+		<key>Headers/AutomatID_OTML_MRZReaderConstants.h</key>
+		<data>
+		XDKO8ZSwy6C9qJ+kgQ66YyEnGYA=
 		</data>
 		<key>Headers/MRZCustomComponentFactory.h</key>
 		<data>
@@ -18,31 +34,15 @@
 		</data>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
 		<data>
-		GVDgJR/sMj0OL3lLf+rpWyYXK1k=
-		</data>
-		<key>Headers/OTMLMRZReaderConstants.h</key>
-		<data>
-		wuLK8Ms7jDnPEBcGwxO5f7immN8=
-		</data>
-		<key>Headers/OTMLMrzReaderModel.h</key>
-		<data>
-		10z+uZS9xcv+VKchb+90C4wXZus=
-		</data>
-		<key>Headers/OTML_MRZComponentModelFactory.h</key>
-		<data>
-		3bjWhEr1Pg9Rja21JcYqzf4jZ1k=
-		</data>
-		<key>Headers/OTML_MRZComponentModelToObjectInterface.h</key>
-		<data>
-		J+5FaeRmZE1s6utL/fQA9dAULKw=
+		i+EIKbcSBe3Y7uTbxQnqAx5qiGs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1G881WCB15qZ5fdcOzg9XH/a1jo=
+		JWm0Cl7iG5hZJDdzE590fOR/LCc=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QKeFOOzjWvRrAveRJ53CTW3o5Rs=
+		VcJQmNOXxyePWzG9H2BYeIvsq+Q=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QKeFOOzjWvRrAveRJ53CTW3o5Rs=
+		VcJQmNOXxyePWzG9H2BYeIvsq+Q=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -102,11 +102,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bp7U8D9UbBfywALJdYjxN9vyidc=
+			aoRxxPrvk9ffnQrhAwzUeAlHdaU=
 			</data>
 			<key>hash2</key>
 			<data>
-			3C56oCz9wI74jGm8r3LiFVqzcH0+HUuOKKlfYElCJRE=
+			Ckqo7K17YHoJVcaIyIw4qOrORiQByyuuzoAUBaqH3bw=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTML_MRZComponentModelFactory.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s8QAOLM603rhtUuvNFliLk1gwzA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YVRZcd+maeOz24x31v7OxI4J0/8IUzY3SbFDbj6Ev50=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTML_MRZComponentModelToObjectInterface.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kq2mtruI6pXGeHSuoKLBNbg1eMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			xsPlIL0OKs5LH5a+TtT7862kgV4fbW6+r/1PAUMUSCY=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTML_MRZMrzReaderModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iQcrAsz8NOWEhZBt/51td0Z06t0=
+			</data>
+			<key>hash2</key>
+			<data>
+			nAgIHIjyrQwme1+18KdcW5Guf4w8l1Jq3/iqX8lw7h8=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTML_MRZReaderConstants.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XDKO8ZSwy6C9qJ+kgQ66YyEnGYA=
+			</data>
+			<key>hash2</key>
+			<data>
+			wxRCAhSaZeG/gQj2hphAYwdEEgUVPWBN4ADAnEgPNzY=
 			</data>
 		</dict>
 		<key>Headers/MRZCustomComponentFactory.h</key>
@@ -124,66 +168,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GVDgJR/sMj0OL3lLf+rpWyYXK1k=
+			i+EIKbcSBe3Y7uTbxQnqAx5qiGs=
 			</data>
 			<key>hash2</key>
 			<data>
-			PMi58UQh/tMSTRwuG3Fcr8SzwsA+0l4XCAniynf1hNM=
-			</data>
-		</dict>
-		<key>Headers/OTMLMRZReaderConstants.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wuLK8Ms7jDnPEBcGwxO5f7immN8=
-			</data>
-			<key>hash2</key>
-			<data>
-			wSWdwItU2dfXiM7u9hFOH6FA79kdwI/LKnjG5Ykv6Rw=
-			</data>
-		</dict>
-		<key>Headers/OTMLMrzReaderModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			10z+uZS9xcv+VKchb+90C4wXZus=
-			</data>
-			<key>hash2</key>
-			<data>
-			DNBTnuF3pCMB/X4X4x3PU9ld6sM+BX6Zqv3FSSG3hA0=
-			</data>
-		</dict>
-		<key>Headers/OTML_MRZComponentModelFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3bjWhEr1Pg9Rja21JcYqzf4jZ1k=
-			</data>
-			<key>hash2</key>
-			<data>
-			ubzc7cwQM5hn7WAtYt2KRlyyv8SCY/mSxxRrWx4s3q8=
-			</data>
-		</dict>
-		<key>Headers/OTML_MRZComponentModelToObjectInterface.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J+5FaeRmZE1s6utL/fQA9dAULKw=
-			</data>
-			<key>hash2</key>
-			<data>
-			LukisPfKi24ds+mbCpkMRhA/CqTifvG6MAl/29XKCsQ=
+			i7I3kwS3EU7ILbyM6K2gzceq5F9AAqhb+cM2Ivm5NRs=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QKeFOOzjWvRrAveRJ53CTW3o5Rs=
+			VcJQmNOXxyePWzG9H2BYeIvsq+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			tnV5Rt6TLUTnasfGtp67WRAv78cZDeoeFlZF2JoxDrg=
+			ki4xi3cnidEj2PEQ1tuL11HwRPQkDz1RKD2MEpDTUuY=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -234,11 +234,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QKeFOOzjWvRrAveRJ53CTW3o5Rs=
+			VcJQmNOXxyePWzG9H2BYeIvsq+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			tnV5Rt6TLUTnasfGtp67WRAv78cZDeoeFlZF2JoxDrg=
+			ki4xi3cnidEj2PEQ1tuL11HwRPQkDz1RKD2MEpDTUuY=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

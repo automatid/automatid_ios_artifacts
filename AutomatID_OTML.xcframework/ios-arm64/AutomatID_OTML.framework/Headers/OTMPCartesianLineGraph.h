@@ -7,7 +7,7 @@
 //
 
 #import "OTMPAbstractCartesianGraph.h"
-#import <AutomatID_OTMLModels/OTMLLineChartModel.h>
+#import <AutomatID_OTMLModels/AutomatID_OTMLLineChartModel.h>
 
 @interface OTMPCartesianLineGraph : OTMPAbstractCartesianGraph
 

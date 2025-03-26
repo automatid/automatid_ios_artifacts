@@ -547,16 +547,16 @@ public class OpenSSLUtils {
   public static func computeSharedSecret(privateKeyPair: Swift.OpaquePointer, publicKey: Swift.OpaquePointer) -> [Swift.UInt8]
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @objcMembers public class OTNFCDRScanActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomActionResolver {
-  @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.OTMLResolvedAction!) -> AutomatID_OTML.OTMLActionCommand!
-  @objc public func canResolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> Swift.Bool
-  @objc public func resolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> AutomatID_OTML.OTMLParameterEntry!
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTNFCDRScanActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.AutomatID_OTMLCustomActionResolver {
+  @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!) -> AutomatID_OTML.AutomatID_OTMLActionCommand!
+  @objc public func canResolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> Swift.Bool
+  @objc public func resolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> AutomatID_OTML.AutomatID_OTMLParameterEntry!
   @objc public func hasNFC() -> Swift.Bool
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class OTNFCDRScanDocumentAction : AutomatID_OTML.OTMLActionCommand {
-  @objc override dynamic public func execute(_ aAction: AutomatID_OTML.OTMLResolvedAction!, on aNestingVC: AutomatID_OTML.OTMLViewController!)
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class OTNFCDRScanDocumentAction : AutomatID_OTML.AutomatID_OTMLActionCommand {
+  @objc override dynamic public func execute(_ aAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!, on aNestingVC: AutomatID_OTML.AutomatID_OTMLViewController!)
   @objc deinit
 }
 @available(iOS 13, *)

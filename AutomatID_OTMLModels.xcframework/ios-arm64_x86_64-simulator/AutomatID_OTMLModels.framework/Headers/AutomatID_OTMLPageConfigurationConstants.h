@@ -1,0 +1,10 @@
+extern NSString* const c_AutomatID_OTMLPageConfigurationConstants_page_config;
+
+extern NSString* const c_AutomatID_OTMLPageConfigurationConstants_app_bg_color;
+
+extern NSString* const c_AutomatID_OTMLPageConfigurationConstants_app_bg_image;
+
+
+
+@interface AutomatID_OTMLPageConfigurationConstants : NSObject
+@end

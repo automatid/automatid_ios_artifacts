@@ -11,13 +11,13 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
-@_inheritsConvenienceInitializers @objc(CryptoExportImportManager) open class CryptoExportImportManager : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc(AutomatID_CryptoExportImportManager) open class AutomatID_CryptoExportImportManager : ObjectiveC.NSObject {
   @objc public func importPublicKeyReferenceFromDERCertificate(_ certData: Foundation.Data) -> Security.SecKey?
   @objc public func exportPublicKeyToDER(_ rawPublicKeyBytes: Foundation.Data, keyType: Swift.String, keySize: Swift.Int) -> Foundation.Data?
   @objc override dynamic public init()
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc(IsoCountryInfoObj) public class IsoCountryInfoObj : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc(AutomatID_IsoCountryInfoObj) public class AutomatID_IsoCountryInfoObj : ObjectiveC.NSObject {
   @objc public var name: Swift.String
   @objc public var numeric: Swift.String
   @objc public var alpha2: Swift.String
@@ -29,8 +29,8 @@ import os
   @objc override dynamic public init()
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc(IsoCountryCodes) public class IsoCountryCodes : ObjectiveC.NSObject {
-  @objc public class func searchByCallingCode(_ calllingCode: Swift.String) -> AutomatID_OTMLCore.IsoCountryInfoObj?
+@_inheritsConvenienceInitializers @objc(AutomatID_IsoCountryCodes) public class AutomatID_IsoCountryCodes : ObjectiveC.NSObject {
+  @objc public class func searchByCallingCode(_ calllingCode: Swift.String) -> AutomatID_OTMLCore.AutomatID_IsoCountryInfoObj?
   @objc override dynamic public init()
   @objc deinit
 }

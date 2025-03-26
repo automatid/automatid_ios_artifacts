@@ -5,6 +5,6 @@
 
 	#undef LOGACTIVE
 	#undef COREMULTIPUNTAMENTO
-	#define LOG_DESTINATION OTMPLoggerProcessor_NSLog
+	#define LOG_DESTINATION AutomatID_OTMPLoggerProcessor_NSLog
 
 #endif /* ProjectConfigurationAutomatID_OTMLCore_h*/

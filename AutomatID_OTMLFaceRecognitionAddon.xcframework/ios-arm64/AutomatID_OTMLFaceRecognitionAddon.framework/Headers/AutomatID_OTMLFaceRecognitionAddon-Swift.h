@@ -305,25 +305,25 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-@class OTMLComponentModel;
-@class OTMLComponent;
+@class AutomatID_OTMLComponentModel;
+@class AutomatID_OTMLComponent;
 
 SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon37FaceRecognitionCustomComponentFactory")
 @interface FaceRecognitionCustomComponentFactory : NSObject <OTMLCustomComponentFactory>
-- (OTMLComponent * _Null_unspecified)componentWithModel:(OTMLComponentModel * _Null_unspecified)aModel SWIFT_WARN_UNUSED_RESULT;
+- (AutomatID_OTMLComponent * _Null_unspecified)componentWithModel:(AutomatID_OTMLComponentModel * _Null_unspecified)aModel SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class OTMLResolvedAction;
-@class OTMLActionCommand;
-@class OTMLParameter;
-@class OTMLParameterEntry;
+@class AutomatID_OTMLResolvedAction;
+@class AutomatID_OTMLActionCommand;
+@class AutomatID_OTMLParameter;
+@class AutomatID_OTMLParameterEntry;
 
 SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon33OTMLFaceRecognitionActionReceiver")
-@interface OTMLFaceRecognitionActionReceiver : NSObject <OTMLCustomActionResolver>
-- (OTMLActionCommand * _Null_unspecified)actionCommandFromResolvedAction:(OTMLResolvedAction * _Null_unspecified)aResolvedAction SWIFT_WARN_UNUSED_RESULT;
-- (BOOL)canResolveParameter:(OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
-- (OTMLParameterEntry * _Null_unspecified)resolveParameter:(OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
+@interface OTMLFaceRecognitionActionReceiver : NSObject <AutomatID_OTMLCustomActionResolver>
+- (AutomatID_OTMLActionCommand * _Null_unspecified)actionCommandFromResolvedAction:(AutomatID_OTMLResolvedAction * _Null_unspecified)aResolvedAction SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)canResolveParameter:(AutomatID_OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
+- (AutomatID_OTMLParameterEntry * _Null_unspecified)resolveParameter:(AutomatID_OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -331,7 +331,7 @@ SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon33OTMLFaceRecognitionAction
 @class NSString;
 
 SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon28OTMLFaceRecognitionComponent")
-@interface OTMLFaceRecognitionComponent : OTMLComponent <OTMPShowHideViewProtocol>
+@interface OTMLFaceRecognitionComponent : AutomatID_OTMLComponent <AutomatID_OTMPShowHideViewProtocol>
 - (UIView * _Null_unspecified)newContentViewWithFrame:(CGRect)cViewFrame SWIFT_WARN_UNUSED_RESULT;
 - (BOOL)handleConcreteComponentParameters:(NSDictionary * _Null_unspecified)updParams SWIFT_WARN_UNUSED_RESULT;
 - (void)atShowView:(UIView * _Null_unspecified)aView;
@@ -339,8 +339,8 @@ SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon28OTMLFaceRecognitionCompon
 - (NSString * _Null_unspecified)getParametrizationValueWithFlag:(NSString * _Null_unspecified)aFlag validate:(BOOL)validateNow SWIFT_WARN_UNUSED_RESULT;
 - (void)didTrigger:(NSString * _Null_unspecified)aTrigger;
 - (void)dispose;
-- (null_unspecified instancetype)initWithOTMLComponent:(OTMLComponent * _Null_unspecified)aComponent OBJC_DESIGNATED_INITIALIZER;
-- (null_unspecified instancetype)initWithModel:(OTMLComponentModel * _Null_unspecified)aModel OBJC_DESIGNATED_INITIALIZER;
+- (null_unspecified instancetype)initWithOTMLComponent:(AutomatID_OTMLComponent * _Null_unspecified)aComponent OBJC_DESIGNATED_INITIALIZER;
+- (null_unspecified instancetype)initWithModel:(AutomatID_OTMLComponentModel * _Null_unspecified)aModel OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

@@ -34,13 +34,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLComponent?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLComponent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponent",
-                    "printedName": "AutomatID_OTML.OTMLComponent",
-                    "usr": "c:objc(cs)OTMLComponent"
+                    "name": "AutomatID_OTMLComponent",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLComponent",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponent"
                   }
                 ],
                 "usr": "s:Sq"
@@ -48,13 +48,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTMLModels.OTMLComponentModel?",
+                "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponentModel",
-                    "printedName": "AutomatID_OTMLModels.OTMLComponentModel",
-                    "usr": "c:objc(cs)OTMLComponentModel"
+                    "name": "AutomatID_OTMLComponentModel",
+                    "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponentModel"
                   }
                 ],
                 "usr": "s:Sq"
@@ -62,7 +62,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)FaceRecognitionCustomComponentFactory(im)componentWithModel:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon04FaceD22CustomComponentFactoryC9component4withSo13OTMLComponentCSgSo0L5ModelCSg_tF",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon04FaceD22CustomComponentFactoryC9component4withSo0aB14_OTMLComponentCSgSo0ab1_L5ModelCSg_tF",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "objc_name": "componentWithModel:",
             "declAttributes": [
@@ -208,13 +208,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLActionCommand?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLActionCommand?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLActionCommand",
-                    "printedName": "AutomatID_OTML.OTMLActionCommand",
-                    "usr": "c:objc(cs)OTMLActionCommand"
+                    "name": "AutomatID_OTMLActionCommand",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLActionCommand",
+                    "usr": "c:objc(cs)AutomatID_OTMLActionCommand"
                   }
                 ],
                 "usr": "s:Sq"
@@ -222,13 +222,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLResolvedAction?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLResolvedAction",
-                    "printedName": "AutomatID_OTML.OTMLResolvedAction",
-                    "usr": "c:objc(cs)OTMLResolvedAction"
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
                   }
                 ],
                 "usr": "s:Sq"
@@ -236,7 +236,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)actionCommandFromResolvedAction:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC13actionCommand4fromSo010OTMLActionI0CSgSo012OTMLResolvedF0CSg_tF",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC13actionCommand4fromSo0ab11_OTMLActionI0CSgSo0ab13_OTMLResolvedF0CSg_tF",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "objc_name": "actionCommandFromResolvedAction:",
             "declAttributes": [
@@ -259,13 +259,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameter?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameter?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameter",
-                    "printedName": "AutomatID_OTML.OTMLParameter",
-                    "usr": "c:objc(cs)OTMLParameter"
+                    "name": "AutomatID_OTMLParameter",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameter",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameter"
                   }
                 ],
                 "usr": "s:Sq"
@@ -273,7 +273,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)canResolveParameter:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC10canResolveySbSo13OTMLParameterCSgF",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC10canResolveySbSo0aB14_OTMLParameterCSgF",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "objc_name": "canResolveParameter:",
             "declAttributes": [
@@ -290,13 +290,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameterEntry?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameterEntry?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameterEntry",
-                    "printedName": "AutomatID_OTML.OTMLParameterEntry",
-                    "usr": "c:objc(cs)OTMLParameterEntry"
+                    "name": "AutomatID_OTMLParameterEntry",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameterEntry",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameterEntry"
                   }
                 ],
                 "usr": "s:Sq"
@@ -304,13 +304,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLParameter?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLParameter?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLParameter",
-                    "printedName": "AutomatID_OTML.OTMLParameter",
-                    "usr": "c:objc(cs)OTMLParameter"
+                    "name": "AutomatID_OTMLParameter",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLParameter",
+                    "usr": "c:objc(cs)AutomatID_OTMLParameter"
                   }
                 ],
                 "usr": "s:Sq"
@@ -318,7 +318,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionActionReceiver(im)resolveParameter:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC7resolveySo18OTMLParameterEntryCSgSo0I0CSgF",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD14ActionReceiverC7resolveySo0aB19_OTMLParameterEntryCSgSo0ab1_I0CSgF",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "objc_name": "resolveParameter:",
             "declAttributes": [
@@ -797,13 +797,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLComponent?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLComponent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponent",
-                    "printedName": "AutomatID_OTML.OTMLComponent",
-                    "usr": "c:objc(cs)OTMLComponent"
+                    "name": "AutomatID_OTMLComponent",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLComponent",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponent"
                   }
                 ],
                 "usr": "s:Sq"
@@ -811,7 +811,7 @@
             ],
             "declKind": "Constructor",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)initWithOTMLComponent:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD9ComponentC04otmlF0ACSgSo13OTMLComponentCSg_tcfc",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD9ComponentC04otmlF0ACSgSo0aB14_OTMLComponentCSg_tcfc",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "overriding": true,
             "implicit": true,
@@ -845,13 +845,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTMLModels.OTMLComponentModel?",
+                "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponentModel",
-                    "printedName": "AutomatID_OTMLModels.OTMLComponentModel",
-                    "usr": "c:objc(cs)OTMLComponentModel"
+                    "name": "AutomatID_OTMLComponentModel",
+                    "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponentModel"
                   }
                 ],
                 "usr": "s:Sq"
@@ -859,7 +859,7 @@
             ],
             "declKind": "Constructor",
             "usr": "c:@M@AutomatID_OTMLFaceRecognitionAddon@objc(cs)OTMLFaceRecognitionComponent(im)initWithModel:",
-            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD9ComponentC5modelACSgSo18OTMLComponentModelCSg_tcfc",
+            "mangledName": "$s34AutomatID_OTMLFaceRecognitionAddon0cD9ComponentC5modelACSgSo0aB19_OTMLComponentModelCSg_tcfc",
             "moduleName": "AutomatID_OTMLFaceRecognitionAddon",
             "overriding": true,
             "implicit": true,
@@ -907,10 +907,10 @@
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLComponent",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLComponent",
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
-          "AutomatID_OTML.OTMLComponent",
+          "AutomatID_OTML.AutomatID_OTMLComponent",
           "ObjectiveC.NSObject"
         ],
         "conformances": [
@@ -1213,14 +1213,14 @@
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
-      "offset": 263,
+      "offset": 273,
       "length": 13,
       "value": "\"otml_device\""
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
-      "offset": 344,
+      "offset": 364,
       "length": 20,
       "value": "\"is_mlkit_supported\""
     },
@@ -1255,168 +1255,168 @@
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 7553,
+      "offset": 7887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 7598,
+      "offset": 7932,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 7940,
+      "offset": 8284,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 7983,
+      "offset": 8327,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 8018,
+      "offset": 8362,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
-      "offset": 8054,
+      "offset": 8398,
       "length": 44,
       "value": "[-30.0, -20.0, -10.0, 0.0, 10.0, 20.0, 30.0]"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
-      "offset": 8133,
+      "offset": 8477,
       "length": 79,
       "value": "[[20.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 20.0]]"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 10134,
+      "offset": 10488,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 10221,
+      "offset": 10575,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 11204,
+      "offset": 11628,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 11279,
+      "offset": 11703,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 11302,
+      "offset": 11726,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 13411,
+      "offset": 13835,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13467,
+      "offset": 13891,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13479,
+      "offset": 13903,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13637,
+      "offset": 14061,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 13780,
+      "offset": 14204,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13852,
+      "offset": 14276,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
-      "offset": 13984,
+      "offset": 14408,
       "length": 6,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13987,
+      "offset": 14411,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
-      "offset": 13989,
+      "offset": 14413,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 32261,
+      "offset": 33227,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 32313,
+      "offset": 33279,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 32337,
+      "offset": 33303,
       "length": 1,
       "value": "0"
     },

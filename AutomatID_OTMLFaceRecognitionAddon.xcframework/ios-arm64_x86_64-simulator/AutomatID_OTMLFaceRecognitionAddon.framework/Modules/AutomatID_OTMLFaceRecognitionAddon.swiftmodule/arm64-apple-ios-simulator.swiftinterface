@@ -16,18 +16,18 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @objcMembers public class FaceRecognitionCustomComponentFactory : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomComponentFactory {
-  @objc public func component(with aModel: AutomatID_OTMLModels.OTMLComponentModel!) -> AutomatID_OTML.OTMLComponent!
+  @objc public func component(with aModel: AutomatID_OTMLModels.AutomatID_OTMLComponentModel!) -> AutomatID_OTML.AutomatID_OTMLComponent!
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomActionResolver {
-  @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.OTMLResolvedAction!) -> AutomatID_OTML.OTMLActionCommand!
-  @objc public func canResolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> Swift.Bool
-  @objc public func resolve(_ aParameter: AutomatID_OTML.OTMLParameter!) -> AutomatID_OTML.OTMLParameterEntry!
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.AutomatID_OTMLCustomActionResolver {
+  @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!) -> AutomatID_OTML.AutomatID_OTMLActionCommand!
+  @objc public func canResolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> Swift.Bool
+  @objc public func resolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> AutomatID_OTML.AutomatID_OTMLParameterEntry!
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionComponent : AutomatID_OTML.OTMLComponent, AutomatID_OTML.OTMPShowHideViewProtocol {
+@objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionComponent : AutomatID_OTML.AutomatID_OTMLComponent, AutomatID_OTML.AutomatID_OTMPShowHideViewProtocol {
   @objc override dynamic public func newContentView(withFrame cViewFrame: CoreFoundation.CGRect) -> UIKit.UIView!
   @objc override dynamic public func handleConcreteComponentParameters(_ updParams: [Swift.AnyHashable : Any]!) -> Swift.Bool
   @objc public func atShow(_ aView: UIKit.UIView!)
@@ -35,8 +35,8 @@ import _SwiftConcurrencyShims
   @objc override dynamic public func getParametrizationValue(withFlag aFlag: Swift.String!, validate validateNow: Swift.Bool) -> Swift.String!
   @objc override dynamic public func didTrigger(_ aTrigger: Swift.String!)
   @objc override dynamic public func dispose()
-  @objc override dynamic public init!(otmlComponent aComponent: AutomatID_OTML.OTMLComponent!)
-  @objc override dynamic public init!(model aModel: AutomatID_OTMLModels.OTMLComponentModel!)
+  @objc override dynamic public init!(otmlComponent aComponent: AutomatID_OTML.AutomatID_OTMLComponent!)
+  @objc override dynamic public init!(model aModel: AutomatID_OTMLModels.AutomatID_OTMLComponentModel!)
   @objc override dynamic public init()
   @objc deinit
 }

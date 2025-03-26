@@ -4,25 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AutomatID_OTTBXML-umbrella.h</key>
-		<data>
-		gRImxEsDOp851PI95kyux/VRf7k=
-		</data>
-		<key>Headers/OTTBXML+Compression.h</key>
+		<key>Headers/AutomatID_OTTBXML+Compression.h</key>
 		<data>
 		sWfIo7P/dE8sTqu9+bMPOhtFZdw=
 		</data>
-		<key>Headers/OTTBXML+HTTP.h</key>
+		<key>Headers/AutomatID_OTTBXML+HTTP.h</key>
 		<data>
-		Ai9U9H0d/tPPFS7LEs3RDFSVhLI=
+		PJQylbtyuvWB6yoNvXFYOYf+c5k=
 		</data>
-		<key>Headers/OTTBXML.h</key>
+		<key>Headers/AutomatID_OTTBXML-umbrella.h</key>
 		<data>
-		KsaMWWuYaZ0uU08q1CHj+FBZxJI=
+		Aha8oVGG/Z09StU5WlbEcFeobMQ=
+		</data>
+		<key>Headers/AutomatID_OTTBXML.h</key>
+		<data>
+		J3OuS2s3LVQkjv2TEHVir35nTNY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0FMtjL0pox1ZFRIDqo3hXOOOSeU=
+		2TITOrbsM2gD/f0XGK0s12Mu/us=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,18 +31,7 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AutomatID_OTTBXML-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gRImxEsDOp851PI95kyux/VRf7k=
-			</data>
-			<key>hash2</key>
-			<data>
-			4X8EOapQ+NHsfA1fsro2BjxV3RFSN98HWcjPsjTyaHY=
-			</data>
-		</dict>
-		<key>Headers/OTTBXML+Compression.h</key>
+		<key>Headers/AutomatID_OTTBXML+Compression.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -53,26 +42,37 @@
 			hF+rjpNOhNBZh4ozv4p6/vQFTlkWPRd7yylIu01+WCU=
 			</data>
 		</dict>
-		<key>Headers/OTTBXML+HTTP.h</key>
+		<key>Headers/AutomatID_OTTBXML+HTTP.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ai9U9H0d/tPPFS7LEs3RDFSVhLI=
+			PJQylbtyuvWB6yoNvXFYOYf+c5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			vmJ3w9N4bGb3ug4zk474N7KgeMF2+V4yCAHJAtKV8k8=
+			bdSqM5EMnuH7Tc8/D02Hf6yvlnnIVhPsI+xfz+YIdc4=
 			</data>
 		</dict>
-		<key>Headers/OTTBXML.h</key>
+		<key>Headers/AutomatID_OTTBXML-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KsaMWWuYaZ0uU08q1CHj+FBZxJI=
+			Aha8oVGG/Z09StU5WlbEcFeobMQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			rA/ChQdJNqQY2mjb6GApvzEzANei5WUrNdK0F9T1f7c=
+			u0LO2cQi5smGB+sXbfPdvEwnxPYHkDiDEtu557ZTBrQ=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTTBXML.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J3OuS2s3LVQkjv2TEHVir35nTNY=
+			</data>
+			<key>hash2</key>
+			<data>
+			mMEhyiRjFS9TuMJY8bhlUPHoWb46n9fmGHX397l/PQA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

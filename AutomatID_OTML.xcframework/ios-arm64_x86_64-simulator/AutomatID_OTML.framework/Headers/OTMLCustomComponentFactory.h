@@ -6,14 +6,11 @@
 //  Copyright (c) 2012 Opentech. All rights reserved.
 //
 
-
-#import "OTTBXML.h"
-#import "OTMLComponent.h"
-
+#import "AutomatID_OTMLComponent.h"
 
 @protocol OTMLCustomComponentFactory <NSObject>
 
--(OTMLComponent*) componentWithModel:(OTMLComponentModel*) aModel;
+-(AutomatID_OTMLComponent*) componentWithModel:(AutomatID_OTMLComponentModel*) aModel;
 
 
 @end

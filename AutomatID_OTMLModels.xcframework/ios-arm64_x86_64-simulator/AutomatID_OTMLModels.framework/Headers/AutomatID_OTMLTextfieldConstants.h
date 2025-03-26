@@ -1,0 +1,12 @@
+extern NSString* const c_AutomatID_OTMLTextfieldConstants_text_and_cursor_json_element_text;
+
+extern NSString* const c_AutomatID_OTMLTextfieldConstants_text_and_cursor_json_element_cursor_position;
+
+extern NSString* const c_AutomatID_OTMLTextfieldConstants_text_and_cursor_json_element_cursor_position_value_string_start;
+
+extern NSString* const c_AutomatID_OTMLTextfieldConstants_text_and_cursor_json_element_cursor_position_value_string_end;
+
+
+
+@interface AutomatID_OTMLTextfieldConstants : NSObject
+@end

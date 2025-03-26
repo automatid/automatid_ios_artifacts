@@ -10,9 +10,9 @@
 #endif
 #endif
 
-#import "OTML_FARComponentModelFactory.h"
-#import "OTML_FARComponentModelToObjectInterface.h"
-#import "OTMLLivenessCheckModel.h"
+#import "AutomatID_OTML_FARLivenessCheckModel.h"
+#import "AutomatID_OTML_FARComponentModelFactory.h"
+#import "AutomatID_OTML_FARComponentModelToObjectInterface.h"
 #import "OTMLFaceRecognitionDebugMode.h"
 #import "AutomatID_OTMLFaceRecognitionAddon.OTVersion.h"
 #import "ProjectConfigurationAutomatID_OTMLFaceRecognitionAddon.h"

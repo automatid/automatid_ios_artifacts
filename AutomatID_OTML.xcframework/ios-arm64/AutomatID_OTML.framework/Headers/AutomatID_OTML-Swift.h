@@ -308,31 +308,31 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-@class OTMLResolvedAction;
-@class OTMLViewController;
+@class AutomatID_OTMLResolvedAction;
+@class AutomatID_OTMLViewController;
 
-SWIFT_CLASS("_TtC14AutomatID_OTML45OTMLAddPushNotificationBlacklistActionCommand")
-@interface OTMLAddPushNotificationBlacklistActionCommand : OTMLActionCommand
-- (void)executeResolvedAction:(OTMLResolvedAction * _Null_unspecified)aAction onViewController:(OTMLViewController * _Null_unspecified)aNestingVC;
+SWIFT_CLASS("_TtC14AutomatID_OTML55AutomatID_OTMLAddPushNotificationBlacklistActionCommand")
+@interface AutomatID_OTMLAddPushNotificationBlacklistActionCommand : AutomatID_OTMLActionCommand
+- (void)executeResolvedAction:(AutomatID_OTMLResolvedAction * _Null_unspecified)aAction onViewController:(AutomatID_OTMLViewController * _Null_unspecified)aNestingVC;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @class NSString;
 @class NSObject;
 
-SWIFT_CLASS("_TtC14AutomatID_OTML33OTMLPushNotificationActionCommand")
-@interface OTMLPushNotificationActionCommand : OTMLActionCommandSet
+SWIFT_CLASS("_TtC14AutomatID_OTML43AutomatID_OTMLPushNotificationActionCommand")
+@interface AutomatID_OTMLPushNotificationActionCommand : AutomatID_OTMLActionCommandSet
 - (NSArray<NSString *> * _Nonnull)handleKeys SWIFT_WARN_UNUSED_RESULT;
 - (NSDictionary * _Null_unspecified)actionCommands SWIFT_WARN_UNUSED_RESULT;
 - (null_unspecified instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (NSDictionary<NSString *, OTMLActionCommand *> * _Nonnull)newCommandDictionary SWIFT_WARN_UNUSED_RESULT;
+- (NSDictionary<NSString *, AutomatID_OTMLActionCommand *> * _Nonnull)newCommandDictionary SWIFT_WARN_UNUSED_RESULT;
 - (null_unspecified instancetype)initForSubClasses SWIFT_UNAVAILABLE;
 @end
 
 
-SWIFT_CLASS("_TtC14AutomatID_OTML34OTMLPushNotificationBlacklistRules")
-@interface OTMLPushNotificationBlacklistRules : NSObject <OTMLRestartAppAwareProtocol>
-+ (OTMLPushNotificationBlacklistRules * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS("_TtC14AutomatID_OTML44AutomatID_OTMLPushNotificationBlacklistRules")
+@interface AutomatID_OTMLPushNotificationBlacklistRules : NSObject <AutomatID_OTMLRestartAppAwareProtocol>
++ (AutomatID_OTMLPushNotificationBlacklistRules * _Nonnull)getInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)willRestart;
 - (void)cleanBlacklist;
@@ -341,28 +341,28 @@ SWIFT_CLASS("_TtC14AutomatID_OTML34OTMLPushNotificationBlacklistRules")
 - (BOOL)checkIfNotificationIsBlacklistedWithPayload:(NSDictionary<id <NSCopying>, NSObject *> * _Nonnull)payload SWIFT_WARN_UNUSED_RESULT;
 @end
 
-
-SWIFT_CLASS("_TtC14AutomatID_OTML48OTMLRemovePushNotificationBlacklistActionCommand")
-@interface OTMLRemovePushNotificationBlacklistActionCommand : OTMLActionCommand
-- (void)executeResolvedAction:(OTMLResolvedAction * _Null_unspecified)aAction onViewController:(OTMLViewController * _Null_unspecified)aNestingVC;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class OTMLComponentModel;
+@class AutomatID_OTMLComponentModel;
 @class UIView;
 
-SWIFT_CLASS("_TtC14AutomatID_OTML25OTMLSliderButtonComponent")
-@interface OTMLSliderButtonComponent : OTMLComponent <UIGestureRecognizerDelegate>
+SWIFT_CLASS("_TtC14AutomatID_OTML35AutomatID_OTMLSliderButtonComponent")
+@interface AutomatID_OTMLSliderButtonComponent : AutomatID_OTMLComponent <UIGestureRecognizerDelegate>
 - (CGFloat)contentHeightWrapped SWIFT_WARN_UNUSED_RESULT;
 - (void)didTrigger:(NSString * _Null_unspecified)aTrigger;
 - (BOOL)handleConcreteComponentParameters:(NSDictionary * _Null_unspecified)updParams SWIFT_WARN_UNUSED_RESULT;
 - (void)updateFramesInView;
-- (null_unspecified instancetype)initWithModel:(OTMLComponentModel * _Null_unspecified)aModel OBJC_DESIGNATED_INITIALIZER;
-- (null_unspecified instancetype)initWithOTMLComponent:(OTMLComponent * _Null_unspecified)aComponent OBJC_DESIGNATED_INITIALIZER;
+- (null_unspecified instancetype)initWithModel:(AutomatID_OTMLComponentModel * _Null_unspecified)aModel OBJC_DESIGNATED_INITIALIZER;
+- (null_unspecified instancetype)initWithOTMLComponent:(AutomatID_OTMLComponent * _Null_unspecified)aComponent OBJC_DESIGNATED_INITIALIZER;
 - (UIView * _Nonnull)createView SWIFT_WARN_UNUSED_RESULT;
 - (UIView * _Null_unspecified)newContentViewWithFrame:(CGRect)cViewFrame SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_CLASS("_TtC14AutomatID_OTML48OTMLRemovePushNotificationBlacklistActionCommand")
+@interface OTMLRemovePushNotificationBlacklistActionCommand : AutomatID_OTMLActionCommand
+- (void)executeResolvedAction:(AutomatID_OTMLResolvedAction * _Null_unspecified)aAction onViewController:(AutomatID_OTMLViewController * _Null_unspecified)aNestingVC;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 

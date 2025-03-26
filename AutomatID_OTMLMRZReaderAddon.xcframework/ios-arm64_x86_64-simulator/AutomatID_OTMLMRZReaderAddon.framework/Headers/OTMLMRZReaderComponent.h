@@ -6,9 +6,9 @@
 //  Copyright (c) 2020 Opentech. All rights reserved.
 //
 
-#import "OTMPShowHideViewProtocol.h"
+#import "AutomatID_OTMPShowHideViewProtocol.h"
 #import <AVFoundation/AVFoundation.h>
-#import "OTMLComponent.h"
+#import "AutomatID_OTMLComponent.h"
 
-@interface OTMLMRZReaderComponent : OTMLComponent<OTMPShowHideViewProtocol>
+@interface OTMLMRZReaderComponent : AutomatID_OTMLComponent<AutomatID_OTMPShowHideViewProtocol>
 @end

@@ -10,10 +10,10 @@
 #endif
 #endif
 
-#import "OTMLMRZReaderConstants.h"
-#import "OTML_MRZComponentModelFactory.h"
-#import "OTML_MRZComponentModelToObjectInterface.h"
-#import "OTMLMrzReaderModel.h"
+#import "AutomatID_OTML_MRZMrzReaderModel.h"
+#import "AutomatID_OTML_MRZReaderConstants.h"
+#import "AutomatID_OTML_MRZComponentModelFactory.h"
+#import "AutomatID_OTML_MRZComponentModelToObjectInterface.h"
 #import "MRZCustomComponentFactory.h"
 #import "OTMLMRZReaderComponent.h"
 

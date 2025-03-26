@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "OTMLNFCdocumentReaderConstants.h"
+#import "AutomatID_OTML_NFCdocumentReaderConstants.h"
 #import "AutomatID_OTMLNfcDocumentReaderModule.OTVersion.h"
 
 FOUNDATION_EXPORT double AutomatID_OTMLNfcDocumentReaderModuleVersionNumber;

@@ -312,8 +312,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 /// reference to use in any of SecKey operations (SecKeyEncrypt, SecKeyRawVerify…).
 /// As far as I know, any other way of importing and using public keys from the outside is not
 /// advised: https://devforums.apple.com/message/301532#301532
-SWIFT_CLASS_NAMED("CryptoExportImportManager")
-@interface CryptoExportImportManager : NSObject
+SWIFT_CLASS_NAMED("AutomatID_CryptoExportImportManager")
+@interface AutomatID_CryptoExportImportManager : NSObject
 /// Extracts the public key from a X.509 certificate and returns a valid SecKeyRef that can be
 /// used in any of SecKey operations (SecKeyEncrypt, SecKeyRawVerify…).
 /// Receives the certificate data in DER format.
@@ -324,17 +324,17 @@ SWIFT_CLASS_NAMED("CryptoExportImportManager")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class IsoCountryInfoObj;
+@class AutomatID_IsoCountryInfoObj;
 
-SWIFT_CLASS_NAMED("IsoCountryCodes")
-@interface IsoCountryCodes : NSObject
-+ (IsoCountryInfoObj * _Nullable)searchByCallingCode:(NSString * _Nonnull)calllingCode SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_NAMED("AutomatID_IsoCountryCodes")
+@interface AutomatID_IsoCountryCodes : NSObject
++ (AutomatID_IsoCountryInfoObj * _Nullable)searchByCallingCode:(NSString * _Nonnull)calllingCode SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
-SWIFT_CLASS_NAMED("IsoCountryInfoObj")
-@interface IsoCountryInfoObj : NSObject
+SWIFT_CLASS_NAMED("AutomatID_IsoCountryInfoObj")
+@interface AutomatID_IsoCountryInfoObj : NSObject
 @property (nonatomic, copy) NSString * _Nonnull name;
 @property (nonatomic, copy) NSString * _Nonnull numeric;
 @property (nonatomic, copy) NSString * _Nonnull alpha2;
@@ -676,8 +676,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 /// reference to use in any of SecKey operations (SecKeyEncrypt, SecKeyRawVerify…).
 /// As far as I know, any other way of importing and using public keys from the outside is not
 /// advised: https://devforums.apple.com/message/301532#301532
-SWIFT_CLASS_NAMED("CryptoExportImportManager")
-@interface CryptoExportImportManager : NSObject
+SWIFT_CLASS_NAMED("AutomatID_CryptoExportImportManager")
+@interface AutomatID_CryptoExportImportManager : NSObject
 /// Extracts the public key from a X.509 certificate and returns a valid SecKeyRef that can be
 /// used in any of SecKey operations (SecKeyEncrypt, SecKeyRawVerify…).
 /// Receives the certificate data in DER format.
@@ -688,17 +688,17 @@ SWIFT_CLASS_NAMED("CryptoExportImportManager")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class IsoCountryInfoObj;
+@class AutomatID_IsoCountryInfoObj;
 
-SWIFT_CLASS_NAMED("IsoCountryCodes")
-@interface IsoCountryCodes : NSObject
-+ (IsoCountryInfoObj * _Nullable)searchByCallingCode:(NSString * _Nonnull)calllingCode SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_NAMED("AutomatID_IsoCountryCodes")
+@interface AutomatID_IsoCountryCodes : NSObject
++ (AutomatID_IsoCountryInfoObj * _Nullable)searchByCallingCode:(NSString * _Nonnull)calllingCode SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
-SWIFT_CLASS_NAMED("IsoCountryInfoObj")
-@interface IsoCountryInfoObj : NSObject
+SWIFT_CLASS_NAMED("AutomatID_IsoCountryInfoObj")
+@interface AutomatID_IsoCountryInfoObj : NSObject
 @property (nonatomic, copy) NSString * _Nonnull name;
 @property (nonatomic, copy) NSString * _Nonnull numeric;
 @property (nonatomic, copy) NSString * _Nonnull alpha2;

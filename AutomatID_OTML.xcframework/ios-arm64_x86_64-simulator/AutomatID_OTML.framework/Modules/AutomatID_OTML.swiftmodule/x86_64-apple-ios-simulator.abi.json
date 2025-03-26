@@ -15,9 +15,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "AutomatID_OTMLCore",
+        "printedName": "AutomatID_OTMLCore",
+        "declKind": "Import",
+        "moduleName": "AutomatID_OTML"
+      },
+      {
         "kind": "TypeDecl",
-        "name": "OTMLPushNotificationBlacklistRules",
-        "printedName": "OTMLPushNotificationBlacklistRules",
+        "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+        "printedName": "AutomatID_OTMLPushNotificationBlacklistRules",
         "children": [
           {
             "kind": "Function",
@@ -26,14 +33,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "OTMLPushNotificationBlacklistRules",
-                "printedName": "AutomatID_OTML.OTMLPushNotificationBlacklistRules",
-                "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules"
+                "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationBlacklistRules",
+                "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(cm)getInstance",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC11getInstanceACyFZ",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(cm)getInstance",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC11getInstanceACyFZ",
             "moduleName": "AutomatID_OTML",
             "static": true,
             "declAttributes": [
@@ -49,14 +56,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "OTMLPushNotificationBlacklistRules",
-                "printedName": "AutomatID_OTML.OTMLPushNotificationBlacklistRules",
-                "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules"
+                "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationBlacklistRules",
+                "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)init",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesCACycfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)init",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesCACycfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "init",
@@ -80,8 +87,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)willRestart",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC11willRestartyyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)willRestart",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC11willRestartyyF",
             "moduleName": "AutomatID_OTML",
             "objc_name": "willRestart",
             "declAttributes": [
@@ -102,8 +109,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)cleanBlacklist",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC05cleanF0yyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)cleanBlacklist",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC05cleanF0yyF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -123,8 +130,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)blackListAll",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC12blackListAllyyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)blackListAll",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC12blackListAllyyF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -144,14 +151,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "OTMLPushNotificationBlacklistRule",
-                "printedName": "AutomatID_OTML.OTMLPushNotificationBlacklistRule",
-                "usr": "s:14AutomatID_OTML33OTMLPushNotificationBlacklistRuleV"
+                "name": "AutomatID_OTMLPushNotificationBlacklistRule",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationBlacklistRule",
+                "usr": "s:14AutomatID_OTML0aB34_OTMLPushNotificationBlacklistRuleV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0defI0V_tF",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0defI0V_tF",
+            "usr": "s:14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0ab1_defI0V_tF",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0ab1_defI0V_tF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl"
@@ -176,8 +183,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)removeRuleFromBlacklistWithIdWithId:",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC014removeRuleFromF6WithId2idySS_tF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)removeRuleFromBlacklistWithIdWithId:",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC014removeRuleFromF6WithId2idySS_tF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -218,8 +225,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules(im)checkIfNotificationIsBlacklistedWithPayload:",
-            "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC07checkIfE13IsBlacklisted7payloadSbSDys11AnyHashableVAGG_tF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)checkIfNotificationIsBlacklistedWithPayload:",
+            "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC07checkIfE13IsBlacklisted7payloadSbSDys11AnyHashableVAGG_tF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -229,8 +236,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationBlacklistRules",
-        "mangledName": "$s14AutomatID_OTML34OTMLPushNotificationBlacklistRulesC",
+        "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules",
+        "mangledName": "$s14AutomatID_OTML0aB35_OTMLPushNotificationBlacklistRulesC",
         "moduleName": "AutomatID_OTML",
         "declAttributes": [
           "AccessControl",
@@ -310,11 +317,11 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "OTMLPushNotificationBlacklistRule",
-        "printedName": "OTMLPushNotificationBlacklistRule",
+        "name": "AutomatID_OTMLPushNotificationBlacklistRule",
+        "printedName": "AutomatID_OTMLPushNotificationBlacklistRule",
         "declKind": "Struct",
-        "usr": "s:14AutomatID_OTML33OTMLPushNotificationBlacklistRuleV",
-        "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationBlacklistRuleV",
+        "usr": "s:14AutomatID_OTML0aB34_OTMLPushNotificationBlacklistRuleV",
+        "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationBlacklistRuleV",
         "moduleName": "AutomatID_OTML",
         "declAttributes": [
           "AccessControl"
@@ -338,8 +345,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "OTMLPushNotificationActionCommand",
-        "printedName": "OTMLPushNotificationActionCommand",
+        "name": "AutomatID_OTMLPushNotificationActionCommand",
+        "printedName": "AutomatID_OTMLPushNotificationActionCommand",
         "children": [
           {
             "kind": "Function",
@@ -362,8 +369,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand(im)handleKeys",
-            "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandC10handleKeysSaySSGyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)handleKeys",
+            "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandC10handleKeysSaySSGyF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -405,8 +412,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand(im)actionCommands",
-            "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandC14actionCommandsSDys11AnyHashableVypGSgyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)actionCommands",
+            "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandC14actionCommandsSDys11AnyHashableVypGSgyF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "actionCommands",
@@ -426,21 +433,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AutomatID_OTML.OTMLPushNotificationActionCommand?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationActionCommand?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLPushNotificationActionCommand",
-                    "printedName": "AutomatID_OTML.OTMLPushNotificationActionCommand",
-                    "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand"
+                    "name": "AutomatID_OTMLPushNotificationActionCommand",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationActionCommand",
+                    "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand(im)init",
-            "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandCACSgycfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)init",
+            "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandCACSgycfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "init",
@@ -460,7 +467,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Dictionary",
-                "printedName": "[Swift.String : AutomatID_OTML.OTMLActionCommand]",
+                "printedName": "[Swift.String : AutomatID_OTML.AutomatID_OTMLActionCommand]",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -470,17 +477,17 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLActionCommand",
-                    "printedName": "AutomatID_OTML.OTMLActionCommand",
-                    "usr": "c:objc(cs)OTMLActionCommand"
+                    "name": "AutomatID_OTMLActionCommand",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLActionCommand",
+                    "usr": "c:objc(cs)AutomatID_OTMLActionCommand"
                   }
                 ],
                 "usr": "s:SD"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand(im)newCommandDictionary",
-            "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandC03newG10DictionarySDySSSo010OTMLActionG0CGyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)newCommandDictionary",
+            "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandC03newG10DictionarySDySSSo0ab11_OTMLActionG0CGyF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "AccessControl",
@@ -496,13 +503,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AutomatID_OTML.OTMLPushNotificationActionCommand?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationActionCommand?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLPushNotificationActionCommand",
-                    "printedName": "AutomatID_OTML.OTMLPushNotificationActionCommand",
-                    "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand"
+                    "name": "AutomatID_OTMLPushNotificationActionCommand",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLPushNotificationActionCommand",
+                    "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand"
                   }
                 ],
                 "usr": "s:Sq"
@@ -514,8 +521,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand(im)initForSubClasses",
-            "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandC13forSubClassesACSgyt_tcfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)initForSubClasses",
+            "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandC13forSubClassesACSgyt_tcfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "implicit": true,
@@ -529,17 +536,17 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLPushNotificationActionCommand",
-        "mangledName": "$s14AutomatID_OTML33OTMLPushNotificationActionCommandC",
+        "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand",
+        "mangledName": "$s14AutomatID_OTML0aB34_OTMLPushNotificationActionCommandC",
         "moduleName": "AutomatID_OTML",
         "declAttributes": [
           "AccessControl",
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLActionCommandSet",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommandSet",
         "superclassNames": [
-          "AutomatID_OTML.OTMLActionCommandSet",
+          "AutomatID_OTML.AutomatID_OTMLActionCommandSet",
           "ObjectiveC.NSObject"
         ],
         "conformances": [
@@ -610,8 +617,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "OTMLAddPushNotificationBlacklistActionCommand",
-        "printedName": "OTMLAddPushNotificationBlacklistActionCommand",
+        "name": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+        "printedName": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
         "children": [
           {
             "kind": "Function",
@@ -626,13 +633,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLResolvedAction?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLResolvedAction",
-                    "printedName": "AutomatID_OTML.OTMLResolvedAction",
-                    "usr": "c:objc(cs)OTMLResolvedAction"
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
                   }
                 ],
                 "usr": "s:Sq"
@@ -640,21 +647,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLViewController?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLViewController?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLViewController",
-                    "printedName": "AutomatID_OTML.OTMLViewController",
-                    "usr": "c:objc(cs)OTMLViewController"
+                    "name": "AutomatID_OTMLViewController",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLViewController",
+                    "usr": "c:objc(cs)AutomatID_OTMLViewController"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLAddPushNotificationBlacklistActionCommand(im)executeResolvedAction:onViewController:",
-            "mangledName": "$s14AutomatID_OTML45OTMLAddPushNotificationBlacklistActionCommandC7execute_2onySo012OTMLResolvedH0CSg_So18OTMLViewControllerCSgtF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand(im)executeResolvedAction:onViewController:",
+            "mangledName": "$s14AutomatID_OTML0aB46_OTMLAddPushNotificationBlacklistActionCommandC7execute_2onySo0ab13_OTMLResolvedH0CSg_So0aB19_OTMLViewControllerCSgtF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "executeResolvedAction:onViewController:",
@@ -673,14 +680,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "OTMLAddPushNotificationBlacklistActionCommand",
-                "printedName": "AutomatID_OTML.OTMLAddPushNotificationBlacklistActionCommand",
-                "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLAddPushNotificationBlacklistActionCommand"
+                "name": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+                "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLAddPushNotificationBlacklistActionCommand(im)init",
-            "mangledName": "$s14AutomatID_OTML45OTMLAddPushNotificationBlacklistActionCommandCACycfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand(im)init",
+            "mangledName": "$s14AutomatID_OTML0aB46_OTMLAddPushNotificationBlacklistActionCommandCACycfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "implicit": true,
@@ -694,18 +701,18 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLAddPushNotificationBlacklistActionCommand",
-        "mangledName": "$s14AutomatID_OTML45OTMLAddPushNotificationBlacklistActionCommandC",
+        "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+        "mangledName": "$s14AutomatID_OTML0aB46_OTMLAddPushNotificationBlacklistActionCommandC",
         "moduleName": "AutomatID_OTML",
         "declAttributes": [
           "AccessControl",
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLActionCommand",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommand",
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
-          "AutomatID_OTML.OTMLActionCommand",
+          "AutomatID_OTML.AutomatID_OTMLActionCommand",
           "ObjectiveC.NSObject"
         ],
         "conformances": [
@@ -792,13 +799,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLResolvedAction?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLResolvedAction",
-                    "printedName": "AutomatID_OTML.OTMLResolvedAction",
-                    "usr": "c:objc(cs)OTMLResolvedAction"
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
                   }
                 ],
                 "usr": "s:Sq"
@@ -806,13 +813,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLViewController?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLViewController?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLViewController",
-                    "printedName": "AutomatID_OTML.OTMLViewController",
-                    "usr": "c:objc(cs)OTMLViewController"
+                    "name": "AutomatID_OTMLViewController",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLViewController",
+                    "usr": "c:objc(cs)AutomatID_OTMLViewController"
                   }
                 ],
                 "usr": "s:Sq"
@@ -820,7 +827,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLRemovePushNotificationBlacklistActionCommand(im)executeResolvedAction:onViewController:",
-            "mangledName": "$s14AutomatID_OTML48OTMLRemovePushNotificationBlacklistActionCommandC7execute_2onySo012OTMLResolvedH0CSg_So18OTMLViewControllerCSgtF",
+            "mangledName": "$s14AutomatID_OTML48OTMLRemovePushNotificationBlacklistActionCommandC7execute_2onySo0ab13_OTMLResolvedH0CSg_So0aB19_OTMLViewControllerCSgtF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "executeResolvedAction:onViewController:",
@@ -868,10 +875,10 @@
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLActionCommand",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommand",
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
-          "AutomatID_OTML.OTMLActionCommand",
+          "AutomatID_OTML.AutomatID_OTMLActionCommand",
           "ObjectiveC.NSObject"
         ],
         "conformances": [
@@ -952,8 +959,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "OTMLSliderButtonComponent",
-        "printedName": "OTMLSliderButtonComponent",
+        "name": "AutomatID_OTMLSliderButtonComponent",
+        "printedName": "AutomatID_OTMLSliderButtonComponent",
         "children": [
           {
             "kind": "Function",
@@ -968,8 +975,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)contentHeightWrapped",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC20contentHeightWrapped12CoreGraphics7CGFloatVyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)contentHeightWrapped",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC20contentHeightWrapped12CoreGraphics7CGFloatVyF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "contentHeightWrapped",
@@ -1009,8 +1016,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)didTrigger:",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC10didTriggeryySSSgF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)didTrigger:",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC10didTriggeryySSSgF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "didTrigger:",
@@ -1064,8 +1071,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)handleConcreteComponentParameters:",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC014handleConcreteF10ParametersySbSDys11AnyHashableVypGSgF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)handleConcreteComponentParameters:",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC014handleConcreteF10ParametersySbSDys11AnyHashableVypGSgF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "handleConcreteComponentParameters:",
@@ -1091,8 +1098,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)updateFramesInView",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC18updateFramesInViewyyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)updateFramesInView",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC18updateFramesInViewyyF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "updateFramesInView",
@@ -1114,13 +1121,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AutomatID_OTML.OTMLSliderButtonComponent?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLSliderButtonComponent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLSliderButtonComponent",
-                    "printedName": "AutomatID_OTML.OTMLSliderButtonComponent",
-                    "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent"
+                    "name": "AutomatID_OTMLSliderButtonComponent",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLSliderButtonComponent",
+                    "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
                   }
                 ],
                 "usr": "s:Sq"
@@ -1128,21 +1135,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTMLModels.OTMLComponentModel?",
+                "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponentModel",
-                    "printedName": "AutomatID_OTMLModels.OTMLComponentModel",
-                    "usr": "c:objc(cs)OTMLComponentModel"
+                    "name": "AutomatID_OTMLComponentModel",
+                    "printedName": "AutomatID_OTMLModels.AutomatID_OTMLComponentModel",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponentModel"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)initWithModel:",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC5modelACSgSo18OTMLComponentModelCSg_tcfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)initWithModel:",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC5modelACSgSo0aB19_OTMLComponentModelCSg_tcfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "initWithModel:",
@@ -1164,13 +1171,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AutomatID_OTML.OTMLSliderButtonComponent?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLSliderButtonComponent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLSliderButtonComponent",
-                    "printedName": "AutomatID_OTML.OTMLSliderButtonComponent",
-                    "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent"
+                    "name": "AutomatID_OTMLSliderButtonComponent",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLSliderButtonComponent",
+                    "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
                   }
                 ],
                 "usr": "s:Sq"
@@ -1178,21 +1185,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "AutomatID_OTML.OTMLComponent?",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLComponent?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "OTMLComponent",
-                    "printedName": "AutomatID_OTML.OTMLComponent",
-                    "usr": "c:objc(cs)OTMLComponent"
+                    "name": "AutomatID_OTMLComponent",
+                    "printedName": "AutomatID_OTML.AutomatID_OTMLComponent",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponent"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)initWithOTMLComponent:",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC04otmlF0ACSgSo13OTMLComponentCSg_tcfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)initWithOTMLComponent:",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC04otmlF0ACSgSo0aB14_OTMLComponentCSg_tcfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "initWithOTMLComponent:",
@@ -1219,8 +1226,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)createView",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC10createViewSo6UIViewCyF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)createView",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC10createViewSo6UIViewCyF",
             "moduleName": "AutomatID_OTML",
             "declAttributes": [
               "Preconcurrency",
@@ -1257,8 +1264,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)newContentViewWithFrame:",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC14newContentView9withFrameSo6UIViewCSgSo6CGRectV_tF",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)newContentViewWithFrame:",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC14newContentView9withFrameSo6UIViewCSgSo6CGRectV_tF",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "objc_name": "newContentViewWithFrame:",
@@ -1279,14 +1286,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "OTMLSliderButtonComponent",
-                "printedName": "AutomatID_OTML.OTMLSliderButtonComponent",
-                "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent"
+                "name": "AutomatID_OTMLSliderButtonComponent",
+                "printedName": "AutomatID_OTML.AutomatID_OTMLSliderButtonComponent",
+                "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent(im)init",
-            "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentCACycfc",
+            "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)init",
+            "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentCACycfc",
             "moduleName": "AutomatID_OTML",
             "overriding": true,
             "implicit": true,
@@ -1302,8 +1309,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@AutomatID_OTML@objc(cs)OTMLSliderButtonComponent",
-        "mangledName": "$s14AutomatID_OTML25OTMLSliderButtonComponentC",
+        "usr": "c:@M@AutomatID_OTML@objc(cs)AutomatID_OTMLSliderButtonComponent",
+        "mangledName": "$s14AutomatID_OTML0aB26_OTMLSliderButtonComponentC",
         "moduleName": "AutomatID_OTML",
         "declAttributes": [
           "Preconcurrency",
@@ -1312,9 +1319,9 @@
           "ObjCMembers",
           "ObjC"
         ],
-        "superclassUsr": "c:objc(cs)OTMLComponent",
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLComponent",
         "superclassNames": [
-          "AutomatID_OTML.OTMLComponent",
+          "AutomatID_OTML.AutomatID_OTMLComponent",
           "ObjectiveC.NSObject"
         ],
         "conformances": [
@@ -1399,6 +1406,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "AutomatID_OTMLCore",
+        "printedName": "AutomatID_OTMLCore",
+        "declKind": "Import",
+        "moduleName": "AutomatID_OTML"
       },
       {
         "kind": "TypeDecl",
@@ -1547,457 +1561,457 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
       "kind": "Array",
-      "offset": 354,
+      "offset": 420,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
       "kind": "BooleanLiteral",
-      "offset": 388,
+      "offset": 454,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 693,
+      "offset": 723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 734,
+      "offset": 764,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 780,
+      "offset": 810,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 837,
+      "offset": 867,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 875,
+      "offset": 905,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 915,
+      "offset": 945,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 963,
+      "offset": 993,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1002,
+      "offset": 1032,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1044,
+      "offset": 1074,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1090,
+      "offset": 1120,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1150,
+      "offset": 1180,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1200,
+      "offset": 1230,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1259,
+      "offset": 1289,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1310,
+      "offset": 1340,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 1360,
+      "offset": 1390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3637,
+      "offset": 3787,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3697,
+      "offset": 3847,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3732,
+      "offset": 3882,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3793,
+      "offset": 3943,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 4202,
+      "offset": 4352,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 4240,
+      "offset": 4390,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 4506,
+      "offset": 4656,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 5789,
+      "offset": 5979,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 5832,
+      "offset": 6022,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 5892,
+      "offset": 6082,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 5927,
+      "offset": 6117,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 5988,
+      "offset": 6178,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 6633,
+      "offset": 6823,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 7257,
+      "offset": 7487,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 7284,
+      "offset": 7514,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 7410,
+      "offset": 7640,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 7753,
+      "offset": 7983,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 7918,
+      "offset": 8148,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 8333,
+      "offset": 8563,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 8991,
+      "offset": 9221,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
-      "offset": 9500,
+      "offset": 9730,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 9588,
+      "offset": 9818,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 9646,
+      "offset": 9876,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 9896,
+      "offset": 10126,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 9934,
+      "offset": 10164,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 10735,
+      "offset": 11005,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 10818,
+      "offset": 11088,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 10872,
+      "offset": 11142,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 11501,
+      "offset": 11811,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 11539,
+      "offset": 11849,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 11663,
+      "offset": 11983,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 11725,
+      "offset": 12045,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 12133,
+      "offset": 12453,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 12209,
+      "offset": 12529,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 12221,
+      "offset": 12541,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 12999,
+      "offset": 13359,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13151,
+      "offset": 13511,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13189,
+      "offset": 13549,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 13521,
+      "offset": 13891,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 13563,
+      "offset": 13933,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 13612,
+      "offset": 13982,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 13624,
+      "offset": 13994,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
-      "offset": 14328,
+      "offset": 14738,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 14370,
+      "offset": 14780,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 14486,
+      "offset": 14896,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
-      "offset": 14524,
+      "offset": 14934,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 14607,
+      "offset": 15027,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
-      "offset": 14638,
+      "offset": 15058,
       "length": 5,
       "value": "false"
     }

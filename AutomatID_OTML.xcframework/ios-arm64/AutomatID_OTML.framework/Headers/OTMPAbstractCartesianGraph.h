@@ -7,9 +7,9 @@
 //
 
 #import "OTMPCartesianPoint.h"
-#import <AutomatID_OTMLModels/OTMLComponentModel.h>
+#import <AutomatID_OTMLModels/AutomatID_OTMLComponentModel.h>
 
-@class OTMLFont;
+@class AutomatID_OTMLFont;
 
 @protocol OTMPCartesianGraphInterpolatedLabelResolver <NSObject>
 
@@ -28,32 +28,32 @@
 -(nonnull instancetype) initWithCoder:(nullable NSCoder *)aDecoder __attribute__((unavailable("init not available")));
 
 -(nonnull instancetype) initWithFrame:(CGRect)aFrame
-                   modelConfiguration:(nonnull OTMLComponentModel*)aModel;
+                   modelConfiguration:(nonnull AutomatID_OTMLComponentModel*)aModel;
 
 #pragma mark public
 -(void) redrawWithPoints:(nonnull NSArray<OTMPCartesianPoint*>*) aPoints
             withResolver:(nullable NSObject<OTMPCartesianGraphInterpolatedLabelResolver>*)yLabelFormatter;
--(void) rebuildWithModelConfiguration:(nonnull OTMLComponentModel*)aModel
+-(void) rebuildWithModelConfiguration:(nonnull AutomatID_OTMLComponentModel*)aModel
                          withResolver:(nullable NSObject<OTMPCartesianGraphInterpolatedLabelResolver>*)yLabelFormatter;
 
 -(void) delayRedrawAndSetPoints:(nonnull NSArray<OTMPCartesianPoint*>*) aPoints
                    withResolver:(nullable NSObject<OTMPCartesianGraphInterpolatedLabelResolver>*)yLabelFormatter;
 
--(void) delayRedrawAndRebuildWithModelConfiguration:(nonnull OTMLComponentModel*)aModel
+-(void) delayRedrawAndRebuildWithModelConfiguration:(nonnull AutomatID_OTMLComponentModel*)aModel
                                        withResolver:(nullable NSObject<OTMPCartesianGraphInterpolatedLabelResolver>*)yLabelFormatter;
 
 +(CGFloat) adjustBaseTickSpace:(CGFloat) aBaseTickSpace adjustToUpper:(BOOL) shouldadjustToUpper;
 
 #pragma mark abstract
--(nonnull OTMLComponentModel*) model;
+-(nonnull AutomatID_OTMLComponentModel*) model;
 -(UIEdgeInsets) getGraphInset;
 -(BOOL)scale_X_valuesToZero;
 -(BOOL)scale_Y_valuesToZero;
 -(NSInteger)modulo_X_axis;
 -(NSInteger)modulo_Y_axis;
 -(NSInteger)modulo_Bullets;
--(nullable OTMLFont*)font_X_axis;
--(nullable OTMLFont*)font_Y_axis;
+-(nullable AutomatID_OTMLFont*)font_X_axis;
+-(nullable AutomatID_OTMLFont*)font_Y_axis;
 -(BOOL)interpolateYLabels;
 -(BOOL)interpolateXLabels;
 -(NSInteger)horizontalGridlinesNumber;

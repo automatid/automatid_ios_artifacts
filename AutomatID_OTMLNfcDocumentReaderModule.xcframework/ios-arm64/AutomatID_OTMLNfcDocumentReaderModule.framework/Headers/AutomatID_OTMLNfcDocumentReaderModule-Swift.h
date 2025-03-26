@@ -304,27 +304,27 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-@class OTMLResolvedAction;
-@class OTMLActionCommand;
-@class OTMLParameter;
-@class OTMLParameterEntry;
+@class AutomatID_OTMLResolvedAction;
+@class AutomatID_OTMLActionCommand;
+@class AutomatID_OTMLParameter;
+@class AutomatID_OTMLParameterEntry;
 
 SWIFT_CLASS("_TtC37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanActionReceiver")
-@interface OTNFCDRScanActionReceiver : NSObject <OTMLCustomActionResolver>
-- (OTMLActionCommand * _Null_unspecified)actionCommandFromResolvedAction:(OTMLResolvedAction * _Null_unspecified)aResolvedAction SWIFT_WARN_UNUSED_RESULT;
-- (BOOL)canResolveParameter:(OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
-- (OTMLParameterEntry * _Null_unspecified)resolveParameter:(OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
+@interface OTNFCDRScanActionReceiver : NSObject <AutomatID_OTMLCustomActionResolver>
+- (AutomatID_OTMLActionCommand * _Null_unspecified)actionCommandFromResolvedAction:(AutomatID_OTMLResolvedAction * _Null_unspecified)aResolvedAction SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)canResolveParameter:(AutomatID_OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
+- (AutomatID_OTMLParameterEntry * _Null_unspecified)resolveParameter:(AutomatID_OTMLParameter * _Null_unspecified)aParameter SWIFT_WARN_UNUSED_RESULT;
 - (BOOL)hasNFC SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class OTMLViewController;
+@class AutomatID_OTMLViewController;
 
 SWIFT_CLASS("_TtC37AutomatID_OTMLNfcDocumentReaderModule25OTNFCDRScanDocumentAction")
-@interface OTNFCDRScanDocumentAction : OTMLActionCommand
+@interface OTNFCDRScanDocumentAction : AutomatID_OTMLActionCommand
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-- (void)executeResolvedAction:(OTMLResolvedAction * _Null_unspecified)aAction onViewController:(OTMLViewController * _Null_unspecified)aNestingVC;
+- (void)executeResolvedAction:(AutomatID_OTMLResolvedAction * _Null_unspecified)aAction onViewController:(AutomatID_OTMLViewController * _Null_unspecified)aNestingVC;
 @end
 
 

@@ -1,0 +1,8 @@
+extern NSString* const c_AutomatID_OTMLCameraCaptureConstants_trigger_prefix_picture_ready;
+
+extern NSString* const c_AutomatID_OTMLCameraCaptureConstants_fallback_flagforsrc;
+
+
+
+@interface AutomatID_OTMLCameraCaptureConstants : NSObject
+@end
