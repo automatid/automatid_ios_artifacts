@@ -15,6 +15,12 @@ NS_ASSUME_NONNULL_BEGIN
 +(AutomatIDDocumentType*) identityCard;
 
 @end
+// photo_processing_mode = disabled (per BA), valori possibili disabled, read_nfc_photo, read_nfc_photo_and_perform_liveness
+typedef NS_ENUM(NSInteger, AutomatIDPhotoProcessingMode) {
+    AutomatIDPhotoProcessingMode_READ_NFC_PHOTO_AND_PERFORM_LIVENESS_CHECK,
+    AutomatIDPhotoProcessingMode_READ_NFC_PHOTO,
+    AutomatIDPhotoProcessingMode_DISABLED
+};
 
 typedef NS_ENUM(NSInteger, AutomatIDDocumentTypes) {
     AutomatIDDocumentTypes_PASSPORT,
@@ -44,6 +50,8 @@ typedef NS_ENUM(NSInteger, RecoverableErrorHandlingDecision) {
 @interface AutomatIDConfiguration : NSObject
 
 @property BOOL showFallbackButton;
+@property AutomatIDPhotoProcessingMode photoProcessingMode;
+
 @property UIFont* defaultFontRegular;
 @property UIFont* defaultFontMedium;
 @property UIFont* defaultFontBold;
