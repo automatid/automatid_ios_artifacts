@@ -411,6 +411,7 @@
 #import "AutomatID_OTMLUpdaterDelegate_AsyncImpl.h"
 #import "AutomatID_OTMLUpdaterDelegate_SyncImpl.h"
 #import "AutomatID_OTMLAdvancedUpdaterManager.h"
+#import "AutomatID_OTMLResourcePathConstants.h"
 #import "AutomatID_OTMLUpdateDescriptorManager.h"
 #import "AutomatID_OTMLUpdaterConfiguration.h"
 #import "AutomatID_OTMLManifestAbstractResource.h"

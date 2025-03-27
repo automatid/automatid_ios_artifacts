@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/AutomatID_OTML-umbrella.h</key>
 		<data>
-		C1G0JdNq5dM/s6zcze+CGi74sFo=
+		W/TtBc0nziqUfdfZS9NxYE2mp8k=
 		</data>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<data>
-		N8hkNu7jdJY34u/nfE4EvwvcIsM=
+		5hWJ9iTKi1XjNsgOclqTJ9PwDU0=
 		</data>
 		<key>Headers/AutomatID_OTML.h</key>
 		<data>
@@ -932,6 +932,10 @@
 		<data>
 		AUUvLKdrZlIwMEMU90TyaevAB1s=
 		</data>
+		<key>Headers/AutomatID_OTMLResourcePathConstants.h</key>
+		<data>
+		qI3IFU3aghIdkqDPT6KV5yrqfoY=
+		</data>
 		<key>Headers/AutomatID_OTMLRichTextComponent.h</key>
 		<data>
 		sSzfWFeHkkDwkcq929QvbLU8f/k=
@@ -1706,7 +1710,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h3AwuoUwTOJXTcLgCu+aRr8lTHI=
+		xWluFD6qY5BNBOI/CauJcFUlMQo=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1910,22 +1914,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C1G0JdNq5dM/s6zcze+CGi74sFo=
+			W/TtBc0nziqUfdfZS9NxYE2mp8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			dZiwM8LD+ZIt10oifax/nevB7cfK1Tz0gX97PauvTpw=
+			VIj1E36wQC19K1ZN4N+h4KwnKYYmjJZ7kSXmxw4o5c8=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N8hkNu7jdJY34u/nfE4EvwvcIsM=
+			5hWJ9iTKi1XjNsgOclqTJ9PwDU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tI6/FseILrArPOtpt4oPHuzyUwqvCPEuTVLtoJKs9UM=
+			iNHbiHMJWWgxwb+7ju20Q+0Gs1stfVARt8d6jNrddIo=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.h</key>
@@ -4313,6 +4317,17 @@
 			<key>hash2</key>
 			<data>
 			vi6+37XpoiRkJJTE3JrMJS5jIkc+DJvEMz41g/CUgAI=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTMLResourcePathConstants.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qI3IFU3aghIdkqDPT6KV5yrqfoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fJe1E0Q1mAsBNesuzyYy016DMHw2kfp5jkl04oiTvM0=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLRichTextComponent.h</key>
