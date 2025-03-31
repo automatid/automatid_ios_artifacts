@@ -1,0 +1,10 @@
+extern NSString* const c_AutomatID_OTMLSetStatusBarColorConstants_bridge_command_type_set_status_bar_color;
+
+extern NSString* const c_AutomatID_OTMLSetStatusBarColorConstants_bridge_command_type_set_status_bar_color_param_color;
+
+extern NSString* const c_AutomatID_OTMLSetStatusBarColorConstants_bridge_command_type_set_status_bar_color_param_dark_elements;
+
+
+
+@interface AutomatID_OTMLSetStatusBarColorConstants : NSObject
+@end

@@ -9,7 +9,7 @@
 #import <AutomatID_OTMLModels/AutomatID_OTMLDatasourceModel.h>
 #import <AutomatID_OTMLModels/AutomatID_OTMLDatasourceElementModel.h>
 
-static NSString* const k_load_DS_prefix = @"otml_load_ds_";
+static NSString* const k_automatid_load_DS_prefix = @"otml_load_ds_";
 
 @interface AutomatID_OTMLDatasource : NSObject <NSCopying>
 

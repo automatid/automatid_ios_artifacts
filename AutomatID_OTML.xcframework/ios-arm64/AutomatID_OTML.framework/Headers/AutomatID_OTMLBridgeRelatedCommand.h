@@ -70,6 +70,9 @@
 @interface AutomatID_OTMLMailCommand : AutomatID_OTMLActionCommand
 @end
 
+@interface AutomatID_DoSetStatusbarColorCommand : AutomatID_OTMLActionCommand
+@end
+
 @interface AutomatID_DoShowLoading : AutomatID_OTMLActionCommand
 @end
 

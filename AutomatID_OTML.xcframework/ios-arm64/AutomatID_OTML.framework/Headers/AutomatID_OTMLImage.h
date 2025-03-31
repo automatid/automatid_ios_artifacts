@@ -10,14 +10,14 @@
 #import "AutomatID_OTMLManifestAbstractResource.h"
 
 typedef enum {
-    OTMLImageOutputFormat_jpg = 0,
-    OTMLImageOutputFormat_png = 1
-} OTMLImageOutputFormat;
+    AutomatID_OTMLImageOutputFormat_jpg = 0,
+    AutomatID_OTMLImageOutputFormat_png = 1
+} AutomatID_OTMLImageOutputFormat;
 
 @interface AutomatID_OTMLImageOutputFormatSupport : NSObject
 
-+(OTMLImageOutputFormat) valueFromString:(nullable NSString*) aStringValue;
-+(nonnull NSString*) stringFromValue:(OTMLImageOutputFormat) aValue;
++(AutomatID_OTMLImageOutputFormat) valueFromString:(nullable NSString*) aStringValue;
++(nonnull NSString*) stringFromValue:(AutomatID_OTMLImageOutputFormat) aValue;
 
 @end
 
@@ -35,7 +35,7 @@ typedef enum {
 @property (nonatomic, readonly) UIImage* _Nonnull image;
 
 
--(nullable NSData*)imageDataWithFormat:(OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
+-(nullable NSData*)imageDataWithFormat:(AutomatID_OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
 
 /**
  produce a string representing the OTML image with format B64:<image data>
@@ -43,7 +43,7 @@ typedef enum {
  @param aQuality export quality. Please note that only jpeg format will use jpeg quality, but this will not support alpha channel
  @return the OTML Image in string format (B64)
  */
--(nullable NSString*) representInOTMLB64WithFormat:(OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
--(nullable NSString*) representInFileOrMemWithPath:(nullable NSString*)aImageFilePath format:(OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
+-(nullable NSString*) representInOTMLB64WithFormat:(AutomatID_OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
+-(nullable NSString*) representInFileOrMemWithPath:(nullable NSString*)aImageFilePath format:(AutomatID_OTMLImageOutputFormat)outputFormat quality:(NSInteger)aQuality;
 
 @end

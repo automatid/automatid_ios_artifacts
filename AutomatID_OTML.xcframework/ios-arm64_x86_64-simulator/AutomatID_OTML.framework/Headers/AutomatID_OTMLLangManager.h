@@ -20,6 +20,7 @@
 -(void)setupWithDefaultLang:(NSString*)aDefaultLang supportedLangs:(NSArray*)aSupportedLangsArray localeAliasMapping:(NSString*)aliasMapping;
 +(AutomatID_OTMLLangManager*)getInstance;
 -(BOOL)saveFavoriteLocale:(NSString*) aLocale;
+-(BOOL)saveFavoriteNSLocale:(NSLocale*) aLocale;
 -(NSLocale*)getCurrentNSLocale;
 -(NSString*)getCurrentLocale;
 -(NSArray*)getCurrentSupportedLang;

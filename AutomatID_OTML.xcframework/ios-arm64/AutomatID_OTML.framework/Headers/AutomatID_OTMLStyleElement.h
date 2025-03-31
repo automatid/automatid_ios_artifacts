@@ -10,10 +10,10 @@
 #import <AutomatID_OTTBXML/AutomatID_OTTBXML.h>
 
 typedef enum {
-	OTMLStyleTypeComponent = 0,
-    OTMLStyleTypeClass = 1,
-    OTMLStyleTypeID = 2,
-    OTMLStyleTypeBehaviour = 3
+	AutomatID_OTMLStyleTypeComponent = 0,
+    AutomatID_OTMLStyleTypeClass = 1,
+    AutomatID_OTMLStyleTypeID = 2,
+    AutomatID_OTMLStyleTypeBehaviour = 3
 } AutomatID_OTMLStyleType;
 
 @interface AutomatID_OTMLStyleElement : NSObject

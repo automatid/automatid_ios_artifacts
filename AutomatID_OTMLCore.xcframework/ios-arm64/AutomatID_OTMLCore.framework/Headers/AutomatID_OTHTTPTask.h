@@ -14,54 +14,54 @@
 
 typedef enum
 {
-    OTNetworkInteractionType_post = 0,
-    OTNetworkInteractionType_get = 1,
-    OTNetworkInteractionType_put = 2,
-    OTNetworkInteractionType_delete = 3,
-    OTNetworkInteractionType_head = 4,
-    OTNetworkInteractionType_patch = 5
+    AutomatID_OTNetworkInteractionType_post = 0,
+    AutomatID_OTNetworkInteractionType_get = 1,
+    AutomatID_OTNetworkInteractionType_put = 2,
+    AutomatID_OTNetworkInteractionType_delete = 3,
+    AutomatID_OTNetworkInteractionType_head = 4,
+    AutomatID_OTNetworkInteractionType_patch = 5
 } AutomatID_OTNetworkInteractionType;
 
 typedef enum
 {
-    OTMLNetworkInteractionType_url_encoded = 0,
-    OTMLNetworkInteractionType_json = 1,
-    OTMLNetworkInteractionType_multipart = 2
+    AutomatID_OTMLNetworkInteractionType_url_encoded = 0,
+    AutomatID_OTMLNetworkInteractionType_json = 1,
+    AutomatID_OTMLNetworkInteractionType_multipart = 2
 } AutomatID_OTMLNetworkParametersEncoding;
 
-@interface AutomatID_OTHTTPTask<__covariant ResponseObjectType> : NSObject{
+@interface AutomatID_OTHTTPTask<__covariant AutomatID_ResponseObjectType> : NSObject{
 @protected
     NSString * url;
     AutomatID_OTNetworkInteractionType method;
 }
 
 NS_ASSUME_NONNULL_BEGIN
-// tipo ResponseTransformation : torna un oggetto di tipo ResponseObjectType dato un oggetto di tipo AutomatID_OTHTTPResponse
-typedef ResponseObjectType _Nonnull(^ResponseTransformation)(AutomatID_OTHTTPResponse* _Nonnull);
+// tipo AutomatID_ResponseTransformation : torna un oggetto di tipo AutomatID_ResponseObjectType dato un oggetto di tipo AutomatID_OTHTTPResponse
+typedef AutomatID_ResponseObjectType _Nonnull(^AutomatID_ResponseTransformation)(AutomatID_OTHTTPResponse* _Nonnull);
 
-// tipo NetworkTaskCompletion : su possono usare l'oggetto di tipo ResponseObjectType ed un eventuale oggetto errore. I due sono mutualmente esclusivi.
-typedef void(^NetworkTaskCompletion)(ResponseObjectType _Nullable, NSError* _Nullable);
+// tipo AutomatID_NetworkTaskCompletion : su possono usare l'oggetto di tipo AutomatID_ResponseObjectType ed un eventuale oggetto errore. I due sono mutualmente esclusivi.
+typedef void(^AutomatID_NetworkTaskCompletion)(AutomatID_ResponseObjectType _Nullable, NSError* _Nullable);
 
-// da usare, se non si è interessati a definire "ResponseTransformation"
-// ==> in pratica, quando si è covariante con "ResponseObjectType" = AutomatID_OTHTTPResponse
--(void) performAsyncNetworkTaskWithCompletion:(NetworkTaskCompletion) completion;
+// da usare, se non si è interessati a definire "AutomatID_ResponseTransformation"
+// ==> in pratica, quando si è covariante con "AutomatID_ResponseObjectType" = AutomatID_OTHTTPResponse
+-(void) performAsyncNetworkTaskWithCompletion:(AutomatID_NetworkTaskCompletion) completion;
 
 // da usare se si ha necessità di ridefinire la fase di costruzione dell'oggetto response
--(void) performWithTransformation:(ResponseTransformation) transformation
-            withNetworkCompletion:(NetworkTaskCompletion) completion;
+-(void) performWithTransformation:(AutomatID_ResponseTransformation) transformation
+            withNetworkCompletion:(AutomatID_NetworkTaskCompletion) completion;
 
 
 
-typedef void(^ProgressElaborationBlock)(NSNumber* aProgress);
+typedef void(^AutomatID_ProgressElaborationBlock)(NSNumber* aProgress);
 
 
--(void) setDownloadProgressHandler:(ProgressElaborationBlock)downloadHandler
-             uploadProgressHandler:(ProgressElaborationBlock)uploadHandler;
+-(void) setDownloadProgressHandler:(AutomatID_ProgressElaborationBlock)downloadHandler
+             uploadProgressHandler:(AutomatID_ProgressElaborationBlock)uploadHandler;
 
 -(void) handleProcessingOfData:(NSData *) taskData
                withURLResponse:(NSURLResponse *)taskResponse
               withNetworkError:(NSError *) taskError
-         andWithTransformation:(ResponseTransformation) tranformation;
+         andWithTransformation:(AutomatID_ResponseTransformation) tranformation;
 
 @property (nonatomic, strong, readonly) NSURLRequest * request;
 @property (nonatomic, strong, readonly) NSHTTPURLResponse * response;

@@ -51,6 +51,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(BOOL)application:(UIApplication *)app openURL:(NSURL *)url options:(NSDictionary<UIApplicationOpenURLOptionsKey,id> *)options;
 
+-(void)overrideAppStatusBarStyle:(UIUserInterfaceStyle) style;
+
 // gestione eventi AppDelegate
 #ifndef EXLUDE_COCOA_PUSH_NOTIFICATIONS
 -(void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo fetchCompletionHandler:(nonnull void (^)(UIBackgroundFetchResult))completionHandler;

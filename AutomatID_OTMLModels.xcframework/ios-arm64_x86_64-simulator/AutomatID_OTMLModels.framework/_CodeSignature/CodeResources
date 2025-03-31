@@ -486,11 +486,11 @@
 		</data>
 		<key>Headers/AutomatID_OTMLModels-umbrella.h</key>
 		<data>
-		snPk+7FWMF7/HcHTeh4XfTV6rRU=
+		h5dlYGCHa6iuU0XXE2Z65yXl7LQ=
 		</data>
 		<key>Headers/AutomatID_OTMLModels.OTVersion.h</key>
 		<data>
-		WuodwvWEFcWDmzRjLZBy220Y9S8=
+		RXhLwqv1oMlfmkwJ+WovaYEmu4Q=
 		</data>
 		<key>Headers/AutomatID_OTMLModelsAppExposedHooks.h</key>
 		<data>
@@ -652,6 +652,10 @@
 		<data>
 		h3JucSfZIikkMxw1oxmkDmxDH3g=
 		</data>
+		<key>Headers/AutomatID_OTMLSetStatusBarColorConstants.h</key>
+		<data>
+		YA7UZ3O78ugVj120Fcgif69m5p4=
+		</data>
 		<key>Headers/AutomatID_OTMLSize.h</key>
 		<data>
 		Cupyx1a37rwmcL8LuEhouVAbADM=
@@ -762,7 +766,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t6+fOsMgLy60NR6HMT9/L69XHmw=
+		1OwT6Ka32DLn0SqM/43L7+SBVsc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2095,22 +2099,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			snPk+7FWMF7/HcHTeh4XfTV6rRU=
+			h5dlYGCHa6iuU0XXE2Z65yXl7LQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			qjklU0nlSeKCIgx0uY0C38pPGyxB5IjcZKfkJP1coD0=
+			AcdVuV90XqagCVpRGEuPIb8g9TRAPe9NcSmiiF0z9+U=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLModels.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WuodwvWEFcWDmzRjLZBy220Y9S8=
+			RXhLwqv1oMlfmkwJ+WovaYEmu4Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			VLnqLboQLyyYmSL46dhkhz5XtJF/rqR5Ci8UEFfOasM=
+			o6V1QuhJLquThWHjVyn1eBe9LStlxUOwqGLqD51FHlY=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLModelsAppExposedHooks.h</key>
@@ -2551,6 +2555,17 @@
 			<key>hash2</key>
 			<data>
 			SOwxXrixG4PN+FQEfpAiwldrK+ZR1i1jKcdzBqhjx7s=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTMLSetStatusBarColorConstants.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YA7UZ3O78ugVj120Fcgif69m5p4=
+			</data>
+			<key>hash2</key>
+			<data>
+			gyryVvGg79BrtQRDX7FcIkkzRnkivWm4+Ik7j5sVKcI=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLSize.h</key>

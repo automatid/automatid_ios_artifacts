@@ -91,7 +91,7 @@ typedef enum {
 
 -(nullable NSString*) saveOTMLImage:(nullable AutomatID_OTMLImage*)aOTMLImage
                 InFileOrMemWithPath:(nullable NSString*)aImageFilePath
-                             format:(OTMLImageOutputFormat)outputFormat
+                             format:(AutomatID_OTMLImageOutputFormat)outputFormat
                             quality:(NSInteger)aQuality;
 
 @end

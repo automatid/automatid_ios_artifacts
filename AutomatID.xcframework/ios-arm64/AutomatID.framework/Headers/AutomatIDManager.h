@@ -49,8 +49,8 @@ typedef NS_ENUM(NSInteger, RecoverableErrorHandlingDecision) {
 
 @interface AutomatIDConfiguration : NSObject
 
-@property BOOL showFallbackButton;
-@property AutomatIDPhotoProcessingMode photoProcessingMode;
+@property BOOL darkStatusBarIcons;
+
 
 @property UIFont* defaultFontRegular;
 @property UIFont* defaultFontMedium;
@@ -119,13 +119,19 @@ typedef NS_ENUM(NSInteger, RecoverableErrorHandlingDecision) {
 @end
 
 @interface AutomatIDRequest : NSObject
+
+@property NSArray<AutomatIDDocumentType*>* documentTypes;
+@property AutomatIDPhotoProcessingMode mode;
+@property NSLocale* locale;
+
+@property BOOL showFallBackButton;
+
 /**
  *  Factory method for AutomatID request instances
  *
  *  @param documentTypes the array of scannable document types, AutomatIDDocumentType exposes factory methods for this array elements
  */
-
-+(AutomatIDRequest*) requestWithDocumentTypes:(NSArray<AutomatIDDocumentType*>*)types;
++(AutomatIDRequest*) requestWithDocumentTypes:(NSArray<AutomatIDDocumentType*>*)documentTypes;
 
 
 @end
@@ -293,6 +299,12 @@ typedef NS_ENUM(NSInteger, AutomatIDErrorCode) {
  @return YES if the configuration completes without errors, NO otherwise (see anError for details)
  */
 +(BOOL)configureWithFile:(NSString *)filePath withConfiguration:(nullable AutomatIDConfiguration*)config  withError:(NSError*__autoreleasing*)anError;
+
+
+/**
+ Call this method if any of the configuration value is dependant by any logic at runtime and the value changed after the invocation of the configureWithFile:withConfiguration:withError:
+ */
++(BOOL) reConfigureWithConfiguration:(AutomatIDConfiguration*) config;
 
 /**
  Performs strong costumer identification.

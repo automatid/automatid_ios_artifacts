@@ -124,6 +124,7 @@
 #import "AutomatID_OTMLPhonebookCommandConstants.h"
 #import "AutomatID_OTMLPopupConstants.h"
 #import "AutomatID_OTMLPushConstants.h"
+#import "AutomatID_OTMLSetStatusBarColorConstants.h"
 #import "AutomatID_OTMLTextfieldConstants.h"
 #import "AutomatID_OTMLTimedTriggersCommandsConstants.h"
 #import "AutomatID_OTMLTraceConstants.h"

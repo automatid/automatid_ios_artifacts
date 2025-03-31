@@ -9,16 +9,16 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-typedef NS_ENUM(NSInteger, OTMLContextDescriptorMenuStyle) {
-    OTMLContextDescriptor_SwipeToShowMenu,
-    OTMLContextDescriptor_SwipeToShowMenuOnTheLeft,
-    OTMLContextDescriptorMenuStyle_TabbarMenu,
-    OTMLContextDescriptorMenuStyle_TabbarMenu_GroupViewsCanSwipePositions
+typedef NS_ENUM(NSInteger, AutomatID_OTMLContextDescriptorMenuStyle) {
+        AutomatID_OTMLContextDescriptorMenuStyle_SwipeToShowMenu,
+        AutomatID_OTMLContextDescriptorMenuStyle_SwipeToShowMenuOnTheLeft,
+    AutomatID_OTMLContextDescriptorMenuStyle_TabbarMenu,
+    AutomatID_OTMLContextDescriptorMenuStyle_TabbarMenu_GroupViewsCanSwipePositions
 };
 
 @interface AutomatID_OTMLContextDescriptorFactory : NSObject
 
-+(AutomatID_OTMLContextDescriptor*) newContextsDescriptorWithMenuStyle:(OTMLContextDescriptorMenuStyle) style;
++(AutomatID_OTMLContextDescriptor*) newContextsDescriptorWithMenuStyle:(AutomatID_OTMLContextDescriptorMenuStyle) style;
 
 @end
 

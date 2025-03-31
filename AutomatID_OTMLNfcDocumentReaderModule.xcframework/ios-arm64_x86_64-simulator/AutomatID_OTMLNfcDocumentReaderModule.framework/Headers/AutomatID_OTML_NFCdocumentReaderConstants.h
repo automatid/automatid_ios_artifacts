@@ -130,6 +130,8 @@ extern NSString* const c_AutomatID_OTML_NFCdocumentReaderConstants_ds_field_mrz_
 
 extern NSString* const c_AutomatID_OTML_NFCdocumentReaderConstants_ds_field_mrz_expiration_date_day;
 
+extern NSString* const c_AutomatID_OTML_NFCdocumentReaderConstants_ds_field_ca_succeeded;
+
 
 
 @interface AutomatID_OTML_NFCdocumentReaderConstants : NSObject
