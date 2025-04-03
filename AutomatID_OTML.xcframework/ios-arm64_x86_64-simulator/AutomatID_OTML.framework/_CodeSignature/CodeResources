@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/AutomatID_OTML-umbrella.h</key>
 		<data>
-		W/TtBc0nziqUfdfZS9NxYE2mp8k=
+		70RPuMKQsA9D5mCGCOle/VouDwQ=
 		</data>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<data>
-		yS0pqDh1//vZGeYN5KGoEpShCgc=
+		bypy7LrKER4sgyDbPp7F2fpKH2A=
 		</data>
 		<key>Headers/AutomatID_OTML.h</key>
 		<data>
@@ -551,6 +551,10 @@
 		<key>Headers/AutomatID_OTMLHintedTextFieldComponent.h</key>
 		<data>
 		l1zYQqhls5eZKS0G2b0FZkLYzFQ=
+		</data>
+		<key>Headers/AutomatID_OTMLImage+AutomatID_Producer.h</key>
+		<data>
+		Vq5el8KHRvJB9mdczEoCU7vMdFo=
 		</data>
 		<key>Headers/AutomatID_OTMLImage.h</key>
 		<data>
@@ -1638,7 +1642,7 @@
 		</data>
 		<key>Headers/NSDictionary+AutomatID_DatasourceValuesByPlatforms.h</key>
 		<data>
-		x2tIaH5W4rYwLjVlG8sDlsc5+LU=
+		s7VP30N0bBGmdK2HKE99bvijTFc=
 		</data>
 		<key>Headers/NSDictionary+AutomatID_JsonUtil.h</key>
 		<data>
@@ -1647,10 +1651,6 @@
 		<key>Headers/OTMLCustomComponentFactory.h</key>
 		<data>
 		57pmpDp7b2+Y7O6dLwJAWS41Xjk=
-		</data>
-		<key>Headers/OTMLImage+AutomatID_Producer.h</key>
-		<data>
-		Vq5el8KHRvJB9mdczEoCU7vMdFo=
 		</data>
 		<key>Headers/OTMPAbstractCartesianGraph.h</key>
 		<data>
@@ -1702,11 +1702,11 @@
 		</data>
 		<key>Headers/UIImage+AutomatID_BBlock.h</key>
 		<data>
-		e1UWpVv285xVLcgvIwm4NkS4T6U=
+		4+qFaBprWvK+BBnnEGVVe8vzn0M=
 		</data>
 		<key>Headers/UIImage+AutomatID_OTMLBridge.h</key>
 		<data>
-		jYg5BXSn19yVZiUAkF1vO8jhGPQ=
+		1cjt5C9uYWijU4WLHfH/qHLFmJA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1714,7 +1714,7 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uahdaXR9Qn4OZGjmvRwNfTszfXA=
+		xqP3++dOCwEvqYd//MkGwG7OpME=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1734,7 +1734,7 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uahdaXR9Qn4OZGjmvRwNfTszfXA=
+		xqP3++dOCwEvqYd//MkGwG7OpME=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1914,22 +1914,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			W/TtBc0nziqUfdfZS9NxYE2mp8k=
+			70RPuMKQsA9D5mCGCOle/VouDwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VIj1E36wQC19K1ZN4N+h4KwnKYYmjJZ7kSXmxw4o5c8=
+			zki64KCSyj7/WvDZ2fPMBqNOPYjOJOrmg0+6/49B9lc=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yS0pqDh1//vZGeYN5KGoEpShCgc=
+			bypy7LrKER4sgyDbPp7F2fpKH2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ba754gL1zo1FySwP9SHhSl5xRoePzy3GXXJ5LXqvMic=
+			rw9e9oRdbNcA+kY4li3QqadD3OjYBxSUv5s9jIlWCS0=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.h</key>
@@ -3272,6 +3272,17 @@
 			<key>hash2</key>
 			<data>
 			I+kRXeAUHYaIF9+DJo+9Gd1+Or0Dy9A0cX5+FjIJ62A=
+			</data>
+		</dict>
+		<key>Headers/AutomatID_OTMLImage+AutomatID_Producer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vq5el8KHRvJB9mdczEoCU7vMdFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			B9IsvwWEqIZ37iaqtuviXayu9IjByVFrI54eiy5mUac=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLImage.h</key>
@@ -6259,11 +6270,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x2tIaH5W4rYwLjVlG8sDlsc5+LU=
+			s7VP30N0bBGmdK2HKE99bvijTFc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9nCkZYHPCGjpyOxZKZYVaPW8xMyTcxMDOI2nAjVtopI=
+			lZifpAGKXx0DeEPszPO2XXUgMLT5IB3XaXSdP8BjHt8=
 			</data>
 		</dict>
 		<key>Headers/NSDictionary+AutomatID_JsonUtil.h</key>
@@ -6286,17 +6297,6 @@
 			<key>hash2</key>
 			<data>
 			J4crEHuQ2eOod3cwCx45rrvqog27nGyZMrQjmb2gt8w=
-			</data>
-		</dict>
-		<key>Headers/OTMLImage+AutomatID_Producer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vq5el8KHRvJB9mdczEoCU7vMdFo=
-			</data>
-			<key>hash2</key>
-			<data>
-			B9IsvwWEqIZ37iaqtuviXayu9IjByVFrI54eiy5mUac=
 			</data>
 		</dict>
 		<key>Headers/OTMPAbstractCartesianGraph.h</key>
@@ -6435,33 +6435,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e1UWpVv285xVLcgvIwm4NkS4T6U=
+			4+qFaBprWvK+BBnnEGVVe8vzn0M=
 			</data>
 			<key>hash2</key>
 			<data>
-			Os9I3rBXImPESFAc6QYXJ9G/+Y/Xb1Ct47IgXCmbczI=
+			QikTRJNzzOqQ9PmlrOLilHQ/xiSvujUhqxSvyGSrcmk=
 			</data>
 		</dict>
 		<key>Headers/UIImage+AutomatID_OTMLBridge.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jYg5BXSn19yVZiUAkF1vO8jhGPQ=
+			1cjt5C9uYWijU4WLHfH/qHLFmJA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pzEM5eBURUUZYlPOjv//y6k9afcot0gZRPMaIfrd+cM=
+			FsjViHWCDGrJrRNTkON6vOkW5YNKSV7LIOp91EwEBww=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uahdaXR9Qn4OZGjmvRwNfTszfXA=
+			xqP3++dOCwEvqYd//MkGwG7OpME=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Iz9YjMYHW3DlcOrDrfDxOf4g/u9KzMZPQeIMWhUKdg=
+			x5jMtzVxguI8I2C8wv202SD6MGIryBxJKe25uNWtwDk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -6512,11 +6512,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uahdaXR9Qn4OZGjmvRwNfTszfXA=
+			xqP3++dOCwEvqYd//MkGwG7OpME=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Iz9YjMYHW3DlcOrDrfDxOf4g/u9KzMZPQeIMWhUKdg=
+			x5jMtzVxguI8I2C8wv202SD6MGIryBxJKe25uNWtwDk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

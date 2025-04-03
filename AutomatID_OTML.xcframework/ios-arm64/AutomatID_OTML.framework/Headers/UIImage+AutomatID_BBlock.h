@@ -14,17 +14,17 @@
 
 @interface UIImage(AutomatID_BBlock)
 
-typedef void (^DrawingBlock)(void);
+typedef void (^AutomatID_DrawingBlock)(void);
 
 /** Returns a `UIImage` rendered with the drawing code in the block. 
 This method does not cache the image object. */
-+ (UIImage *)imageForSize:(CGSize)size withDrawingBlock:(DrawingBlock)drawingBlock;
-+ (UIImage *)imageForSize:(CGSize)size opaque:(BOOL)opaque withDrawingBlock:(DrawingBlock)drawingBlock;
++ (UIImage *)aidimageForSize:(CGSize)size withDrawingBlock:(AutomatID_DrawingBlock)drawingBlock;
++ (UIImage *)aidimageForSize:(CGSize)size opaque:(BOOL)opaque withDrawingBlock:(AutomatID_DrawingBlock)drawingBlock;
 
 /** Returns a cached `UIImage` rendered with the drawing code in the block. 
 The `UIImage` is cached in an `NSCache` with the identifier provided. */
-+ (UIImage *)imageWithIdentifier:(NSString *)identifier forSize:(CGSize)size andDrawingBlock:(DrawingBlock)drawingBlock;
-+ (UIImage *)imageWithIdentifier:(NSString *)identifier opaque:(BOOL)opaque forSize:(CGSize)size andDrawingBlock:(DrawingBlock) drawingBlock;
++ (UIImage *)imageWithIdentifier:(NSString *)identifier forSize:(CGSize)size andDrawingBlock:(AutomatID_DrawingBlock)drawingBlock;
++ (UIImage *)imageWithIdentifier:(NSString *)identifier opaque:(BOOL)opaque forSize:(CGSize)size andDrawingBlock:(AutomatID_DrawingBlock) drawingBlock;
 
 /** Return the cached image for the identifier, or nil if there is no cached image. */
 + (UIImage *)imageWithIdentifier:(NSString *)identifier;

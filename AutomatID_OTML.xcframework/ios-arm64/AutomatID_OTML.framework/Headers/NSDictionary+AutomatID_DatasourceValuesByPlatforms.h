@@ -11,7 +11,7 @@
 
 @interface NSDictionary (AutomatID_DatasourceValuesByPlatforms)
 
-+(nonnull NSDictionary<NSString*,AutomatID_OTMLDatasource*>*) dictionaryFromDS:(nonnull AutomatID_OTMLDatasource*) aDS
++(nonnull NSDictionary<NSString*,AutomatID_OTMLDatasource*>*) aiddictionaryFromDS:(nonnull AutomatID_OTMLDatasource*) aDS
                                   withKeysHavingNoPrefixOrByPriority:(nonnull NSArray<NSString*>*) platforms;
 
 @end

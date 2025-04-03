@@ -9,6 +9,6 @@
 
 @interface UIImage(AutomatID_OTMLBridge)
 
-+(UIImage*) otmlImageNamed:(NSString*)aName;
++(UIImage*) aidotmlImageNamed:(NSString*)aName;
 
 @end

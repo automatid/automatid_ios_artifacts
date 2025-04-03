@@ -174,7 +174,7 @@
 #import "AutomatID_OTMLLayout.h"
 #import "AutomatID_OTMLMargin.h"
 #import "AutomatID_OTMLPadding.h"
-#import "OTMLImage+AutomatID_Producer.h"
+#import "AutomatID_OTMLImage+AutomatID_Producer.h"
 #import "AutomatID_OTMLConversionFromJsonToDS.h"
 #import "AutomatID_OTMLDatasourceFilter.h"
 #import "AutomatID_OTMLDatasourceHelper.h"
