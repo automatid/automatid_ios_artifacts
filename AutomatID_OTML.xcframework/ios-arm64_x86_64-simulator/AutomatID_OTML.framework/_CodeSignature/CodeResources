@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/AutomatID_OTML-umbrella.h</key>
 		<data>
-		y6KcMAQZ5pft4PerMtbnXNr/oKc=
+		t24XB/PelcZUsCcjHDJ+iK3/LSQ=
 		</data>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<data>
-		bypy7LrKER4sgyDbPp7F2fpKH2A=
+		pwwIV0/fuejQAag7iT3l7xef6dA=
 		</data>
 		<key>Headers/AutomatID_OTML.h</key>
 		<data>
@@ -1708,13 +1708,17 @@
 		<data>
 		1cjt5C9uYWijU4WLHfH/qHLFmJA=
 		</data>
+		<key>Headers/frameworkversion.h</key>
+		<data>
+		3YgWrpkETQiBhi1F7x/Y30EprDo=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		FeJcM49QSIQAhGQt38L7a289knw=
+		F0EU7WlyRo8ekajjfHYSZIkAFy0=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xqP3++dOCwEvqYd//MkGwG7OpME=
+		6mwx071nlxlIsdWLO89x7KOuX0I=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1730,11 +1734,11 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3r3f/C36NeJfpObMiTCKDll9TN4=
+		P6H+xK4wC07ZU4J34aVk35bREsc=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xqP3++dOCwEvqYd//MkGwG7OpME=
+		6mwx071nlxlIsdWLO89x7KOuX0I=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1750,7 +1754,7 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		khxLrG0BTj9PZzj2WevTow0rXFI=
+		Bpbo6pIBNPf/fO+vXbJwLHoUR+I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1914,22 +1918,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y6KcMAQZ5pft4PerMtbnXNr/oKc=
+			t24XB/PelcZUsCcjHDJ+iK3/LSQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DFl6QNr7Qaf0Ln6dTclnXhrG0zBBcHbmMUgnnaJO0Gc=
+			50V56qqMSxQ+ge3O+QLJQejHzPviIWS+YCZokIQfnVE=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bypy7LrKER4sgyDbPp7F2fpKH2A=
+			pwwIV0/fuejQAag7iT3l7xef6dA=
 			</data>
 			<key>hash2</key>
 			<data>
-			rw9e9oRdbNcA+kY4li3QqadD3OjYBxSUv5s9jIlWCS0=
+			dluJTLgr7/u+KlNlH85I5qj1AmvR1eUquuuC9M6w72Q=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.h</key>
@@ -6453,15 +6457,26 @@
 			FsjViHWCDGrJrRNTkON6vOkW5YNKSV7LIOp91EwEBww=
 			</data>
 		</dict>
+		<key>Headers/frameworkversion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YgWrpkETQiBhi1F7x/Y30EprDo=
+			</data>
+			<key>hash2</key>
+			<data>
+			aSA9clYPEMMQJ/KJqMK0r3J1PRgO9FHZaBN2Gaq5V/o=
+			</data>
+		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xqP3++dOCwEvqYd//MkGwG7OpME=
+			6mwx071nlxlIsdWLO89x7KOuX0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			x5jMtzVxguI8I2C8wv202SD6MGIryBxJKe25uNWtwDk=
+			WFxI5Ih/gLU2w0bKyNQeYzTrKmFV/EUUyKs0uJl7s6w=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -6501,22 +6516,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3r3f/C36NeJfpObMiTCKDll9TN4=
+			P6H+xK4wC07ZU4J34aVk35bREsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			WrrdyL8DuWP0PAa0z0HuzT08z4wLdGsiOG/lZM9scOU=
+			3wJ6HTNwW/LyLbkA/wuyj7u+f025DzStWDhhYjn9+lA=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xqP3++dOCwEvqYd//MkGwG7OpME=
+			6mwx071nlxlIsdWLO89x7KOuX0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			x5jMtzVxguI8I2C8wv202SD6MGIryBxJKe25uNWtwDk=
+			WFxI5Ih/gLU2w0bKyNQeYzTrKmFV/EUUyKs0uJl7s6w=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -6556,11 +6571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			khxLrG0BTj9PZzj2WevTow0rXFI=
+			Bpbo6pIBNPf/fO+vXbJwLHoUR+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			LfytjsM3IYjzpueS/crxUWtv9ZK5qtwWWE7hNXiw8Zk=
+			WxanGEOyukyI40qIgsQw4e7IEwmkwt0GmJ20WWF22uI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

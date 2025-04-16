@@ -486,11 +486,11 @@
 		</data>
 		<key>Headers/AutomatID_OTMLModels-umbrella.h</key>
 		<data>
-		h5dlYGCHa6iuU0XXE2Z65yXl7LQ=
+		i11MJEjaCEUM7oGm/dvsKPCvTLY=
 		</data>
 		<key>Headers/AutomatID_OTMLModels.OTVersion.h</key>
 		<data>
-		lzpmzwEoSyKFsmOzB5UKkCDL7E4=
+		7FzXLv2zXYjVR1qy3ka3W5aQPz8=
 		</data>
 		<key>Headers/AutomatID_OTMLModelsAppExposedHooks.h</key>
 		<data>
@@ -764,9 +764,13 @@
 		<data>
 		m0HacrmTYbctd3Y5N3zuFO2hEBQ=
 		</data>
+		<key>Headers/frameworkversion.h</key>
+		<data>
+		FkX+MVaSAtyY1d9d0hsOB0XRmws=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		DS4P4yAdjB5jidF56wpV+Dp5mPc=
+		JGk4zzmcGLYAgboV42hI5GFeUSM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2099,22 +2103,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h5dlYGCHa6iuU0XXE2Z65yXl7LQ=
+			i11MJEjaCEUM7oGm/dvsKPCvTLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			AcdVuV90XqagCVpRGEuPIb8g9TRAPe9NcSmiiF0z9+U=
+			qe0LQPBryFTYOml7awh1xehEhV7A42YYtQFBeyo/Usk=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLModels.OTVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lzpmzwEoSyKFsmOzB5UKkCDL7E4=
+			7FzXLv2zXYjVR1qy3ka3W5aQPz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XnGv6m03jCuhNySW1TK7HM5s6dJjOo0P5K7POpVmW8w=
+			QQZwed/iNZMXb2YYUCUjGRdTtkJ0SIszIR+Y1lXKd60=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLModelsAppExposedHooks.h</key>
@@ -2863,6 +2867,17 @@
 			<key>hash2</key>
 			<data>
 			h2PGmiS4sl6brmBaGdgjTOhDtHHSe6TWYEVPcBgxaUw=
+			</data>
+		</dict>
+		<key>Headers/frameworkversion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FkX+MVaSAtyY1d9d0hsOB0XRmws=
+			</data>
+			<key>hash2</key>
+			<data>
+			d1hZlq4zoY0WvktKk6UiL8io1Vv4SQBvTWSJjfjP9BI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

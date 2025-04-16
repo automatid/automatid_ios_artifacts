@@ -3394,686 +3394,686 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 304,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 347,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 393,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 439,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 475,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZFrenchIdCard.swift",
       "kind": "BooleanLiteral",
       "offset": 746,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 212,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 395,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 441,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 577,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 632,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 681,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 725,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 771,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 911,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 987,
       "length": 14,
       "value": "\"documentType\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1041,
       "length": 17,
       "value": "\"documentSubType\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1098,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1151,
       "length": 16,
       "value": "\"passportNumber\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1207,
       "length": 13,
       "value": "\"dateOfBirth\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1283,
       "length": 19,
       "value": "\"dateOfBirthString\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1348,
       "length": 22,
       "value": "\"expirationDateString\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1419,
       "length": 5,
       "value": "\"sex\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1464,
       "length": 16,
       "value": "\"expirationDate\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1543,
       "length": 13,
       "value": "\"nationality\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1596,
       "length": 10,
       "value": "\"lastName\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1646,
       "length": 16,
       "value": "\"personalNumber\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1702,
       "length": 8,
       "value": "\"rawMRZ\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 1750,
       "length": 11,
       "value": "\"firstName\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZModel.swift",
       "kind": "StringLiteral",
       "offset": 2065,
       "length": 7,
       "value": "\"Error\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "StringLiteral",
       "offset": 260,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "IntegerLiteral",
       "offset": 342,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "BooleanLiteral",
       "offset": 369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "BooleanLiteral",
       "offset": 430,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZParser.swift",
       "kind": "BooleanLiteral",
       "offset": 1402,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "IntegerLiteral",
       "offset": 317,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "BooleanLiteral",
       "offset": 434,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "BooleanLiteral",
       "offset": 529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "BooleanLiteral",
       "offset": 631,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "BooleanLiteral",
       "offset": 716,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD1.swift",
       "kind": "BooleanLiteral",
       "offset": 994,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 465,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 567,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 669,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 789,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/MRZTD3.swift",
       "kind": "BooleanLiteral",
       "offset": 1060,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 509,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 589,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 784,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 917,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 1224,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 1265,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 1402,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "BooleanLiteral",
       "offset": 1449,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 10557,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 11383,
       "length": 4,
       "value": "\"L1\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11427,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11473,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11516,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11554,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 11590,
       "length": 4,
       "value": "\"L2\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11634,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 11680,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 11725,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11765,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 11801,
       "length": 4,
       "value": "\"L3\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11845,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11891,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11934,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 11973,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 12009,
       "length": 4,
       "value": "\"L4\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12053,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12099,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12143,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12181,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 12217,
       "length": 4,
       "value": "\"E1\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12261,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12305,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12348,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12386,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 12422,
       "length": 4,
       "value": "\"E2\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12466,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12510,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12553,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 12591,
       "length": 3,
       "value": "2.2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "StringLiteral",
       "offset": 12629,
       "length": 4,
       "value": "\"E3\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12673,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12717,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12760,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12798,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "FloatLiteral",
       "offset": 12802,
       "length": 3,
       "value": "2.2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12914,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12939,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLMRZReaderAddon\/OTMLMRZReaderAddon\/Sources\/PassportScanner\/PassportScanner.swift",
       "kind": "IntegerLiteral",
       "offset": 12943,
       "length": 1,

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AutomatID-umbrella.h</key>
 		<data>
-		Y4q+Tx1vPtXqhgyJqxgUXjd+LO8=
+		v1NjQ/X33zCIrwB1BC/0pbthdb4=
 		</data>
 		<key>Headers/AutomatIDManager.h</key>
 		<data>
@@ -16,13 +16,17 @@
 		<data>
 		qcPI2LT1L7E+sjQompKzPnfBjHk=
 		</data>
+		<key>Headers/frameworkversion.h</key>
+		<data>
+		+lYjTWc1JTc4tV//7nzilulnbtM=
+		</data>
 		<key>Headers/internalversion.h</key>
 		<data>
 		vqCTluQa5rX32af3ZdKeN9WuRME=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1apLMdQ8nkOnA9qQKU2Vflslvw0=
+		lFpcFWtac8eGBtnUAxNqEeohXsg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,11 +39,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y4q+Tx1vPtXqhgyJqxgUXjd+LO8=
+			v1NjQ/X33zCIrwB1BC/0pbthdb4=
 			</data>
 			<key>hash2</key>
 			<data>
-			0byfI3r8VcoRS+1YCT7HVip9lqz+kmOyvm/hXQ/Q4r0=
+			T6QNK1QokZJ9+zTPpZ+iTQAJdUKkPnB4FguLf3zOnas=
 			</data>
 		</dict>
 		<key>Headers/AutomatIDManager.h</key>
@@ -62,6 +66,17 @@
 			<key>hash2</key>
 			<data>
 			t6woGnGH8NXmkJb5UAu3+tFRibiZrxczMAlQA0kpzhI=
+			</data>
+		</dict>
+		<key>Headers/frameworkversion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+lYjTWc1JTc4tV//7nzilulnbtM=
+			</data>
+			<key>hash2</key>
+			<data>
+			hftfVtB8RfXpKHCxjU6m+NbIF8l2XL3trtiSphIDerY=
 			</data>
 		</dict>
 		<key>Headers/internalversion.h</key>

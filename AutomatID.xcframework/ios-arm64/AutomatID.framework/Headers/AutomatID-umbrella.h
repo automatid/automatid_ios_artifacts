@@ -11,6 +11,7 @@
 #endif
 
 #import "AutomatIDManager.h"
+#import "frameworkversion.h"
 #import "internalversion.h"
 #import "SCIErrorCodes.h"
 

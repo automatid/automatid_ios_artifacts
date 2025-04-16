@@ -66,6 +66,7 @@
 #import "AutomatID_OTMPSecureFileHandler.h"
 #import "AutomatID_OTMLDataStoreHandler.h"
 #import "AutomatID_OTMLDumpableModuleProtocol.h"
+#import "frameworkversion.h"
 #import "AutomatID_OTMLReliableQueue.h"
 #import "AutomatID_EDSemver.h"
 #import "AutomatID_OTMacros.h"

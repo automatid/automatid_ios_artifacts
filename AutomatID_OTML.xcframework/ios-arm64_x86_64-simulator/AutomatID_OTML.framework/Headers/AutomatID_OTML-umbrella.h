@@ -342,6 +342,7 @@
 #import "AutomatID_OTMLTimedTriggerManager.h"
 #import "AutomatID_OTMLTimedTriggerModel.h"
 #import "AutomatID_OTMLPublicClass.h"
+#import "frameworkversion.h"
 #import "AutomatID_SMJConfiguration.h"
 #import "AutomatID_SMJEvaluationListener.h"
 #import "AutomatID_SMJJSONPath.h"

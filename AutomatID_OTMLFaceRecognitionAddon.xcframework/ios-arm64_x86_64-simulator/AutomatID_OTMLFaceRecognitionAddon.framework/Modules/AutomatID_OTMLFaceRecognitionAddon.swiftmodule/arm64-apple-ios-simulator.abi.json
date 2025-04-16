@@ -1211,259 +1211,259 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
       "offset": 273,
       "length": 13,
       "value": "\"otml_device\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionActionReceiver.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 20,
       "value": "\"is_mlkit_supported\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 56,
       "value": "\"blink count \""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 7,
       "value": "\" results \""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
       "offset": 507,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7887,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 7932,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 8284,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 8327,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 8362,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
       "offset": 8398,
       "length": 44,
       "value": "[-30.0, -20.0, -10.0, 0.0, 10.0, 20.0, 30.0]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "Array",
       "offset": 8477,
       "length": 79,
       "value": "[[20.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 5.0], [5.0, 20.0]]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
       "offset": 10488,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
       "offset": 10575,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11628,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11703,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11726,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "FloatLiteral",
       "offset": 13835,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13891,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13903,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14061,
       "length": 2,
       "value": "22"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 14204,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14276,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
       "offset": 14408,
       "length": 6,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14411,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "StringLiteral",
       "offset": 14413,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 33227,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 33279,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/OTMLFaceRecognitionComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 33303,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3763,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3810,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3853,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3907,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 3959,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "FloatLiteral",
       "offset": 4003,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/OTSCIWS\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLFaceRecognitionAddon\/OTMLFaceRecognitionAddon\/Classes\/UIUtilities.swift",
       "kind": "IntegerLiteral",
       "offset": 4040,
       "length": 1,

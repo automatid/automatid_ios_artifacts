@@ -195,6 +195,7 @@
 #import "AutomatID_OTMLFont.h"
 #import "AutomatID_OTMLModelsAppExposedHooks.h"
 #import "AutomatID_OTMPColor.h"
+#import "frameworkversion.h"
 #import "AutomatID_ModelMacros.h"
 #import "AutomatID_OTMLModelFactoriesConfigurator.h"
 #import "AutomatID_OTTBXMLUnescaper.h"
