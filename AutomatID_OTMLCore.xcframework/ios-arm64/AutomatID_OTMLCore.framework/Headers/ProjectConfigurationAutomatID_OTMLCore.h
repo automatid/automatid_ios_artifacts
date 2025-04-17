@@ -3,7 +3,7 @@
 #ifndef ProjectConfigurationAutomatID_OTMLCore_h
 #define ProjectConfigurationAutomatID_OTMLCore_h
 
-	#define LOGACTIVE
+	#undef LOGACTIVE
 	#undef COREMULTIPUNTAMENTO
 	#define LOG_DESTINATION AutomatID_OTMPLoggerProcessor_NSLog
 
