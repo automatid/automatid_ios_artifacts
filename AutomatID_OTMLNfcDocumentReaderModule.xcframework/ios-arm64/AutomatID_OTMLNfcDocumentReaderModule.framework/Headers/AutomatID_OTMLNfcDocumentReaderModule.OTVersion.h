@@ -1,1 +1,1 @@
-#define AutomatID_OTMLNfcDocumentReaderModule_version @"b'6ddd56a'" //short git version of following full git version b'6ddd56ac8f4f924549b313e3f500d36f6ec86116'
+#define AutomatID_OTMLNfcDocumentReaderModule_version @"b'4e679cf'" //short git version of following full git version b'4e679cf5b39f351eb7063f99362027d77b83ab9a'
