@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "AutomatID_OTMLNfcDocumentReaderModule",
-    "printedName": "AutomatID_OTMLNfcDocumentReaderModule",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
     "children": [
       {
         "kind": "Import",
@@ -110,22 +110,6 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -1230,22 +1214,6 @@
         "declAttributes": [
           "AccessControl",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -1337,23 +1305,7 @@
           "Available",
           "RawDocComment"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -1578,22 +1530,6 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -1695,22 +1631,6 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -1896,22 +1816,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -2192,23 +2096,7 @@
           "Available",
           "Available"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -2424,20 +2312,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -2569,22 +2443,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -3351,22 +3209,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -3473,22 +3315,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -3652,22 +3478,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -4715,22 +4525,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -4833,22 +4627,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -5232,22 +5010,6 @@
           "Available",
           "Available",
           "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -6115,9 +5877,6 @@
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "static": true,
             "implicit": true,
-            "declAttributes": [
-              "Nonisolated"
-            ],
             "accessors": [
               {
                 "kind": "Accessor",
@@ -6163,20 +5922,6 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -7327,20 +7072,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
@@ -7841,20 +7572,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
@@ -8099,20 +7816,6 @@
           "RawDocComment"
         ],
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Error",
@@ -8434,9 +8137,6 @@
             "moduleName": "AutomatID_OTMLNfcDocumentReaderModule",
             "static": true,
             "implicit": true,
-            "declAttributes": [
-              "Nonisolated"
-            ],
             "accessors": [
               {
                 "kind": "Accessor",
@@ -8479,20 +8179,6 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -9129,23 +8815,7 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -9385,20 +9055,6 @@
           "AccessControl"
         ],
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -11688,22 +11344,6 @@
           "AccessControl",
           "Available",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -12011,22 +11651,6 @@
           "AccessControl",
           "Available",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -12059,22 +11683,6 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.DataGroup"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -12290,23 +11898,7 @@
           "Available",
           "Available"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -12537,20 +12129,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -12704,20 +12282,6 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -12899,22 +12463,6 @@
         "declAttributes": [
           "AccessControl",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -13161,20 +12709,6 @@
           "AccessControl"
         ],
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -14361,22 +13895,6 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -14907,17 +14425,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
+            "name": "NFCTagReaderSessionDelegate",
+            "printedName": "NFCTagReaderSessionDelegate",
+            "usr": "s:7CoreNFC27NFCTagReaderSessionDelegateP",
+            "mangledName": "$s7CoreNFC27NFCTagReaderSessionDelegateP"
           },
           {
             "kind": "Conformance",
@@ -14967,13 +14478,6 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "NFCTagReaderSessionDelegate",
-            "printedName": "NFCTagReaderSessionDelegate",
-            "usr": "s:7CoreNFC27NFCTagReaderSessionDelegateP",
-            "mangledName": "$s7CoreNFC27NFCTagReaderSessionDelegateP"
           }
         ]
       },
@@ -15329,22 +14833,6 @@
         "declAttributes": [
           "AccessControl",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -15543,20 +15031,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -15663,22 +15137,6 @@
           "AccessControl",
           "Available",
           "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -15775,23 +15233,7 @@
           "Available",
           "Available"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -15953,20 +15395,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "CustomDebugStringConvertible",
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
@@ -16060,22 +15488,6 @@
           "Available",
           "Available",
           "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       },
       {
@@ -16125,23 +15537,7 @@
           "AccessControl",
           "Available"
         ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -17732,20 +17128,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -18147,20 +17529,6 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -18594,28 +17962,19 @@
           "AccessControl",
           "Available",
           "Available"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
         ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/ActiveAuthenticationInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
+      "length": 24,
+      "value": "\"AutomatID_OTMLNfcDocumentReaderModule.ActiveAuthenticationInfo\""
+    },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/AES_3DES_DESEncryption.swift",
       "kind": "IntegerLiteral",
@@ -18720,6 +18079,20 @@
       "offset": 795,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/ChipAuthenticationInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 22,
+      "value": "\"AutomatID_OTMLNfcDocumentReaderModule.ChipAuthenticationInfo\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/ChipAuthenticationPublicKeyInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 31,
+      "value": "\"AutomatID_OTMLNfcDocumentReaderModule.ChipAuthenticationPublicKeyInfo\""
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/COM.swift",
@@ -19065,6 +18438,272 @@
       "value": "0x00"
     },
     {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 261,
+      "length": 4,
+      "value": "0x60"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 4,
+      "value": "0x61"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 301,
+      "length": 4,
+      "value": "0x75"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 321,
+      "length": 4,
+      "value": "0x63"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 341,
+      "length": 4,
+      "value": "0x76"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 361,
+      "length": 4,
+      "value": "0x65"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 381,
+      "length": 4,
+      "value": "0x66"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 401,
+      "length": 4,
+      "value": "0x67"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 421,
+      "length": 4,
+      "value": "0x68"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 441,
+      "length": 4,
+      "value": "0x69"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 462,
+      "length": 4,
+      "value": "0x6A"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 483,
+      "length": 4,
+      "value": "0x6B"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 504,
+      "length": 4,
+      "value": "0x6C"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 525,
+      "length": 4,
+      "value": "0x6D"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 546,
+      "length": 4,
+      "value": "0x6E"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 567,
+      "length": 4,
+      "value": "0x6F"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 588,
+      "length": 4,
+      "value": "0x70"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 608,
+      "length": 4,
+      "value": "0x77"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 632,
+      "length": 4,
+      "value": "0x00"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 261,
+      "length": 4,
+      "value": "0x60"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 281,
+      "length": 4,
+      "value": "0x61"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 301,
+      "length": 4,
+      "value": "0x75"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 321,
+      "length": 4,
+      "value": "0x63"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 341,
+      "length": 4,
+      "value": "0x76"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 361,
+      "length": 4,
+      "value": "0x65"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 381,
+      "length": 4,
+      "value": "0x66"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 401,
+      "length": 4,
+      "value": "0x67"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 421,
+      "length": 4,
+      "value": "0x68"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 441,
+      "length": 4,
+      "value": "0x69"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 462,
+      "length": 4,
+      "value": "0x6A"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 483,
+      "length": 4,
+      "value": "0x6B"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 504,
+      "length": 4,
+      "value": "0x6C"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 525,
+      "length": 4,
+      "value": "0x6D"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 546,
+      "length": 4,
+      "value": "0x6E"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 567,
+      "length": 4,
+      "value": "0x6F"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 588,
+      "length": 4,
+      "value": "0x70"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 608,
+      "length": 4,
+      "value": "0x77"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/DataGroupId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 632,
+      "length": 4,
+      "value": "0x00"
+    },
+    {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroupParser.swift",
       "kind": "Array",
       "offset": 187,
@@ -19077,6 +18716,76 @@
       "offset": 365,
       "length": 108,
       "value": "[0x60, 0x61, 0x75, 0x63, 0x76, 0x65, 0x66, 0x67, 0x68, 0x69, 0x6A, 0x6B, 0x6C, 0x6D, 0x6E, 0x6F, 0x70, 0x77]"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 279,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 298,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 316,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 337,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 356,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 279,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 298,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 316,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 337,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
+      "kind": "IntegerLiteral",
+      "offset": 356,
+      "length": 1,
+      "value": "4"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/Logging.swift",
@@ -19478,6 +19187,13 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/DocumentReader\/OTMLAction\/OTNFCDRScanDocumentAction.swift",
+      "kind": "BooleanLiteral",
+      "offset": 242,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/PACEHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 833,
@@ -19681,6 +19397,13 @@
       "value": "18"
     },
     {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/DataGroups\/PACEInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 316,
+      "length": 8,
+      "value": "\"AutomatID_OTMLNfcDocumentReaderModule.PACEInfo\""
+    },
+    {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/PassportReader.swift",
       "kind": "IntegerLiteral",
       "offset": 488,
@@ -19772,11 +19495,60 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/PassportReader.swift",
+      "kind": "StringLiteral",
+      "offset": 305,
+      "length": 14,
+      "value": "\"AutomatID_OTMLNfcDocumentReaderModule.PassportReader\""
+    },
+    {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 4,
       "value": "0x00"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 3,
+      "value": "0x1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 363,
+      "length": 3,
+      "value": "0x2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 393,
+      "length": 3,
+      "value": "0x3"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 3,
+      "value": "0x1"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 363,
+      "length": 3,
+      "value": "0x2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 393,
+      "length": 3,
+      "value": "0x3"
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/SecureMessagingSessionKeyGenerator.swift",
@@ -20204,6 +19976,62 @@
       "offset": 2483,
       "length": 1,
       "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 344,
+      "length": 25,
+      "value": "\"Certificate fingerprint\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 392,
+      "length": 8,
+      "value": "\"Issuer\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 424,
+      "length": 9,
+      "value": "\"Subject\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 15,
+      "value": "\"Serial number\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 504,
+      "length": 21,
+      "value": "\"Signature algorithm\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 556,
+      "length": 22,
+      "value": "\"Public key algorithm\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 600,
+      "length": 12,
+      "value": "\"Valid from\""
+    },
+    {
+      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 633,
+      "length": 10,
+      "value": "\"Valid to\""
     },
     {
       "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTMLNfcDocumentReaderModule\/OTMLNfcDocumentReaderModule\/Sources\/NFCPassportReader\/X509Wrapper.swift",

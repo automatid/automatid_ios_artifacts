@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLNfcDocumentReaderModule
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 import AutomatID_OTML
 import AutomatID_OTMLCore
@@ -105,7 +104,6 @@ public enum DocTypeEnum : Swift.String {
   case TD2
   case OTHER
   public init?(rawValue: Swift.String)
-  @available(iOS 13, macOS 10.15, *)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -283,11 +281,9 @@ public enum DataGroupId : Swift.Int, Swift.CaseIterable {
   public func getName() -> Swift.String
   public static func getIDFromName(name: Swift.String) -> AutomatID_OTMLNfcDocumentReaderModule.DataGroupId
   public init?(rawValue: Swift.Int)
-  @available(iOS 13, macOS 10.15, *)
   public typealias AllCases = [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId]
-  @available(iOS 13, macOS 10.15, *)
   public typealias RawValue = Swift.Int
-  nonisolated public static var allCases: [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId] {
+  public static var allCases: [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId] {
     get
   }
   public var rawValue: Swift.Int {
@@ -364,7 +360,7 @@ public enum LogLevel : Swift.Int, Swift.CaseIterable {
   public init?(rawValue: Swift.Int)
   public typealias AllCases = [AutomatID_OTMLNfcDocumentReaderModule.LogLevel]
   public typealias RawValue = Swift.Int
-  nonisolated public static var allCases: [AutomatID_OTMLNfcDocumentReaderModule.LogLevel] {
+  public static var allCases: [AutomatID_OTMLNfcDocumentReaderModule.LogLevel] {
     get
   }
   public var rawValue: Swift.Int {
@@ -739,7 +735,6 @@ public enum CertificateItem : Swift.String {
   case notBefore
   case notAfter
   public init?(rawValue: Swift.String)
-  @available(iOS 13, macOS 10.15, *)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
