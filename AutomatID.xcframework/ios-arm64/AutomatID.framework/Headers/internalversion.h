@@ -1,1 +1,1 @@
-#define OT_INTERNAL_VERSION @"6"
+#define OT_INTERNAL_VERSION @"7"

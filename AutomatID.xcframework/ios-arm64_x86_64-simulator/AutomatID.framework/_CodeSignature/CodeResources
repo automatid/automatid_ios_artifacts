@@ -18,15 +18,15 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		CaQcrMR3rH0ec2BaOU2JPy4KWK4=
+		Cjp/rHhj7s0xdpeVvlwhGbBWrsE=
 		</data>
 		<key>Headers/internalversion.h</key>
 		<data>
-		vqCTluQa5rX32af3ZdKeN9WuRME=
+		cjPpVnHvb7my9p2oOZxg1Nt9VS8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+ihRj7vzINtvGe4t3eG8yjO3wvk=
+		VHZ6hBNOx9T0hTZ1gZ3eSrNIaqs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,22 +72,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CaQcrMR3rH0ec2BaOU2JPy4KWK4=
+			Cjp/rHhj7s0xdpeVvlwhGbBWrsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GxIPJJ2C7fRwe8EuX5Rk8pbX5Gpw38VlnFEl94QHf/A=
+			FzIThgcTxNvJdflA5BxohcFagC6Ftxz6mVvNP3542d4=
 			</data>
 		</dict>
 		<key>Headers/internalversion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vqCTluQa5rX32af3ZdKeN9WuRME=
+			cjPpVnHvb7my9p2oOZxg1Nt9VS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wN0yVgYLorE/XaHlUoUsa5LW7Z37ImklG9w+SA/7MfU=
+			bWC3/EaQjk9RtJTKZ3coioEZH7SwzTUtRemijQvkfm0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

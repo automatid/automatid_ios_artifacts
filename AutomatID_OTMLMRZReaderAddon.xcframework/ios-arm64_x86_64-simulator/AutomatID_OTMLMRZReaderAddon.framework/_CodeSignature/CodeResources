@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AutomatID_OTMLMRZReaderAddon-Swift.h</key>
 		<data>
-		RER6cp4femig/p4N2nv+tUA57YY=
+		pTV7amv/7Mct1PEjj81JNkqCQms=
 		</data>
 		<key>Headers/AutomatID_OTMLMRZReaderAddon-umbrella.h</key>
 		<data>
@@ -38,47 +38,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oCahdWSP4+f41F2as/Z3vQ2dY5w=
+		FzhVs/QhQoFisri8QHBq9f9b9GA=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qIeMkEm7nK29ddBINlWX13A088Y=
+		C6CNCyT1I5kI3CSw+S9F6t4gujs=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DUj3vhI6ZfkfEPh7qtly2c19IS0=
+		Qk8VCZCS5PMFaYFFT8/WRuaQs4E=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		aoefX2rcwg6HKOWDW/5tlApImHU=
+		BPezkPb3iR80JPlmWuL0I80kvnU=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DUj3vhI6ZfkfEPh7qtly2c19IS0=
+		Qk8VCZCS5PMFaYFFT8/WRuaQs4E=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O5uu5Cbv4EO5RbWE5KGE2RWhsP4=
+		CxWakZHKVmItGeKxCMkoNboqKPs=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qIeMkEm7nK29ddBINlWX13A088Y=
+		C6CNCyT1I5kI3CSw+S9F6t4gujs=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tVniQ2Z57zpwyX4qrNJ2GKN3+Wg=
+		ni6atwsMk/Lg2mUxvRaudtK9cvc=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YkfrT+RMa+TczMuGIrzYmWIrZv8=
+		r4WvhX69Onkx4UOwuupELj/mZYE=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tVniQ2Z57zpwyX4qrNJ2GKN3+Wg=
+		ni6atwsMk/Lg2mUxvRaudtK9cvc=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NVb/GsQnjw6wBMxgOpBtzmzp9xk=
+		dgXSRblAGTJfIag95fbGxV3Yur8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,11 +91,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RER6cp4femig/p4N2nv+tUA57YY=
+			pTV7amv/7Mct1PEjj81JNkqCQms=
 			</data>
 			<key>hash2</key>
 			<data>
-			RS1B4ZofiE6HD0BMCBPzSlR/HN2XiKHAfCOWruA+4OI=
+			wPRIHTaXQ+rlUIcVuC84UpstyUEPNMXsJY/RRC0xzi8=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLMRZReaderAddon-umbrella.h</key>
@@ -179,110 +179,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qIeMkEm7nK29ddBINlWX13A088Y=
+			C6CNCyT1I5kI3CSw+S9F6t4gujs=
 			</data>
 			<key>hash2</key>
 			<data>
-			p+qRo5ChU5aMZsXhp/CyjUdTVNfEAmW/TBRoVkYCX5Q=
+			wMqdvMySPposkjBKVFLPsGNW5EXb/S6ZZCxvZULY/XA=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DUj3vhI6ZfkfEPh7qtly2c19IS0=
+			Qk8VCZCS5PMFaYFFT8/WRuaQs4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			qsAbHYHNFkOBcKQIvUwbhA8RxLlqZ0+QwTJGEpH/TTg=
+			sUnjSJBwhk2aO8hT8Yaky82UsV1CZX3HRwNaPzSiCZg=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aoefX2rcwg6HKOWDW/5tlApImHU=
+			BPezkPb3iR80JPlmWuL0I80kvnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+MiPp8rzUBrVjWsiZJ9EJRvTv01gA6XqFJ0FwD97Vyg=
+			F059QwvLZBcLw+daV5azvz4b/3kImMYsN2Qe1PgfPrI=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DUj3vhI6ZfkfEPh7qtly2c19IS0=
+			Qk8VCZCS5PMFaYFFT8/WRuaQs4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			qsAbHYHNFkOBcKQIvUwbhA8RxLlqZ0+QwTJGEpH/TTg=
+			sUnjSJBwhk2aO8hT8Yaky82UsV1CZX3HRwNaPzSiCZg=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O5uu5Cbv4EO5RbWE5KGE2RWhsP4=
+			CxWakZHKVmItGeKxCMkoNboqKPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZCtmDe2dGaO8ZeRNpkRzZhmEv42pK+Ov8fkHAPn4BRU=
+			CraJyCYWxH0iIsjDVpicrDAtckryLcNdCANNumZEHqg=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qIeMkEm7nK29ddBINlWX13A088Y=
+			C6CNCyT1I5kI3CSw+S9F6t4gujs=
 			</data>
 			<key>hash2</key>
 			<data>
-			p+qRo5ChU5aMZsXhp/CyjUdTVNfEAmW/TBRoVkYCX5Q=
+			wMqdvMySPposkjBKVFLPsGNW5EXb/S6ZZCxvZULY/XA=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tVniQ2Z57zpwyX4qrNJ2GKN3+Wg=
+			ni6atwsMk/Lg2mUxvRaudtK9cvc=
 			</data>
 			<key>hash2</key>
 			<data>
-			GaOW+kt03YLSk7Kf+I+IHcbkkY9imBsDexHBSXZsz0Q=
+			M4Uoalaun9QxCYxGtju4XAc6WMVyeKmuivbFJBJRKm0=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YkfrT+RMa+TczMuGIrzYmWIrZv8=
+			r4WvhX69Onkx4UOwuupELj/mZYE=
 			</data>
 			<key>hash2</key>
 			<data>
-			DqtuCBOmyF95wJRzg1iKIEQxuViX/uKx7FdiEXryNi4=
+			H3CslhWMByIpJ3vIh24T3OX1wN95FnfiKxWzZs8V3qQ=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tVniQ2Z57zpwyX4qrNJ2GKN3+Wg=
+			ni6atwsMk/Lg2mUxvRaudtK9cvc=
 			</data>
 			<key>hash2</key>
 			<data>
-			GaOW+kt03YLSk7Kf+I+IHcbkkY9imBsDexHBSXZsz0Q=
+			M4Uoalaun9QxCYxGtju4XAc6WMVyeKmuivbFJBJRKm0=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NVb/GsQnjw6wBMxgOpBtzmzp9xk=
+			dgXSRblAGTJfIag95fbGxV3Yur8=
 			</data>
 			<key>hash2</key>
 			<data>
-			pUgJcNOq19J+h29S/peFbruuOKK1efMqpijdiVg+0to=
+			gqbbhWx+aHv02taEkKCUG/HBCY0HtF6j414qLRuWdN8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
