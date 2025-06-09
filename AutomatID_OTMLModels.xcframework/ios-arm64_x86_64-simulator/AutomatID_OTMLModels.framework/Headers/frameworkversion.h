@@ -1,1 +1,1 @@
-#define OT_AutomatID_OTMLModels_FRAMEWORK_VERSION @"3.0.33"
+#define OT_AutomatID_OTMLModels_FRAMEWORK_VERSION @"3.0.34"
