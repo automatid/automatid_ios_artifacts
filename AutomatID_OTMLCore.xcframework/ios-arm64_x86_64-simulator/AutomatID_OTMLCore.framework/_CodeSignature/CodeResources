@@ -270,7 +270,7 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		0F6YYNesqfEkMebj1Tj7sWQAqnQ=
+		/dXq8NIHOfwjMOPA91KgJDnVCDg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1053,11 +1053,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0F6YYNesqfEkMebj1Tj7sWQAqnQ=
+			/dXq8NIHOfwjMOPA91KgJDnVCDg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3r+fV+S5ELLAoHgoHYXqHQeHTavBx8VfNu2msrXRzXo=
+			Fw5aa44JowBuPxkNTrRLg3WpzfSoCmZYBMQrNrBLwt8=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
