@@ -1,1 +1,1 @@
-#define OT_AutomatID_FRAMEWORK_VERSION @"3.0.37"
+#define OT_AutomatID_FRAMEWORK_VERSION @"3.0.38"
