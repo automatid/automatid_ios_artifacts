@@ -1,1 +1,1 @@
-#define AutomatID_OTMLFaceRecognitionAddon_version @"b'c602ed1'" //short git version of following full git version b'c602ed1d24a4f5aac84068a3ed501487e6a6a0f3'
+#define AutomatID_OTMLFaceRecognitionAddon_version @"b'9ef83d6'" //short git version of following full git version b'9ef83d6003b97222230f27b64cca6af1a9e5fdab'
