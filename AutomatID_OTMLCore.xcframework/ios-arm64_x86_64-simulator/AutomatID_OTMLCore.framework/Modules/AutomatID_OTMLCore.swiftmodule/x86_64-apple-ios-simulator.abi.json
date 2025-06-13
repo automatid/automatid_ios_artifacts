@@ -226,6 +226,222 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "AutomatID_WindowSceneAdaptor",
+        "printedName": "AutomatID_WindowSceneAdaptor",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "keyWindow",
+            "printedName": "keyWindow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindow?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindow",
+                    "printedName": "UIKit.UIWindow",
+                    "usr": "c:objc(cs)UIWindow"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor(cm)keyWindow",
+            "mangledName": "$s18AutomatID_OTMLCore0aB19_WindowSceneAdaptorC03keyD0So8UIWindowCSgyFZ",
+            "moduleName": "AutomatID_OTMLCore",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "currentWindowScene",
+            "printedName": "currentWindowScene()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindowScene?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindowScene",
+                    "printedName": "UIKit.UIWindowScene",
+                    "usr": "c:objc(cs)UIWindowScene"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor(cm)currentWindowScene",
+            "mangledName": "$s18AutomatID_OTMLCore0aB19_WindowSceneAdaptorC07currentdE0So08UIWindowE0CSgyFZ",
+            "moduleName": "AutomatID_OTMLCore",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createSDKWindow",
+            "printedName": "createSDKWindow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindow?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindow",
+                    "printedName": "UIKit.UIWindow",
+                    "usr": "c:objc(cs)UIWindow"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor(cm)createSDKWindow",
+            "mangledName": "$s18AutomatID_OTMLCore0aB19_WindowSceneAdaptorC15createSDKWindowSo8UIWindowCSgyFZ",
+            "moduleName": "AutomatID_OTMLCore",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_WindowSceneAdaptor",
+                "printedName": "AutomatID_OTMLCore.AutomatID_WindowSceneAdaptor",
+                "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor(im)init",
+            "mangledName": "$s18AutomatID_OTMLCore0aB19_WindowSceneAdaptorCACycfc",
+            "moduleName": "AutomatID_OTMLCore",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AutomatID_OTMLCore@objc(cs)AutomatID_WindowSceneAdaptor",
+        "mangledName": "$s18AutomatID_OTMLCore0aB19_WindowSceneAdaptorC",
+        "moduleName": "AutomatID_OTMLCore",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutomatID_OTMLCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "AutomatID_IsoCountryInfoObj",
         "printedName": "AutomatID_IsoCountryInfoObj",
         "children": [

@@ -1,1 +1,1 @@
-#define AutomatID_OTMLModels_version @"b'8aab0df'" //short git version of following full git version b'8aab0dff7d72d53245644b360e1426a2b4a39f42'
+#define AutomatID_OTMLModels_version @"b'bad589e'" //short git version of following full git version b'bad589e0fea63facb5a4666feb54cf01f5005116'

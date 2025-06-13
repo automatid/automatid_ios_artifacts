@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLCore
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLCore
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 @_exported import AutomatID_OTMLCore
 import Foundation
@@ -14,6 +14,13 @@ import os
 @_inheritsConvenienceInitializers @objc(AutomatID_CryptoExportImportManager) open class AutomatID_CryptoExportImportManager : ObjectiveC.NSObject {
   @objc public func importPublicKeyReferenceFromDERCertificate(_ certData: Foundation.Data) -> Security.SecKey?
   @objc public func exportPublicKeyToDER(_ rawPublicKeyBytes: Foundation.Data, keyType: Swift.String, keySize: Swift.Int) -> Foundation.Data?
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers public class AutomatID_WindowSceneAdaptor : ObjectiveC.NSObject {
+  @objc public class func keyWindow() -> UIKit.UIWindow?
+  @objc public class func currentWindowScene() -> UIKit.UIWindowScene?
+  @objc public class func createSDKWindow() -> UIKit.UIWindow?
   @objc override dynamic public init()
   @objc deinit
 }

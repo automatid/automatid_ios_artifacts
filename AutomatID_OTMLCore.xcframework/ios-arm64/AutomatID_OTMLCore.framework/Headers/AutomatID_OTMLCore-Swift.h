@@ -346,6 +346,18 @@ SWIFT_CLASS_NAMED("AutomatID_IsoCountryInfoObj")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIWindow;
+@class UIWindowScene;
+
+SWIFT_CLASS("_TtC18AutomatID_OTMLCore28AutomatID_WindowSceneAdaptor")
+@interface AutomatID_WindowSceneAdaptor : NSObject
++ (UIWindow * _Nullable)keyWindow SWIFT_WARN_UNUSED_RESULT;
++ (UIWindowScene * _Nullable)currentWindowScene SWIFT_WARN_UNUSED_RESULT;
+/// Creates a new UIWindow attached to the correct scene (if needed)
++ (UIWindow * _Nullable)createSDKWindow SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 
 SWIFT_CLASS("_TtC18AutomatID_OTMLCore10OTOSLogger")
