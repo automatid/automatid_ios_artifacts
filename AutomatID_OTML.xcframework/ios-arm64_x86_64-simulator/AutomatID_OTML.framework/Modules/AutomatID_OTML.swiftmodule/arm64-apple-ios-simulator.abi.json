@@ -1561,455 +1561,455 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
       "kind": "Array",
       "offset": 420,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
       "kind": "BooleanLiteral",
       "offset": 454,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 764,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 810,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 867,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 905,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 945,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 993,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1032,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1074,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1120,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1180,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1230,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1289,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1340,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 1390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 3787,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 3847,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 3882,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 3943,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 4352,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 4390,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 4656,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 5988,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 6031,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 6091,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 6126,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 6187,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 6832,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 7496,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 7523,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 7649,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 7992,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 8157,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 8572,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 9230,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "StringLiteral",
       "offset": 9739,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 9827,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 9885,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 10135,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 10173,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11014,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 11097,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11151,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11820,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 11858,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 11992,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 12054,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 12462,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 12538,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 12550,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13368,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13520,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13558,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 13900,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 13942,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 13991,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 14003,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "FloatLiteral",
       "offset": 14747,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14789,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14905,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "IntegerLiteral",
       "offset": 14943,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 15036,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/semda\/Desktop\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/AutomatID_OTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 15067,
       "length": 5,

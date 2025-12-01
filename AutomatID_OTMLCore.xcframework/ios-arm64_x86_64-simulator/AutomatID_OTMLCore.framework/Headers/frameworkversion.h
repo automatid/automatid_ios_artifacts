@@ -1,1 +1,1 @@
-#define OT_AutomatID_OTMLCore_FRAMEWORK_VERSION @"3.0.40"
+#define OT_AutomatID_OTMLCore_FRAMEWORK_VERSION @"3.0.41"

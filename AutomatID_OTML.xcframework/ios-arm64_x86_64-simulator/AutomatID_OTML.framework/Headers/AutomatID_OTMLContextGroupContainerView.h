@@ -6,9 +6,20 @@
 //  Copyright © 2016 Opentech ENG. All rights reserved.
 //
 
-@class AutomatID_OTMLContextGroupDescriptorItem;
-@class AutomatID_OTMLContextContainerViewController;
 #import "AutomatID_OTMLContextDescriptor.h"
+#import "AutomatID_OTMLContextContainerViewController.h"
+
+#import "AutomatID_OTMLContextDescriptor.h"
+
+@import UIKit;
+
+@interface AutomatID_OTMLContextGroupContainerViewController : UIViewController
+
+- (nonnull instancetype)initWithFrame:(CGRect)frame
+                        forDescriptor:(nonnull AutomatID_OTMLContextGroupDescriptorItem*)aDescriptor
+                 forContextController:(nonnull AutomatID_OTMLContextContainerViewController*) contextController;
+-(nonnull AutomatID_OTMLContextGroupContainerView*) innerView;
+@end
 
 @interface AutomatID_OTMLContextGroupContainerView : UIImageView <UIGestureRecognizerDelegate>
 
@@ -35,3 +46,5 @@
 -(void)setCurrentOrientation:(UIInterfaceOrientationMask)aOrientation;
 
 @end
+
+

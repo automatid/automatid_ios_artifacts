@@ -47,6 +47,7 @@
 -(void) setFrame:(CGRect)aFrame;
 -(CGRect) getFrame;
 
+- (void)handleDeviceOrientationCheckAndForceIt;
 -(void) executeJSWithTarget:(NSString*)target andParameters:(NSDictionary*) parameters;
 -(void) executeTrigger:(NSString*)aTrigger forTarget:(NSString*)aTarget;
 -(void) executeTrigger:(NSString*)aTrigger onComponent:(AutomatID_OTMLComponent*)aComponent;
