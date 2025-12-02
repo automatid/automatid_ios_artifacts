@@ -46,7 +46,6 @@
 -(void) performOnTopOTMLVC:(AutomatID_OTMLAction*) anAction;
 -(void) triggerOnTopOTMLVC:(NSString*)aTrigger;
 -(AutomatID_OTMLViewController*)getAutomatID_OTMLViewControllerForContext:(NSString*) aContextID;
-
 // those two methods has been added in order to handle OTMLPopContext "action" that causes the argument context to be empty.
 // In this case, without those methods, no triggers would be executed.
 

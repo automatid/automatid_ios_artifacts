@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/AutomatID_OTML-Swift.h</key>
 		<data>
-		TDzm55sq8fAB8rHWc/doCMHYnvA=
+		22bUgMiDRNm+AngrgsGVh/Dqj1A=
 		</data>
 		<key>Headers/AutomatID_OTML-umbrella.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/AutomatID_OTML.OTVersion.h</key>
 		<data>
-		oJ8OYE8GCRGEOnDFO+MuzdrtTDQ=
+		IQeVy+5lYRHs4p59UD1IB8XmQlM=
 		</data>
 		<key>Headers/AutomatID_OTML.h</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLBridgeDelegate.h</key>
 		<data>
-		qpoWefGYutzyBm0ERx1LJoHMoR8=
+		36QqI9VddCCmv9hqtoCmeUIzdP8=
 		</data>
 		<key>Headers/AutomatID_OTMLBridgeRelatedCommand.h</key>
 		<data>
@@ -686,7 +686,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLMainViewController.h</key>
 		<data>
-		fdZltym+nL5DBDBHXOAdDw5tEUw=
+		PEAJLjKzye43r5c3jzY2vWSeC7U=
 		</data>
 		<key>Headers/AutomatID_OTMLMainViewControllerInstancesBasket.h</key>
 		<data>
@@ -846,7 +846,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLPermissionsCommand.h</key>
 		<data>
-		LxL18ouuaM/ppJUPsJwfp5pa8tU=
+		wakgdI/n7WAEqVnRehnAnLRTma8=
 		</data>
 		<key>Headers/AutomatID_OTMLPermissionsParameterResolver.h</key>
 		<data>
@@ -1710,11 +1710,11 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		r6mIkxrrw21I91h98phH/d1fjBY=
+		TL648ttc2aycLOp45ZHErbnaQr8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/o0j8PlcOwOgSqWhC+XZxPMEfag=
+		lwfpL732rwdel8wOV6rUNcY3eOM=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1722,19 +1722,19 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vIDkDUzo2opjsLrYhi3M5IQyyu0=
+		7ePvrI0h70xCIMAd2ae/jCL4WSo=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+iLcWFKVLAn6q1AikMKLko8FUAU=
+		DxuVYNSbRy8YNhCqz+T+xFIZBt4=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vIDkDUzo2opjsLrYhi3M5IQyyu0=
+		7ePvrI0h70xCIMAd2ae/jCL4WSo=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DQwtNNuXKt1TkfsjjtEjtC2xAz0=
+		Wv1TvaaDy/CDMsprFZTl0LzkCx8=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1742,19 +1742,19 @@
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eFUccJJCydNbBv3gj1N7ilZqUF4=
+		womwio4ZIPqN9xfiiUwO3nGKYug=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7y8AIzKebfNROGCFOGAJ4DwUeic=
+		/Gv32LqnXJu4i0JgIOVXAJK1fVM=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eFUccJJCydNbBv3gj1N7ilZqUF4=
+		womwio4ZIPqN9xfiiUwO3nGKYug=
 		</data>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4w0xizDleTQZ4d7GP++7sXq1Fv4=
+		uNvLo364Y85XTiIvEHSWPUjOTA4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1907,11 +1907,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TDzm55sq8fAB8rHWc/doCMHYnvA=
+			22bUgMiDRNm+AngrgsGVh/Dqj1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			wm0LtMKw/lQHrZPC+BOLxQDaq+tAVKyQ3VGS2PyBmiQ=
+			9vl3YMhyyu5Xh6HVfAi24YTf5rC69UyeaFi/XKq0vhg=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML-umbrella.h</key>
@@ -1929,11 +1929,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oJ8OYE8GCRGEOnDFO+MuzdrtTDQ=
+			IQeVy+5lYRHs4p59UD1IB8XmQlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			mbCYNlsgBi+UE3mFsjgS2/Lnj7TZ4FWSPjoUsY0jYTA=
+			FUZDjFpqYlJaiP/PHaLINjTTh/xAHXlUd8PCC0KaxOc=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML.h</key>
@@ -2182,11 +2182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qpoWefGYutzyBm0ERx1LJoHMoR8=
+			36QqI9VddCCmv9hqtoCmeUIzdP8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fnKJqJt7AsYSQlrd6sDf6EpY/EXC2Ye6ygDT9h+8G4c=
+			/3r3bkknud88ln114aKb33MO3XdTfVGmGwf+pT+1SqU=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLBridgeRelatedCommand.h</key>
@@ -3645,11 +3645,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fdZltym+nL5DBDBHXOAdDw5tEUw=
+			PEAJLjKzye43r5c3jzY2vWSeC7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			wOZzxOuJ0TgnCMfMbjnm1Ol1ZtR+kP0bgxDx2hiz87E=
+			GD5UZReRNwM93yq53fsHYfXWAZKFF+nCyhYFDBcsKxw=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLMainViewControllerInstancesBasket.h</key>
@@ -4085,11 +4085,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LxL18ouuaM/ppJUPsJwfp5pa8tU=
+			wakgdI/n7WAEqVnRehnAnLRTma8=
 			</data>
 			<key>hash2</key>
 			<data>
-			2qlMMpLK+8chw58AcnON8hTvqLjQbbyvNcgf3orbPts=
+			YF6W4B5e8uw7j+4z9sd4KLwPU2Jb0KLf4XjURhrq3K4=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLPermissionsParameterResolver.h</key>
@@ -6461,11 +6461,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r6mIkxrrw21I91h98phH/d1fjBY=
+			TL648ttc2aycLOp45ZHErbnaQr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			2e0m4q9+wA7S9T/BwKI7mmzN3I5YWBMGZO1dH8oLUqM=
+			h+DaYloTipvUew1NWXL3zMaaWfhXc4enEmO5+NDcT80=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -6483,44 +6483,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vIDkDUzo2opjsLrYhi3M5IQyyu0=
+			7ePvrI0h70xCIMAd2ae/jCL4WSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2wJFLBXUCl//kOBQpPC4JILxd8qaNZcx046zSNuPa1Q=
+			jNBiiwCK0/f8xJ+sFO0n0Cwi/hnk0Yne6ytPf07v1lw=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+iLcWFKVLAn6q1AikMKLko8FUAU=
+			DxuVYNSbRy8YNhCqz+T+xFIZBt4=
 			</data>
 			<key>hash2</key>
 			<data>
-			4woCIgw2m2M5/EsQdwWZRw8ofN/xv+vD5T3L0LC0sbo=
+			DzQAHSXmScVNKrBb2H8Gjth81oaMBgeZXC6nDQMLVfk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vIDkDUzo2opjsLrYhi3M5IQyyu0=
+			7ePvrI0h70xCIMAd2ae/jCL4WSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2wJFLBXUCl//kOBQpPC4JILxd8qaNZcx046zSNuPa1Q=
+			jNBiiwCK0/f8xJ+sFO0n0Cwi/hnk0Yne6ytPf07v1lw=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DQwtNNuXKt1TkfsjjtEjtC2xAz0=
+			Wv1TvaaDy/CDMsprFZTl0LzkCx8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FSIrw82Y3BPQg1+sraiZ2OBq376fRfEjdV3sA2fE5nA=
+			HswVKdbz2tuGPawLj8asemh9BP24tSy/HZpMliTN9EQ=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -6538,44 +6538,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eFUccJJCydNbBv3gj1N7ilZqUF4=
+			womwio4ZIPqN9xfiiUwO3nGKYug=
 			</data>
 			<key>hash2</key>
 			<data>
-			VMzjJMda5oyXApXTmbXh67clmvad5HBEkvlmhKI/Rns=
+			wnqKwpZ1+0GvykymvoXzIZRBIOY+uWJ00eTXOoVek3M=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7y8AIzKebfNROGCFOGAJ4DwUeic=
+			/Gv32LqnXJu4i0JgIOVXAJK1fVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VHY+78FEizJDQv1+f75eWBp0/5C8yEAshWmgajhyHEM=
+			7JUEwfqKx2aVZ88sHJsz5trB2Lk2NLCL8BhxqZOYPAc=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eFUccJJCydNbBv3gj1N7ilZqUF4=
+			womwio4ZIPqN9xfiiUwO3nGKYug=
 			</data>
 			<key>hash2</key>
 			<data>
-			VMzjJMda5oyXApXTmbXh67clmvad5HBEkvlmhKI/Rns=
+			wnqKwpZ1+0GvykymvoXzIZRBIOY+uWJ00eTXOoVek3M=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTML.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4w0xizDleTQZ4d7GP++7sXq1Fv4=
+			uNvLo364Y85XTiIvEHSWPUjOTA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ib/rMkB+zF7B9S+XMj/gW0IFQ0kyw4YoPLig+7h5LLo=
+			MmT8lORCK0yvHGN5UxiqCd33W9R/U9m6YwrVvIQF79I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

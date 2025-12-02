@@ -8,7 +8,6 @@
 
 #import "AutomatID_OTMLActionCommandSet.h"
 #import "AutomatID_OTMLActionCommandWithTriggerResult.h"
-#import <AssetsLibrary/AssetsLibrary.h>
 #import <AVFoundation/AVFoundation.h>
 
 @protocol AutomatID_OTMPAuthLocationDelegate;
@@ -26,9 +25,6 @@ typedef enum {
 } AutomatID_OTMLNotificationsPermissionsTypes;
 
 @interface AutomatID_OTMLPermissionsCommand : AutomatID_OTMLActionCommandSet
-
-+(BOOL)isGalleryPermissionsNotDetermined;
-+(BOOL)isGalleryPermissionsGranted;
 
 +(BOOL)isCameraPermissionsNotDetermined;
 +(BOOL)isCameraPermissionsGranted;

@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLNfcDocumentReaderModule
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AutomatID_OTMLNfcDocumentReaderModule
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AVFoundation
 import AutomatID_OTML
 import AutomatID_OTMLCore
@@ -22,7 +22,9 @@ import _SwiftConcurrencyShims
 public class ActiveAuthenticationInfo : AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo {
   override public func getObjectIdentifier() -> Swift.String
   override public func getProtocolOIDString() -> Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getSignatureAlgorithmOIDString() -> Swift.String?
+  #endif
   @objc deinit
 }
 @available(iOS 13, macOS 10.15, *)
@@ -46,7 +48,9 @@ public class BACHandler {
   public var kifd: [Swift.UInt8]
   public init()
   public init(tagReader: AutomatID_OTMLNfcDocumentReaderModule.TagReader)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func performBACAndGetSessionKeys(mrzKey: Swift.String, completed: @escaping (_ error: AutomatID_OTMLNfcDocumentReaderModule.NFCPassportReaderError?) -> ())
+  #endif
   public func sessionKeys(data: [Swift.UInt8]) throws -> ([Swift.UInt8], [Swift.UInt8], [Swift.UInt8])
   @objc deinit
 }
@@ -104,7 +108,9 @@ public enum DocTypeEnum : Swift.String {
   case TD1
   case TD2
   case OTHER
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   @available(iOS 13, macOS 10.15, *)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -282,7 +288,9 @@ public enum DataGroupId : Swift.Int, Swift.CaseIterable {
   case Unknown
   public func getName() -> Swift.String
   public static func getIDFromName(name: Swift.String) -> AutomatID_OTMLNfcDocumentReaderModule.DataGroupId
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   @available(iOS 13, macOS 10.15, *)
   public typealias AllCases = [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId]
   @available(iOS 13, macOS 10.15, *)
@@ -324,9 +332,11 @@ public enum NFCPassportReaderError : Swift.Error {
 }
 @available(iOS 13, macOS 10.15, *)
 extension AutomatID_OTMLNfcDocumentReaderModule.NFCPassportReaderError : Foundation.LocalizedError {
+  #if compiler(>=5.3) && $NonescapableTypes
   public var errorDescription: Swift.String? {
     get
   }
+  #endif
 }
 @available(iOS 13, macOS 10.15, *)
 public enum OpenSSLError : Swift.Error {
@@ -341,9 +351,11 @@ public enum OpenSSLError : Swift.Error {
 }
 @available(iOS 13, macOS 10.15, *)
 extension AutomatID_OTMLNfcDocumentReaderModule.OpenSSLError : Foundation.LocalizedError {
+  #if compiler(>=5.3) && $NonescapableTypes
   public var errorDescription: Swift.String? {
     get
   }
+  #endif
 }
 public enum PassiveAuthenticationError : Swift.Error {
   case UnableToParseSODHashes(Swift.String)
@@ -351,9 +363,11 @@ public enum PassiveAuthenticationError : Swift.Error {
   case SODMissing(Swift.String)
 }
 extension AutomatID_OTMLNfcDocumentReaderModule.PassiveAuthenticationError : Foundation.LocalizedError {
+  #if compiler(>=5.3) && $NonescapableTypes
   public var errorDescription: Swift.String? {
     get
   }
+  #endif
 }
 public enum LogLevel : Swift.Int, Swift.CaseIterable {
   case verbose
@@ -361,7 +375,9 @@ public enum LogLevel : Swift.Int, Swift.CaseIterable {
   case info
   case warning
   case error
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias AllCases = [AutomatID_OTMLNfcDocumentReaderModule.LogLevel]
   public typealias RawValue = Swift.Int
   nonisolated public static var allCases: [AutomatID_OTMLNfcDocumentReaderModule.LogLevel] {
@@ -428,24 +444,36 @@ public class NFCPassportModel {
   public var passportMRZ: Swift.String {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public var placeOfBirth: Swift.String? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var residenceAddress: Swift.String? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var phoneNumber: Swift.String? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var personalNumber: Swift.String? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var documentSigningCertificate: AutomatID_OTMLNfcDocumentReaderModule.X509Wrapper? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var countrySigningCertificate: AutomatID_OTMLNfcDocumentReaderModule.X509Wrapper? {
     get
   }
+  #endif
   public var LDSVersion: Swift.String {
     get
   }
@@ -500,22 +528,30 @@ public class NFCPassportModel {
   public var isChipAuthenticationSupported: Swift.Bool {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public var passportImage: UIKit.UIImage? {
     get
   }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public var signatureImage: UIKit.UIImage? {
     get
   }
+  #endif
   public var activeAuthenticationSupported: Swift.Bool {
     get
   }
   public init()
   public init(from dump: [Swift.String : Swift.String])
   public func addDataGroup(_ id: AutomatID_OTMLNfcDocumentReaderModule.DataGroupId, dataGroup: AutomatID_OTMLNfcDocumentReaderModule.DataGroup)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getDataGroup(_ id: AutomatID_OTMLNfcDocumentReaderModule.DataGroupId) -> AutomatID_OTMLNfcDocumentReaderModule.DataGroup?
+  #endif
   public func dumpPassportData(selectedDataGroups: [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId], includeActiveAuthenticationData: Swift.Bool = false) -> [Swift.String : Swift.String]
   public func getHashesForDatagroups(hashAlgorythm: Swift.String) -> [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId : [Swift.UInt8]]
+  #if compiler(>=5.3) && $NonescapableTypes
   public func verifyPassport(masterListURL: Foundation.URL?, useCMSVerification: Swift.Bool = false)
+  #endif
   public func verifyActiveAuthentication(challenge: [Swift.UInt8], signature: [Swift.UInt8])
   @objc deinit
 }
@@ -540,23 +576,35 @@ public class NotImplementedDG : AutomatID_OTMLNfcDocumentReaderModule.DataGroup 
 @_hasMissingDesignatedInitializers @available(iOS 13, macOS 10.15, *)
 public class OpenSSLUtils {
   public static func getOpenSSLError() -> Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
   @available(iOS 13, macOS 10.15, *)
   public static func getPublicKeyData(from key: Swift.OpaquePointer) -> [Swift.UInt8]?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @available(iOS 13, macOS 10.15, *)
   public static func decodePublicKeyFromBytes(pubKeyData: [Swift.UInt8], params: Swift.OpaquePointer) -> Swift.OpaquePointer?
+  #endif
   public static func computeSharedSecret(privateKeyPair: Swift.OpaquePointer, publicKey: Swift.OpaquePointer) -> [Swift.UInt8]
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class OTNFCDRScanActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.AutomatID_OTMLCustomActionResolver {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!) -> AutomatID_OTML.AutomatID_OTMLActionCommand!
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func canResolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> Swift.Bool
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func resolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> AutomatID_OTML.AutomatID_OTMLParameterEntry!
+  #endif
   @objc public func hasNFC() -> Swift.Bool
   @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class OTNFCDRScanDocumentAction : AutomatID_OTML.AutomatID_OTMLActionCommand {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public func execute(_ aAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!, on aNestingVC: AutomatID_OTML.AutomatID_OTMLViewController!)
+  #endif
   @objc deinit
 }
 @available(iOS 13, *)
@@ -594,7 +642,9 @@ public class PACEInfo : AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo {
   override public func getObjectIdentifier() -> Swift.String
   override public func getProtocolOIDString() -> Swift.String
   public func getVersion() -> Swift.Int
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getParameterId() -> Swift.Int?
+  #endif
   public func getParameterSpec() throws -> Swift.Int32
   public func getMappingType() throws -> AutomatID_OTMLNfcDocumentReaderModule.PACEMappingType
   public func getKeyAgreementAlgorithm() throws -> Swift.String
@@ -613,10 +663,14 @@ public class PACEInfo : AutomatID_OTMLNfcDocumentReaderModule.SecurityInfo {
 @objc @available(iOS 13, *)
 public class PassportReader : ObjectiveC.NSObject {
   public var passiveAuthenticationUsesOpenSSL: Swift.Bool
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(logLevel: AutomatID_OTMLNfcDocumentReaderModule.LogLevel = .info, masterListURL: Foundation.URL? = nil)
+  #endif
   public func setMasterListURL(_ masterListURL: Foundation.URL)
   public func overrideNFCDataAmountToRead(amount: Swift.Int)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func readPassport(mrzKey: Swift.String, tags: [AutomatID_OTMLNfcDocumentReaderModule.DataGroupId] = [], skipSecureElements: Swift.Bool = true, skipCA: Swift.Bool = false, skipPACE: Swift.Bool = false, customDisplayMessage: ((AutomatID_OTMLNfcDocumentReaderModule.NFCViewDisplayMessage) -> Swift.String?)? = nil, completed: @escaping (AutomatID_OTMLNfcDocumentReaderModule.NFCPassportModel?, AutomatID_OTMLNfcDocumentReaderModule.NFCPassportReaderError?) -> ())
+  #endif
   @objc deinit
 }
 @available(iOS 13, *)
@@ -655,7 +709,9 @@ public class SecurityInfo {
 @available(iOS 13, macOS 10.15, *)
 public class ASN1Item : Swift.CustomDebugStringConvertible {
   public init(line: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getChild(_ child: Swift.Int) -> AutomatID_OTMLNfcDocumentReaderModule.ASN1Item?
+  #endif
   public func getNumberOfChildren() -> Swift.Int
   public var debugDescription: Swift.String {
     get
@@ -738,7 +794,9 @@ public enum CertificateItem : Swift.String {
   case publicKeyAlgorithm
   case notBefore
   case notAfter
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   @available(iOS 13, macOS 10.15, *)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -748,17 +806,35 @@ public enum CertificateItem : Swift.String {
 @available(iOS 13, macOS 10.15, *)
 public class X509Wrapper {
   final public let cert: Swift.OpaquePointer
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(with cert: Swift.OpaquePointer?)
+  #endif
   public func getItemsAsDict() -> [AutomatID_OTMLNfcDocumentReaderModule.CertificateItem : Swift.String]
   public func certToPEM() -> Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getFingerprint() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getNotBeforeDate() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getNotAfterDate() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getSerialNumber() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getSignatureAlgorithm() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getPublicKeyAlgorithm() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getIssuerName() -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getSubjectName() -> Swift.String?
+  #endif
   @objc deinit
 }
 @available(iOS 13, macOS 10.15, *)
