@@ -1,0 +1,28 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AutomatID",
+    "printedName": "AutomatID",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AutomatID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AutomatID_OTML",
+        "printedName": "AutomatID_OTML",
+        "declKind": "Import",
+        "moduleName": "AutomatID"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

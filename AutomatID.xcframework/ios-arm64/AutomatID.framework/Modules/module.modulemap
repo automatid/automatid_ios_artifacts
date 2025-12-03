@@ -4,3 +4,8 @@ framework module AutomatID {
   export *
   module * { export * }
 }
+
+module AutomatID.Swift {
+  header "AutomatID-Swift.h"
+  requires objc
+}
