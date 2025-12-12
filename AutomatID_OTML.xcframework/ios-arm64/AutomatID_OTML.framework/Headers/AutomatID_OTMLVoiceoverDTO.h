@@ -13,7 +13,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@protocol OTMLAccessibleComponent <NSObject>
+@protocol AutomatID_OTMLAccessibleComponent <NSObject>
 
 -(NSString*) componentIntrinsicAccessibleLabel;
 -(BOOL) hasButtonComponentsTraits;

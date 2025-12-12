@@ -9,7 +9,7 @@
 #import "AutomatID_OTMLPopupModel.h"
 #import "AutomatID_OTMLAbstractPopupViewController.h"
 
-@interface AutomatID_OTMLiOS9PopupDSParser : NSObject <OTMLPopupParserProtocol>
+@interface AutomatID_OTMLiOS9PopupDSParser : NSObject <AutomatID_OTMLPopupParserProtocol>
 
 @property (nonatomic, strong) AutomatID_OTMLPopupModel * popupModel;
 

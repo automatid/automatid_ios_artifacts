@@ -12,6 +12,6 @@
 #import "AutomatID_OTMLVoiceoverDTO.h"
 
 
-@interface AutomatID_OTMLButtonContainer : AutomatID_OTMLLinearContainer<AutomatID_OTMPReactiveViewAgglomeration, AutomatID_OTMLLongPressDelegate, OTMLAccessibleComponent>
+@interface AutomatID_OTMLButtonContainer : AutomatID_OTMLLinearContainer<AutomatID_OTMPReactiveViewAgglomeration, AutomatID_OTMLLongPressDelegate, AutomatID_OTMLAccessibleComponent>
 
 @end

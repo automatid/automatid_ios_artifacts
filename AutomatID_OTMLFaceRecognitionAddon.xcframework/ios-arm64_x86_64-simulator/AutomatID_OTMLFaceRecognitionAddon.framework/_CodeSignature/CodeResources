@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon-Swift.h</key>
 		<data>
-		MkKQ/ZOwWo81GHYn4Hlab8UrD1o=
+		AyYNZFMjfpq36jfvII+hg8rucpU=
 		</data>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon.OTVersion.h</key>
 		<data>
-		6LnP6/GvQliqSdkNDENZ6tKOQp8=
+		QCxpKQ2lRy5/dqXLgi5BMaFEjeo=
 		</data>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m0NX3LOgYyYW5KApsJNNE8DUpBk=
+		QvCnXdyry2W/IvVCx4SFZMwTdnk=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		q3FWQ3yHy3apqx/xpM0MCOoWatE=
+		HquDpWe1xkUB9veIi+KMhhOZSgU=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		q3FWQ3yHy3apqx/xpM0MCOoWatE=
+		HquDpWe1xkUB9veIi+KMhhOZSgU=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vn7Qy+mPuY7pgeeUQWnU+K3UeMU=
+		Jn53tObEpqZHBbo/GYcryb+P0zE=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ioZ2ZcaW8BjAlv5NI96JKSnlPMQ=
+		Ysbo85lqG1ToPQlWqStWdU/hrbU=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ioZ2ZcaW8BjAlv5NI96JKSnlPMQ=
+		Ysbo85lqG1ToPQlWqStWdU/hrbU=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5R3kiWPs+kk5g4yclZw6uAPC29Y=
+		v20SbYxJLPmt7D9M6JUq4i8TTr0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,11 +91,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MkKQ/ZOwWo81GHYn4Hlab8UrD1o=
+			AyYNZFMjfpq36jfvII+hg8rucpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			easJtDeAgGsgiDg28qiDQmPhDQ0ODNYz1/LdNtsm7HQ=
+			HIMUaz3lf4qI6BQVrFJISdYdMCA3draIdYQ6HXjeDPI=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon-umbrella.h</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6LnP6/GvQliqSdkNDENZ6tKOQp8=
+			QCxpKQ2lRy5/dqXLgi5BMaFEjeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			8X6hzC+3DNAEdCdub4wMOy8Roh/Jhru1y+wdPI1ULk8=
+			muYXlCaQKvevQJSXdledZbXS073WOFLfH4ROibZy6i8=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>
@@ -190,11 +190,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q3FWQ3yHy3apqx/xpM0MCOoWatE=
+			HquDpWe1xkUB9veIi+KMhhOZSgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wZk3HAVpIVWRITuNPxxVqKCsFFGiOPk/bToJ5ElqfEQ=
+			XjNWFwswLsEJ83444J+swIjT24vWY0mT0EHQ8V6e8/o=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -212,22 +212,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q3FWQ3yHy3apqx/xpM0MCOoWatE=
+			HquDpWe1xkUB9veIi+KMhhOZSgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wZk3HAVpIVWRITuNPxxVqKCsFFGiOPk/bToJ5ElqfEQ=
+			XjNWFwswLsEJ83444J+swIjT24vWY0mT0EHQ8V6e8/o=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vn7Qy+mPuY7pgeeUQWnU+K3UeMU=
+			Jn53tObEpqZHBbo/GYcryb+P0zE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIDSJ13ghYapZR4Y9ssfwBZ7e9zX0WBUN1prrjL9rAw=
+			34B5x9kFSFnbh8fwCfJ7Lzt3c6xBph1sukQJrTg2CDc=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -245,11 +245,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ioZ2ZcaW8BjAlv5NI96JKSnlPMQ=
+			Ysbo85lqG1ToPQlWqStWdU/hrbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ghvqj/Z5gZZg6R84NP0yW7FkgzDrZGoJ5yveWj5CDxo=
+			YX1J+iUi89rMKWiwDiJcnLN+NMy3gLSFETXvbV3bqnk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -267,22 +267,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ioZ2ZcaW8BjAlv5NI96JKSnlPMQ=
+			Ysbo85lqG1ToPQlWqStWdU/hrbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ghvqj/Z5gZZg6R84NP0yW7FkgzDrZGoJ5yveWj5CDxo=
+			YX1J+iUi89rMKWiwDiJcnLN+NMy3gLSFETXvbV3bqnk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5R3kiWPs+kk5g4yclZw6uAPC29Y=
+			v20SbYxJLPmt7D9M6JUq4i8TTr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			8LEImwWhgH2+9HfTSmuwNgCzw8SlumMuAfUVn6iw7TQ=
+			dkc1z+ai+122BMMEk0GRyYIJPoy/iYvQjF+GVc+AoAg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

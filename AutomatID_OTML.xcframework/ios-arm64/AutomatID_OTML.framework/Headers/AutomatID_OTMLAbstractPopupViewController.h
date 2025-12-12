@@ -11,7 +11,7 @@
 
 
 
-@protocol OTMLPopupParserProtocol <NSObject>
+@protocol AutomatID_OTMLPopupParserProtocol <NSObject>
 
 -(AutomatID_OTMLPopupModel*)buildPopupModelWithDSName:(NSString*)aDSName usingVC:(AutomatID_OTMLViewController*)aVC;
 
@@ -26,7 +26,7 @@
 /**
  Must be overrided
  **/
--(NSObject<OTMLPopupParserProtocol>*)getPopupParser;
+-(NSObject<AutomatID_OTMLPopupParserProtocol>*)getPopupParser;
 
 /**
  Call when you are ready to generate the view

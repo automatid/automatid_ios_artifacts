@@ -14,7 +14,7 @@
 #import "AutomatID_OTMPStringSizeAware.h"
 #import "AutomatID_OTMLVoiceoverDTO.h"
 
-@interface AutomatID_OTMLLabelComponent : AutomatID_OTMLComponent<OTMLAccessibleComponent>{
+@interface AutomatID_OTMLLabelComponent : AutomatID_OTMLComponent<AutomatID_OTMLAccessibleComponent>{
 @protected
     AutomatID_OTMLFont* otmlFontWrapper;
     NSString* gravityString;

@@ -8,7 +8,7 @@
 
 #import "AutomatID_OTMLContainer.h"
 #import "AutomatID_OTMLGestureRecognizedComponent.h"
-@protocol OTMLAccessibleComponent;
+@protocol AutomatID_OTMLAccessibleComponent;
 
 @interface AutomatID_OTMLLinearContainer : AutomatID_OTMLContainer {
 @protected

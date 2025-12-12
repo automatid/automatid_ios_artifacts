@@ -18,9 +18,3 @@
 
 @interface AutomatID_OTMLParameterRefParamMode : AutomatID_OTMLParamModeStrategy
 @end
-
-@interface OTMLCustomParamMode : AutomatID_OTMLParamModeStrategy
-
-+(AutomatID_OTMLParamModeStrategy*) customParamModeStrategyFromCMode:(NSString*) aCustomModeStr;
-
-@end

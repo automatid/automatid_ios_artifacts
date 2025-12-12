@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/MRZCustomComponentFactory.h</key>
 		<data>
-		5YM6RK61D7+RgzzmwWqUGy7126s=
+		xOYNthEylo6DqIC1Xv/aHhIzpBk=
 		</data>
 		<key>Headers/OTMLMRZReaderComponent.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y6oo/LCmy//Ndt5UAC/kt8la2qM=
+		/L00mNd9+p4X/uAt9BuH4VH1CLY=
 		</data>
 		<key>Modules/AutomatID_OTMLMRZReaderAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -157,11 +157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5YM6RK61D7+RgzzmwWqUGy7126s=
+			xOYNthEylo6DqIC1Xv/aHhIzpBk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ei0kT8VTvaQGAxQeTVLMG5oTNQNoZuX8i2SN7apLmVU=
+			HwGzoZmuS5s4DzUlSDlIIHdDNBXrDPOkWdPriOEtXCY=
 			</data>
 		</dict>
 		<key>Headers/OTMLMRZReaderComponent.h</key>

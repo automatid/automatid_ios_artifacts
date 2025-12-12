@@ -8,7 +8,7 @@
 
 
 #import "AutomatID_OTMLComponent.h"
-#import "OTMLCustomComponentFactory.h"
+#import "AutomatID_OTMLCustomComponentFactory.h"
 
 
 @class AutomatID_OTMLComponentModel;
@@ -17,7 +17,7 @@
 
 +(AutomatID_OTMLComponent*) componentWithModel:(AutomatID_OTMLComponentModel*) aModel;
 
-+(void) setupCustomComponentFactory:(NSObject<OTMLCustomComponentFactory>*) aOTMLCustomComponentFactory;
++(void) setupCustomComponentFactory:(NSObject<AutomatID_OTMLCustomComponentFactory>*) aOTMLCustomComponentFactory;
 +(void) setupCustomComponentFactories:(NSArray*) aOTMLCustomComponentFactoryArray;
 
 @end

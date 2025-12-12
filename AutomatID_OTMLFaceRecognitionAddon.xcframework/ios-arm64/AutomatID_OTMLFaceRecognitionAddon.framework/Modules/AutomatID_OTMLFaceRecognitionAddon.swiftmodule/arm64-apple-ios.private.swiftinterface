@@ -15,7 +15,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers @objcMembers public class FaceRecognitionCustomComponentFactory : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomComponentFactory {
+@objc @_inheritsConvenienceInitializers @objcMembers public class FaceRecognitionCustomComponentFactory : ObjectiveC.NSObject, AutomatID_OTML.AutomatID_OTMLCustomComponentFactory {
   #if compiler(>=5.3) && $NonescapableTypes
   @objc public func component(with aModel: AutomatID_OTMLModels.AutomatID_OTMLComponentModel!) -> AutomatID_OTML.AutomatID_OTMLComponent!
   #endif

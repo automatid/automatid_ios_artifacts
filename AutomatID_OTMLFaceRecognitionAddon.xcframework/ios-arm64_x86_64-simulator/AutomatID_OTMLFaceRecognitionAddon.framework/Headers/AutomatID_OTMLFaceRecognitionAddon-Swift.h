@@ -310,7 +310,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class AutomatID_OTMLComponentModel;
 @class AutomatID_OTMLComponent;
 SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon37FaceRecognitionCustomComponentFactory")
-@interface FaceRecognitionCustomComponentFactory : NSObject <OTMLCustomComponentFactory>
+@interface FaceRecognitionCustomComponentFactory : NSObject <AutomatID_OTMLCustomComponentFactory>
 - (AutomatID_OTMLComponent * _Null_unspecified)componentWithModel:(AutomatID_OTMLComponentModel * _Null_unspecified)aModel SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -663,7 +663,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class AutomatID_OTMLComponentModel;
 @class AutomatID_OTMLComponent;
 SWIFT_CLASS("_TtC34AutomatID_OTMLFaceRecognitionAddon37FaceRecognitionCustomComponentFactory")
-@interface FaceRecognitionCustomComponentFactory : NSObject <OTMLCustomComponentFactory>
+@interface FaceRecognitionCustomComponentFactory : NSObject <AutomatID_OTMLCustomComponentFactory>
 - (AutomatID_OTMLComponent * _Null_unspecified)componentWithModel:(AutomatID_OTMLComponentModel * _Null_unspecified)aModel SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end

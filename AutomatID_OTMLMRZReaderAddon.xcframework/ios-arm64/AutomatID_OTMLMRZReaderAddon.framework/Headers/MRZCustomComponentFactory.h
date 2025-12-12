@@ -6,11 +6,11 @@
 //  Copyright (c) 2020 Opentech. All rights reserved.
 //
 
-#import <AutomatID_OTML/OTMLCustomComponentFactory.h>
+#import <AutomatID_OTML/AutomatID_OTMLCustomComponentFactory.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface MRZCustomComponentFactory : NSObject <OTMLCustomComponentFactory>
+@interface MRZCustomComponentFactory : NSObject <AutomatID_OTMLCustomComponentFactory>
 
 @end
 

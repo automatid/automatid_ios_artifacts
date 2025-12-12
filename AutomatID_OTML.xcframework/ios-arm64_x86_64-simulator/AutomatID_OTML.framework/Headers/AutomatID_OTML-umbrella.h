@@ -167,7 +167,7 @@
 #import "AutomatID_OTMLSingleOperandClauseConditionResolver.h"
 #import "AutomatID_OTMLTripleOperandClauseConditionResolver.h"
 #import "AutomatID_OTMLComponentFactory.h"
-#import "OTMLCustomComponentFactory.h"
+#import "AutomatID_OTMLCustomComponentFactory.h"
 #import "AutomatID_OTMLDatasource.h"
 #import "AutomatID_OTMLEntry.h"
 #import "AutomatID_OTMLImage+AutomatID_Producer.h"

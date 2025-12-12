@@ -8,13 +8,13 @@
 
 #import "AutomatID_OTMLActionCommandSet.h"
 
-typedef NS_ENUM(NSUInteger, OTResponseStorage) {
+typedef NS_ENUM(NSUInteger, AutomatID_OTResponseStorage) {
     OTResponseStorage_Datasource,
     OTResponseStorage_RAM_STORAGE
 };
 
 @interface AutomatID_OTMLActionRestCommand : AutomatID_OTMLActionCommand
 
-@property OTResponseStorage resposeStoragePolicy;
+@property AutomatID_OTResponseStorage resposeStoragePolicy;
 
 @end

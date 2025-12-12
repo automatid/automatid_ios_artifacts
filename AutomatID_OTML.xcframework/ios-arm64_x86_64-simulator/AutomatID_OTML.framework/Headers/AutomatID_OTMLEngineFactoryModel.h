@@ -10,10 +10,10 @@
 
 @protocol AutomatID_OTMLCustomActionResolver;
 @protocol AutomatID_OTMLPushNotificationDisplayerProtocol;
-@protocol OTMLHeaderNotificationDelegate;
-@protocol OTMLCustomComponentFactory;
+@protocol AutomatID_OTMLHeaderNotificationDelegate;
+@protocol AutomatID_OTMLCustomComponentFactory;
 @protocol AutomatID_OTMLCustomPopupFactory;
-@protocol ComponentFactoryInterface;
+@protocol AutomatID_ComponentFactoryInterface;
 
 
 
@@ -27,10 +27,10 @@
 @property (nonatomic, strong) id<AutomatID_OTMLCustomPopupFactory> customPopupFactory;
 
 
--(void)addComponentModelFactory:(NSObject<ComponentFactoryInterface>*)aComponentModelFactory;
+-(void)addComponentModelFactory:(NSObject<AutomatID_ComponentFactoryInterface>*)aComponentModelFactory;
 -(void)addActionResolver:(NSObject<AutomatID_OTMLCustomActionResolver>*)aResolver;
--(void)addNotificationHandler:(NSObject <AutomatID_OTMLPushNotificationDisplayerProtocol, OTMLHeaderNotificationDelegate>*)aNotificationHandler;
--(void)addComponentFactory:(NSObject<OTMLCustomComponentFactory>*)aComponentFactory;
+-(void)addNotificationHandler:(NSObject <AutomatID_OTMLPushNotificationDisplayerProtocol, AutomatID_OTMLHeaderNotificationDelegate>*)aNotificationHandler;
+-(void)addComponentFactory:(NSObject<AutomatID_OTMLCustomComponentFactory>*)aComponentFactory;
 -(void)setPopupFactory:(NSObject<AutomatID_OTMLCustomPopupFactory>*)aPopupFactory;
 
 
