@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLFaceRecognitionAddon
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AutomatID_OTMLFaceRecognitionAddon
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AVFoundation
 import AutomatID_OTML
 @_exported import AutomatID_OTMLFaceRecognitionAddon
@@ -16,34 +16,60 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @objcMembers public class FaceRecognitionCustomComponentFactory : ObjectiveC.NSObject, AutomatID_OTML.OTMLCustomComponentFactory {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func component(with aModel: AutomatID_OTMLModels.AutomatID_OTMLComponentModel!) -> AutomatID_OTML.AutomatID_OTMLComponent!
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionActionReceiver : ObjectiveC.NSObject, AutomatID_OTML.AutomatID_OTMLCustomActionResolver {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func actionCommand(from aResolvedAction: AutomatID_OTML.AutomatID_OTMLResolvedAction!) -> AutomatID_OTML.AutomatID_OTMLActionCommand!
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func canResolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> Swift.Bool
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func resolve(_ aParameter: AutomatID_OTML.AutomatID_OTMLParameter!) -> AutomatID_OTML.AutomatID_OTMLParameterEntry!
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class OTMLFaceRecognitionComponent : AutomatID_OTML.AutomatID_OTMLComponent, AutomatID_OTML.AutomatID_OTMPShowHideViewProtocol {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public func newContentView(withFrame cViewFrame: CoreFoundation.CGRect) -> UIKit.UIView!
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public func handleConcreteComponentParameters(_ updParams: [Swift.AnyHashable : Any]!) -> Swift.Bool
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func atShow(_ aView: UIKit.UIView!)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func atHide(_ aView: UIKit.UIView!)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public func getParametrizationValue(withFlag aFlag: Swift.String!, validate validateNow: Swift.Bool) -> Swift.String!
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public func didTrigger(_ aTrigger: Swift.String!)
+  #endif
   @objc override dynamic public func dispose()
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public init!(otmlComponent aComponent: AutomatID_OTML.AutomatID_OTMLComponent!)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc override dynamic public init!(model aModel: AutomatID_OTMLModels.AutomatID_OTMLComponentModel!)
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers @objcMembers public class UIUtilities {
   @objc public static func addCircle(atPoint point: CoreFoundation.CGPoint, to view: UIKit.UIView, color: UIKit.UIColor, radius: CoreFoundation.CGFloat)
   @objc public static func addRectangle(_ rectangle: CoreFoundation.CGRect, to view: UIKit.UIView, color: UIKit.UIColor)
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public static func createUIImage(from imageBuffer: CoreVideo.CVImageBuffer, orientation: UIKit.UIImage.Orientation) -> UIKit.UIImage?
+  #endif
   @objc public static func imageOrientation(fromDevicePosition devicePosition: AVFoundation.AVCaptureDevice.Position = .back) -> UIKit.UIImage.Orientation
   @objc deinit
 }

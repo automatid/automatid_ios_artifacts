@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AutomatID_OTMLCore
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AutomatID_OTMLCore
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 @_exported import AutomatID_OTMLCore
 import Foundation
 import Swift
@@ -12,15 +12,25 @@ import _SwiftConcurrencyShims
 import os.log
 import os
 @_inheritsConvenienceInitializers @objc(AutomatID_CryptoExportImportManager) open class AutomatID_CryptoExportImportManager : ObjectiveC.NSObject {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func importPublicKeyReferenceFromDERCertificate(_ certData: Foundation.Data) -> Security.SecKey?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public func exportPublicKeyToDER(_ rawPublicKeyBytes: Foundation.Data, keyType: Swift.String, keySize: Swift.Int) -> Foundation.Data?
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class AutomatID_WindowSceneAdaptor : ObjectiveC.NSObject {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func keyWindow() -> UIKit.UIWindow?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func currentWindowScene() -> UIKit.UIWindowScene?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func createSDKWindow() -> UIKit.UIWindow?
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
@@ -37,7 +47,9 @@ import os
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(AutomatID_IsoCountryCodes) public class AutomatID_IsoCountryCodes : ObjectiveC.NSObject {
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func searchByCallingCode(_ calllingCode: Swift.String) -> AutomatID_OTMLCore.AutomatID_IsoCountryInfoObj?
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
