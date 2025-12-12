@@ -9,6 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+
 @interface AutomatID_OTMLCoreAppExposedHooks : NSObject
 
 @property (nonatomic, copy, nullable) UIApplication*(^sharedApplicationHandler)(void);
