@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon.OTVersion.h</key>
 		<data>
-		QCxpKQ2lRy5/dqXLgi5BMaFEjeo=
+		eJXdnooIgHioecPE3fF21JrBJT4=
 		</data>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QvCnXdyry2W/IvVCx4SFZMwTdnk=
+		/OADxiCpCFJ4JUzIFRJo0nGrZKc=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QCxpKQ2lRy5/dqXLgi5BMaFEjeo=
+			eJXdnooIgHioecPE3fF21JrBJT4=
 			</data>
 			<key>hash2</key>
 			<data>
-			muYXlCaQKvevQJSXdledZbXS073WOFLfH4ROibZy6i8=
+			y3skvE6ryZuiG6RZDkhVgkJBe/vqGSA2cQ8hythXcKE=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>

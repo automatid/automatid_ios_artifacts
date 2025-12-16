@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		6MuZFFRogIfQjyk2Pk2uROfw0tI=
+		qkhSFXyeeas24tJSbEB8Y8R04Jw=
 		</data>
 		<key>Headers/internalversion.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		H6DmFO3F4Z7nwaUZ9CGNIMsABcc=
+		i8M1EIrM7Vx2OPXKGgnfJ+3+ZKg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,11 +72,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6MuZFFRogIfQjyk2Pk2uROfw0tI=
+			qkhSFXyeeas24tJSbEB8Y8R04Jw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ACvajrAJTYWHDxczA4pq8NU6wQBDrkLuFR4RysSeV0U=
+			vjZP7AvDWFXnJsuKyb+klToh5ZipebOrq6zW//PRLuM=
 			</data>
 		</dict>
 		<key>Headers/internalversion.h</key>
