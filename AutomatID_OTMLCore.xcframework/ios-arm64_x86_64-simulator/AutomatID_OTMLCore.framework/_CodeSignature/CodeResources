@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLCore.OTVersion.h</key>
 		<data>
-		Pr5G/c8rHPe2KLzOSs4qru72tOw=
+		xlV1NNG0bTR0OJNxEBxSBO6u3RA=
 		</data>
 		<key>Headers/AutomatID_OTMLCoreAppExposedHooks.h</key>
 		<data>
@@ -270,11 +270,11 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		2MZFNyLFhQyQ7lJLOO+1nd9mIoI=
+		9/WDGyo7gZdrGmRhQ5KFgOpW9DA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J60qRbRenXgrIcNpow2P5wzmxHU=
+		fPlXeq5zMYyjmXg8bJIPLew1G0U=
 		</data>
 		<key>Modules/AutomatID_OTMLCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -459,11 +459,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr5G/c8rHPe2KLzOSs4qru72tOw=
+			xlV1NNG0bTR0OJNxEBxSBO6u3RA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OKCH5AHnRnlmFELuaMC+6dHmNmoX5Fl8tfNWn0c0vVg=
+			HvxZlNVGfmYVmGuVIZPjKSph6yaBqweEAFhTLhtu3XA=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTMLCoreAppExposedHooks.h</key>
@@ -1053,11 +1053,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2MZFNyLFhQyQ7lJLOO+1nd9mIoI=
+			9/WDGyo7gZdrGmRhQ5KFgOpW9DA=
 			</data>
 			<key>hash2</key>
 			<data>
-			6W8qcyENVwtYYEVQgjALwJ3lMxOQFA1K4HYkqpmg4ks=
+			1Ti0jlqFtlAuRdmerLzF/o4Il56cJuo9IumbPKEGz4g=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

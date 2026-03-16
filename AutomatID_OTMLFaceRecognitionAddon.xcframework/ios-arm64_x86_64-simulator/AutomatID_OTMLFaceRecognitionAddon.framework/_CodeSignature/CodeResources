@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLFaceRecognitionAddon.OTVersion.h</key>
 		<data>
-		O9TY+Z4Bo2TxwqMRcXEv2mlSuC8=
+		A75kxmogTn6Zq+zLykgSKo5jydQ=
 		</data>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Z2F/wT/o6PB2UX57lywXow5QEAw=
+		EI5qv47PmXov+bTYQXwl6fjO7Wc=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hPtqDKlvbSIzu+kYcMSyqegK6ng=
+		Qx95JoUJS6bDVc81P4VHyi30rsU=
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2VHv/oTrEkf2qPF5TKG4Md3GJXA=
+		fUBrvqEWuCe1ZA7IT+VN5GMbcUs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O9TY+Z4Bo2TxwqMRcXEv2mlSuC8=
+			A75kxmogTn6Zq+zLykgSKo5jydQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			tE5L53BuQElZQQyS411UESZ1/ei3AB3pnTpFnVFmXY8=
+			i3RALO/1UMxYlIGjnafTVJTFjtmbSWcc8dW7FtRxA3g=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML_FARComponentModelFactory.h</key>
@@ -223,11 +223,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hPtqDKlvbSIzu+kYcMSyqegK6ng=
+			Qx95JoUJS6bDVc81P4VHyi30rsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0C9vDPBKORJpUxLcPKDGhYKC/f8wQF7s5il4pDJl/w=
+			pWIv2M/BQLpDsO8BjVJaLhBJeImo+LygaXSagDJ3Sdk=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLFaceRecognitionAddon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -278,11 +278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2VHv/oTrEkf2qPF5TKG4Md3GJXA=
+			fUBrvqEWuCe1ZA7IT+VN5GMbcUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KwOtxOtsXDxacr6DiiULbVALALEyRcv8f1CDSZMErrE=
+			pJW1pntGm2Aa+VkptYOcWROR6V2ycnNQcUEC7Ojn638=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

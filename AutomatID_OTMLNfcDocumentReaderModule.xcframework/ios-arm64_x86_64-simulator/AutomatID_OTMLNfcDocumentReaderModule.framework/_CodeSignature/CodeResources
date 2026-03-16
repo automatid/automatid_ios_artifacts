@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLNfcDocumentReaderModule.OTVersion.h</key>
 		<data>
-		MFXlBafrRzmsJd6o+qYPhjZliAY=
+		7Cqu3JdirvMIlIswzatPBqRlffI=
 		</data>
 		<key>Headers/AutomatID_OTML_NFCdocumentReaderConstants.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QXKYCrYoHqQOge9rmahd9xP0PeY=
+		w1hd3IxE9Ip6MAsWLKNC+AxTbD4=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nk7vpm2sI5zldJRJnSiBhr9Zmg8=
+		0JVF361TzYbssfTpEbY2+cFYfwU=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NlaZahqZQwKGy8GKKt0UzS0g91Y=
+		9PhKb30VnY+M8j2nWbp7v6thHDs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,11 +97,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFXlBafrRzmsJd6o+qYPhjZliAY=
+			7Cqu3JdirvMIlIswzatPBqRlffI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KAo5RzSxoEDyKfqtww9IuAXlpnN0menDAgu+MSOOmv8=
+			Wj7gquLkeE9UVKi3r0Cz1Ca1EkGptBc86Vbk84QwJOs=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML_NFCdocumentReaderConstants.h</key>
@@ -163,11 +163,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nk7vpm2sI5zldJRJnSiBhr9Zmg8=
+			0JVF361TzYbssfTpEbY2+cFYfwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			1igZkUDg/Fj+8lRc00Z1kQ8W1eVsFvE61HkiRDxnjKI=
+			dOXQ9oQkNbqO57zdZJAM3i8JwChKVgw2k7SWPsJcGhw=
 			</data>
 		</dict>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NlaZahqZQwKGy8GKKt0UzS0g91Y=
+			9PhKb30VnY+M8j2nWbp7v6thHDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			iC9fnLUIgCPQ5XNWjUq+uN3k+95Z9DBq2lLdWzCCZrs=
+			kFBy6FqHJuYFH6KCM0KY/NGPoeE54ZWbo308RDaue0U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
