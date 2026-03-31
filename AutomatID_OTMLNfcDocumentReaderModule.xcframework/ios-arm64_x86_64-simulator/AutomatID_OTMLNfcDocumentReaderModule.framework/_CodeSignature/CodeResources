@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/AutomatID_OTMLNfcDocumentReaderModule.OTVersion.h</key>
 		<data>
-		7Cqu3JdirvMIlIswzatPBqRlffI=
+		AP/vzRZl40NHX0mrZy+G3oRAa9A=
 		</data>
 		<key>Headers/AutomatID_OTML_NFCdocumentReaderConstants.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		I9QZOpabv77KTuXl8TVqk0dl0fA=
+		wjfFEcKd8syFYVzYprAKRrj3VWM=
 		</data>
 		<key>Modules/AutomatID_OTMLNfcDocumentReaderModule.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -97,11 +97,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Cqu3JdirvMIlIswzatPBqRlffI=
+			AP/vzRZl40NHX0mrZy+G3oRAa9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wj7gquLkeE9UVKi3r0Cz1Ca1EkGptBc86Vbk84QwJOs=
+			kAhcDX7zQshzKV6YVRIV+MO6RcszgNM2kGSOyb2D7+Y=
 			</data>
 		</dict>
 		<key>Headers/AutomatID_OTML_NFCdocumentReaderConstants.h</key>
