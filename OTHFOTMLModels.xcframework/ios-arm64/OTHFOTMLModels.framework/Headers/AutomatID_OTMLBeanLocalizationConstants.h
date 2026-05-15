@@ -1,0 +1,10 @@
+extern NSString* const c_AutomatID_OTMLBeanLocalizationConstants_otml_supported_languages;
+
+extern NSString* const c_AutomatID_OTMLBeanLocalizationConstants_otml_default_lang;
+
+extern NSString* const c_AutomatID_OTMLBeanLocalizationConstants_otml_alias_locales;
+
+
+
+@interface AutomatID_OTMLBeanLocalizationConstants : NSObject
+@end

@@ -1,0 +1,81 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
+
+#import "AutomatID_OTMPCache.h"
+#import "AutomatID_OTMPCacheLru.h"
+#import "NSArray+AutomatID_CountCast.h"
+#import "NSData+AutomatID_DataLengthCast.h"
+#import "NSObject+AutomatID_Delayed.h"
+#import "NSString+AutomatID_LengthCast.h"
+#import "UIApplication+AutomatID_BSMobileProvision.h"
+#import "AutomatID_OTAdvancedEncryptionStandardModes.h"
+#import "AutomatID_OTMLDataEncrypter.h"
+#import "AutomatID_OTMLLuhnCheck.h"
+#import "AutomatID_OTMPAES.h"
+#import "AutomatID_OTMPBase64.h"
+#import "AutomatID_OTMPCryptoUtils.h"
+#import "AutomatID_OTMPMD5.h"
+#import "AutomatiD_OTMPPBKDF2.h"
+#import "AutomatID_OTMPRSA.h"
+#import "AutomatID_OTMPRSAKeyUtil.h"
+#import "AutomatID_OTMPSha1.h"
+#import "AutomatID_OTMPSha2.h"
+#import "AutomatID_OTMPSignedString.h"
+#import "AutomatID_OTSignChecker.h"
+#import "AutomatID_OTMPCryptedConfigFilePayloadReader.h"
+#import "AutomatID_OTMPDictionaryUtil.h"
+#import "AutomatID_OTMPOrderedDictionary.h"
+#import "AutomatID_MultiEndpointManager.h"
+#import "AutomatID_OTMLReachability.h"
+#import "AutomatID_OTMPDeviceUtil.h"
+#import "AutomatID_OTMPPasscodeUtil.h"
+#import "AutomatID_OTMPTouchIDManager.h"
+#import "AutomatID_OTStringEncoder.h"
+#import "AutomatID_OTStringUtil.h"
+#import "AutomatID_IBANValidator.h"
+#import "AutomatID_SmartPaymentUtils.h"
+#import "AutomatID_OTMLAmountFormatter.h"
+#import "AutomatID_OTMLDateFormatter.h"
+#import "AutomatID_OTMPNoiseEffectLayer.h"
+#import "AutomatID_OTMPImageUtils.h"
+#import "AutomatID_OTMPKeychainWrapper.h"
+#import "AutomatID_OTMLCoreAppExposedHooks.h"
+#import "AutomatID_OTMLRestartAppAwareProtocol.h"
+#import "AutomatID_OTMPLogger.h"
+#import "AutomatID_OTMPLoggerDefaultDelegate.h"
+#import "AutomatID_OTMPLoggerDefine.h"
+#import "AutomatID_OTMPLoggerProcessor_FilesystemImpl.h"
+#import "AutomatID_OTMPLoggerProcessor_NSLogImpl.h"
+#import "AutomatID_OTMPLoggerProcessor_OthrosImpl.h"
+#import "AutomatID_OTHTTPMultipartBuilder.h"
+#import "AutomatID_OTHTTPResponse.h"
+#import "AutomatID_OTHTTPTask.h"
+#import "AutomatID_OTMLCertPinningChecker.h"
+#import "AutomatID_OTMPHTTPSCertificateModel.h"
+#import "OTMLCore.h"
+#import "AutomatID_OTMPFileHandler.h"
+#import "AutomatID_OTMPSecureFileHandler.h"
+#import "AutomatID_OTMLDataStoreHandler.h"
+#import "AutomatID_OTMLDumpableModuleProtocol.h"
+#import "frameworkversion.h"
+#import "AutomatID_OTMLReliableQueue.h"
+#import "AutomatID_EDSemver.h"
+#import "AutomatID_OTMacros.h"
+#import "AutomatID_OTMPGzip.h"
+#import "AutomatID_OTMPWatchUtil.h"
+#import "ProjectConfigurationOTHFOTMLCore.h"
+#import "OTHFOTMLCore.OTVersion.h"
+#import "AutomatID_OTApplePayBridge.h"
+
+FOUNDATION_EXPORT double OTHFOTMLCoreVersionNumber;
+FOUNDATION_EXPORT const unsigned char OTHFOTMLCoreVersionString[];
+

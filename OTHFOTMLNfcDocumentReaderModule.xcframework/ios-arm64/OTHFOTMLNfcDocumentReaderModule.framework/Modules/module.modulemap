@@ -1,0 +1,11 @@
+framework module OTHFOTMLNfcDocumentReaderModule {
+  umbrella header "OTHFOTMLNfcDocumentReaderModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTHFOTMLNfcDocumentReaderModule.Swift {
+  header "OTHFOTMLNfcDocumentReaderModule-Swift.h"
+  requires objc
+}

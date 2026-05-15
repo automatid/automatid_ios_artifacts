@@ -1,0 +1,6 @@
+framework module OTHFOTTBXML {
+  umbrella header "OTHFOTTBXML-umbrella.h"
+
+  export *
+  module * { export * }
+}

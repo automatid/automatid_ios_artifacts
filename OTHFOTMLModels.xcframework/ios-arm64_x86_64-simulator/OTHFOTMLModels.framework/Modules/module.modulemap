@@ -1,0 +1,6 @@
+framework module OTHFOTMLModels {
+  umbrella header "OTHFOTMLModels-umbrella.h"
+
+  export *
+  module * { export * }
+}

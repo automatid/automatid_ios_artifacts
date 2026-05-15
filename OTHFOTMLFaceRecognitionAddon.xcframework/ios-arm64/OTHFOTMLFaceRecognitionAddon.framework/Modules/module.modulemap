@@ -1,0 +1,11 @@
+framework module OTHFOTMLFaceRecognitionAddon {
+  umbrella header "OTHFOTMLFaceRecognitionAddon-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTHFOTMLFaceRecognitionAddon.Swift {
+  header "OTHFOTMLFaceRecognitionAddon-Swift.h"
+  requires objc
+}

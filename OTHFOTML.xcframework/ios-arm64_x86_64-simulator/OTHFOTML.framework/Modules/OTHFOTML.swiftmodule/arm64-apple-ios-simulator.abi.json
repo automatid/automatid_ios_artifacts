@@ -1,0 +1,2420 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "OTHFOTML",
+    "printedName": "OTHFOTML",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OTHFOTMLCore",
+        "printedName": "OTHFOTMLCore",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+        "printedName": "AutomatID_OTMLPushNotificationBlacklistRules",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getInstance",
+            "printedName": "getInstance()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+                "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationBlacklistRules",
+                "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(cm)getInstance",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC11getInstanceACyFZ",
+            "moduleName": "OTHFOTML",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_OTMLPushNotificationBlacklistRules",
+                "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationBlacklistRules",
+                "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)init",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesCACycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "willRestart",
+            "printedName": "willRestart()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)willRestart",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC11willRestartyyF",
+            "moduleName": "OTHFOTML",
+            "objc_name": "willRestart",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cleanBlacklist",
+            "printedName": "cleanBlacklist()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)cleanBlacklist",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC05cleanF0yyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "blackListAll",
+            "printedName": "blackListAll()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)blackListAll",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC12blackListAllyyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addRuleToBlacklist",
+            "printedName": "addRuleToBlacklist(rule:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_OTMLPushNotificationBlacklistRule",
+                "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationBlacklistRule",
+                "usr": "s:8OTHFOTML43AutomatID_OTMLPushNotificationBlacklistRuleV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0bc1_defI0V_tF",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC09addRuleToF04ruleyAA0bc1_defI0V_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "removeRuleFromBlacklistWithId",
+            "printedName": "removeRuleFromBlacklistWithId(id:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)removeRuleFromBlacklistWithIdWithId:",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC014removeRuleFromF6WithId2idySS_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "checkIfNotificationIsBlacklisted",
+            "printedName": "checkIfNotificationIsBlacklisted(payload:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Swift.AnyHashable]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules(im)checkIfNotificationIsBlacklistedWithPayload:",
+            "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC07checkIfE13IsBlacklisted7payloadSbSDys11AnyHashableVAGG_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationBlacklistRules",
+        "mangledName": "$s8OTHFOTML44AutomatID_OTMLPushNotificationBlacklistRulesC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutomatID_OTMLPushNotificationBlacklistRule",
+        "printedName": "AutomatID_OTMLPushNotificationBlacklistRule",
+        "declKind": "Struct",
+        "usr": "s:8OTHFOTML43AutomatID_OTMLPushNotificationBlacklistRuleV",
+        "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationBlacklistRuleV",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutomatID_OTMLPushNotificationActionCommand",
+        "printedName": "AutomatID_OTMLPushNotificationActionCommand",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "handleKeys",
+            "printedName": "handleKeys()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)handleKeys",
+            "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandC10handleKeysSaySSGyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "actionCommands",
+            "printedName": "actionCommands()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)actionCommands",
+            "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandC14actionCommandsSDys11AnyHashableVypGSgyF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "actionCommands",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationActionCommand?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLPushNotificationActionCommand",
+                    "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationActionCommand",
+                    "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)init",
+            "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandCACSgycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "newCommandDictionary",
+            "printedName": "newCommandDictionary()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : OTHFOTML.AutomatID_OTMLActionCommand]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLActionCommand",
+                    "printedName": "OTHFOTML.AutomatID_OTMLActionCommand",
+                    "usr": "c:objc(cs)AutomatID_OTMLActionCommand"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)newCommandDictionary",
+            "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandC03newG10DictionarySDySSSo0bc11_OTMLActionG0CGyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(forSubClasses:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationActionCommand?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLPushNotificationActionCommand",
+                    "printedName": "OTHFOTML.AutomatID_OTMLPushNotificationActionCommand",
+                    "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand(im)initForSubClasses",
+            "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandC13forSubClassesACSgyt_tcfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initForSubClasses",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLPushNotificationActionCommand",
+        "mangledName": "$s8OTHFOTML43AutomatID_OTMLPushNotificationActionCommandC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommandSet",
+        "superclassNames": [
+          "OTHFOTML.AutomatID_OTMLActionCommandSet",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+        "printedName": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute(_:on:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTML.AutomatID_OTMLResolvedAction?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "OTHFOTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTML.AutomatID_OTMLViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLViewController",
+                    "printedName": "OTHFOTML.AutomatID_OTMLViewController",
+                    "usr": "c:objc(cs)AutomatID_OTMLViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand(im)executeResolvedAction:onViewController:",
+            "mangledName": "$s8OTHFOTML55AutomatID_OTMLAddPushNotificationBlacklistActionCommandC7execute_2onySo0bc13_OTMLResolvedH0CSg_So0bC19_OTMLViewControllerCSgtF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "executeResolvedAction:onViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+                "printedName": "OTHFOTML.AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+                "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand(im)init",
+            "mangledName": "$s8OTHFOTML55AutomatID_OTMLAddPushNotificationBlacklistActionCommandCACycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLAddPushNotificationBlacklistActionCommand",
+        "mangledName": "$s8OTHFOTML55AutomatID_OTMLAddPushNotificationBlacklistActionCommandC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommand",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "OTHFOTML.AutomatID_OTMLActionCommand",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTMLRemovePushNotificationBlacklistActionCommand",
+        "printedName": "OTMLRemovePushNotificationBlacklistActionCommand",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute(_:on:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTML.AutomatID_OTMLResolvedAction?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLResolvedAction",
+                    "printedName": "OTHFOTML.AutomatID_OTMLResolvedAction",
+                    "usr": "c:objc(cs)AutomatID_OTMLResolvedAction"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTML.AutomatID_OTMLViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLViewController",
+                    "printedName": "OTHFOTML.AutomatID_OTMLViewController",
+                    "usr": "c:objc(cs)AutomatID_OTMLViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLRemovePushNotificationBlacklistActionCommand(im)executeResolvedAction:onViewController:",
+            "mangledName": "$s8OTHFOTML48OTMLRemovePushNotificationBlacklistActionCommandC7execute_2onySo022AutomatID_OTMLResolvedF0CSg_So0jK19_OTMLViewControllerCSgtF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "executeResolvedAction:onViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OTMLRemovePushNotificationBlacklistActionCommand",
+                "printedName": "OTHFOTML.OTMLRemovePushNotificationBlacklistActionCommand",
+                "usr": "c:@M@OTHFOTML@objc(cs)OTMLRemovePushNotificationBlacklistActionCommand"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLRemovePushNotificationBlacklistActionCommand(im)init",
+            "mangledName": "$s8OTHFOTML48OTMLRemovePushNotificationBlacklistActionCommandCACycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)OTMLRemovePushNotificationBlacklistActionCommand",
+        "mangledName": "$s8OTHFOTML48OTMLRemovePushNotificationBlacklistActionCommandC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLActionCommand",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "OTHFOTML.AutomatID_OTMLActionCommand",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutomatID_OTMLSliderButtonComponent",
+        "printedName": "AutomatID_OTMLSliderButtonComponent",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "contentHeightWrapped",
+            "printedName": "contentHeightWrapped()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)contentHeightWrapped",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC20contentHeightWrapped12CoreGraphics7CGFloatVyF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "contentHeightWrapped",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didTrigger",
+            "printedName": "didTrigger(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)didTrigger:",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC10didTriggeryySSSgF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "didTrigger:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handleConcreteComponentParameters",
+            "printedName": "handleConcreteComponentParameters(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)handleConcreteComponentParameters:",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC014handleConcreteF10ParametersySbSDys11AnyHashableVypGSgF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "handleConcreteComponentParameters:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "updateFramesInView",
+            "printedName": "updateFramesInView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)updateFramesInView",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC18updateFramesInViewyyF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "updateFramesInView",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(model:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTHFOTML.AutomatID_OTMLSliderButtonComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLSliderButtonComponent",
+                    "printedName": "OTHFOTML.AutomatID_OTMLSliderButtonComponent",
+                    "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTMLModels.AutomatID_OTMLComponentModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLComponentModel",
+                    "printedName": "OTHFOTMLModels.AutomatID_OTMLComponentModel",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponentModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)initWithModel:",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC5modelACSgSo0bC19_OTMLComponentModelCSg_tcfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "initWithModel:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(otmlComponent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTHFOTML.AutomatID_OTMLSliderButtonComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLSliderButtonComponent",
+                    "printedName": "OTHFOTML.AutomatID_OTMLSliderButtonComponent",
+                    "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "OTHFOTML.AutomatID_OTMLComponent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutomatID_OTMLComponent",
+                    "printedName": "OTHFOTML.AutomatID_OTMLComponent",
+                    "usr": "c:objc(cs)AutomatID_OTMLComponent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)initWithOTMLComponent:",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC04otmlF0ACSgSo0bC14_OTMLComponentCSg_tcfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "initWithOTMLComponent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "createView",
+            "printedName": "createView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)createView",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC10createViewSo6UIViewCyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "newContentView",
+            "printedName": "newContentView(withFrame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)newContentViewWithFrame:",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC14newContentView9withFrameSo6UIViewCSgSo6CGRectV_tF",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "newContentViewWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutomatID_OTMLSliderButtonComponent",
+                "printedName": "OTHFOTML.AutomatID_OTMLSliderButtonComponent",
+                "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent(im)init",
+            "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentCACycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)AutomatID_OTMLSliderButtonComponent",
+        "mangledName": "$s8OTHFOTML35AutomatID_OTMLSliderButtonComponentC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)AutomatID_OTMLComponent",
+        "superclassNames": [
+          "OTHFOTML.AutomatID_OTMLComponent",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTMLLottieViewWrapper",
+        "printedName": "OTMLLottieViewWrapper",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OTMLLottieViewWrapper",
+                "printedName": "OTHFOTML.OTMLLottieViewWrapper",
+                "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)initWithFrame:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC5frameACSo6CGRectV_tcfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OTHFOTML.OTMLLottieViewWrapper?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTMLLottieViewWrapper",
+                    "printedName": "OTHFOTML.OTMLLottieViewWrapper",
+                    "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)initWithCoder:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)stop",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC4stopyyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reset",
+            "printedName": "reset()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)reset",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC5resetyyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAnimationLoop",
+            "printedName": "setAnimationLoop(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)setAnimationLoop:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC16setAnimationLoopyySbF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAnimation",
+            "printedName": "setAnimation(json:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)setAnimationWithJson:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC12setAnimation4jsonySS_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "play",
+            "printedName": "play(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)playWithCompletion:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC4play10completionyySbc_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAnimation",
+            "printedName": "setAnimation(fileName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)setAnimationWithFileName:",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC12setAnimation8fileNameySS_tF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "play",
+            "printedName": "play()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper(im)play",
+            "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC4playyyF",
+            "moduleName": "OTHFOTML",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)OTMLLottieViewWrapper",
+        "mangledName": "$s8OTHFOTML21OTMLLottieViewWrapperC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OTHFOTMLCore",
+        "printedName": "OTHFOTMLCore",
+        "declKind": "Import",
+        "moduleName": "OTHFOTML"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTMPNetworkHmacSupporter",
+        "printedName": "OTMPNetworkHmacSupporter",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "elaborateBodyString",
+            "printedName": "elaborateBodyString(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMPNetworkHmacSupporter(cm)elaborateBodyStringWith:",
+            "mangledName": "$s8OTHFOTML24OTMPNetworkHmacSupporterC19elaborateBodyString4withS2S_tFZ",
+            "moduleName": "OTHFOTML",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OTMPNetworkHmacSupporter",
+                "printedName": "OTHFOTML.OTMPNetworkHmacSupporter",
+                "usr": "c:@M@OTHFOTML@objc(cs)OTMPNetworkHmacSupporter"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OTHFOTML@objc(cs)OTMPNetworkHmacSupporter(im)init",
+            "mangledName": "$s8OTHFOTML24OTMPNetworkHmacSupporterCACycfc",
+            "moduleName": "OTHFOTML",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OTHFOTML@objc(cs)OTMPNetworkHmacSupporter",
+        "mangledName": "$s8OTHFOTML24OTMPNetworkHmacSupporterC",
+        "moduleName": "OTHFOTML",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
+      "kind": "Array",
+      "offset": 414,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Actions\/ActionCommands\/AutomatID_OTMLPushNotificationActionCommand.swift",
+      "kind": "BooleanLiteral",
+      "offset": 448,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 723,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 764,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 810,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 867,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 945,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 993,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1032,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1074,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1120,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1180,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1289,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1340,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 1390,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3787,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3847,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3882,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3943,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4352,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4390,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4656,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5988,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6031,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6091,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6126,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6187,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6832,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7496,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7523,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7649,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7992,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8157,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8572,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9230,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "StringLiteral",
+      "offset": 9739,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 9827,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9885,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10135,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10173,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11014,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 11097,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11151,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11820,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11858,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11992,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12054,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12462,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12538,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 12550,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13368,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13520,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13558,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13900,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13942,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 13991,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 14003,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "FloatLiteral",
+      "offset": 14747,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14789,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14905,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14943,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15036,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTML\/Components\/OTMLComponents\/Slider\/AutomatID_OTMLSliderButtonComponent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15067,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semda\/workspace\/AutomatID\/DEV_OTSCIWS\/OTHFOTML\/OTML_iOS_Framework_pod\/Sources\/OTMLLottieViewWrapper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 259,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

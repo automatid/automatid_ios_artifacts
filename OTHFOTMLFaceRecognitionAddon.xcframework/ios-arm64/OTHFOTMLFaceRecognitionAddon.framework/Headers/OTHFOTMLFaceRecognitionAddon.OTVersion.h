@@ -1,0 +1,1 @@
+#define OTHFOTMLFaceRecognitionAddon_version @"b'48fb15e'" //short git version of following full git version b'48fb15ea9ce99c9f0e524394358fcfdf64d87310'

@@ -1,0 +1,11 @@
+framework module OTHFOTML {
+  umbrella header "OTHFOTML-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTHFOTML.Swift {
+  header "OTHFOTML-Swift.h"
+  requires objc
+}

@@ -1,0 +1,1 @@
+#define OTHFOTMLNfcDocumentReaderModule_version @"b'7f0bfe0'" //short git version of following full git version b'7f0bfe07ddcb52dbd3eb28b5bed4c4850cbef352'
