@@ -7,5 +7,4 @@ framework module OTHFOTMLMRZReaderAddon {
 
 module OTHFOTMLMRZReaderAddon.Swift {
   header "OTHFOTMLMRZReaderAddon-Swift.h"
-  requires objc
 }

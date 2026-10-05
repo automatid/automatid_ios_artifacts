@@ -7,5 +7,4 @@ framework module OTHFOTMLNfcDocumentReaderModule {
 
 module OTHFOTMLNfcDocumentReaderModule.Swift {
   header "OTHFOTMLNfcDocumentReaderModule-Swift.h"
-  requires objc
 }

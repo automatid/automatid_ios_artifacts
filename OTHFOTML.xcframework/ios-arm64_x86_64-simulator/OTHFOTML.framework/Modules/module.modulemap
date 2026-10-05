@@ -7,5 +7,4 @@ framework module OTHFOTML {
 
 module OTHFOTML.Swift {
   header "OTHFOTML-Swift.h"
-  requires objc
 }

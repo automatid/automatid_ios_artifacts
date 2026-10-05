@@ -13,6 +13,8 @@
 
 +(AutomatID_OTMLNetworkHeadersManager*)getInstance;
 
++(NSDictionary<NSString*,NSString*>*) getVersionHeaders;
+
 +(void) addCommonsHeaders:(NSDictionary<NSString*,NSString*>*) headers;
 
 -(NSMutableDictionary*)getHeaders;

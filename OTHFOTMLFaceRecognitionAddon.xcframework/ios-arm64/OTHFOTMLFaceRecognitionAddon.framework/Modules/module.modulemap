@@ -7,5 +7,4 @@ framework module OTHFOTMLFaceRecognitionAddon {
 
 module OTHFOTMLFaceRecognitionAddon.Swift {
   header "OTHFOTMLFaceRecognitionAddon-Swift.h"
-  requires objc
 }

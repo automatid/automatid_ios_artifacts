@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IPuEvdIN0ONWqrFocxBD4fXp/yU=
+		zriaOfTa4+poxtYA04F3m5JUsfU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -33,10 +33,6 @@
 	<dict>
 		<key>Headers/AutomatID_OTTBXML+Compression.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sWfIo7P/dE8sTqu9+bMPOhtFZdw=
-			</data>
 			<key>hash2</key>
 			<data>
 			hF+rjpNOhNBZh4ozv4p6/vQFTlkWPRd7yylIu01+WCU=
@@ -44,10 +40,6 @@
 		</dict>
 		<key>Headers/AutomatID_OTTBXML+HTTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PJQylbtyuvWB6yoNvXFYOYf+c5k=
-			</data>
 			<key>hash2</key>
 			<data>
 			bdSqM5EMnuH7Tc8/D02Hf6yvlnnIVhPsI+xfz+YIdc4=
@@ -55,10 +47,6 @@
 		</dict>
 		<key>Headers/AutomatID_OTTBXML.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J3OuS2s3LVQkjv2TEHVir35nTNY=
-			</data>
 			<key>hash2</key>
 			<data>
 			mMEhyiRjFS9TuMJY8bhlUPHoWb46n9fmGHX397l/PQA=
@@ -66,10 +54,6 @@
 		</dict>
 		<key>Headers/OTHFOTTBXML-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wYrJphlU6bOgZEB8LhDovdi3rtU=
-			</data>
 			<key>hash2</key>
 			<data>
 			X9UUpsBOMbitYztR3HWtO4HrVPJWniWKEE8/clpgB98=
@@ -77,10 +61,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tyTMiv47++rutVv2T1PM37duuSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			25nk3CK+UXvG20CrKTbGWJ8LTEp55TWyQpUuzTw2Lws=

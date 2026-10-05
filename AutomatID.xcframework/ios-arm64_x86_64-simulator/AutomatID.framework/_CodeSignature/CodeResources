@@ -18,15 +18,15 @@
 		</data>
 		<key>Headers/frameworkversion.h</key>
 		<data>
-		9itGFhF25Ok2bVyt9QNK9fUzCs0=
+		dsZ3DckqVCPBCZn25wlJ8y1LYu4=
 		</data>
 		<key>Headers/internalversion.h</key>
 		<data>
-		Rrjj4XwUJE+uBOXdp3m8A/Bg/vc=
+		WXQurckAXxQrK804Qwd9OghQV20=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dsQqLTXW35blHVApuo1dPWlUZPQ=
+		gLW1APK3MYRAaU2gHZROA5ex7DA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -37,10 +37,6 @@
 	<dict>
 		<key>Headers/AutomatID-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v1NjQ/X33zCIrwB1BC/0pbthdb4=
-			</data>
 			<key>hash2</key>
 			<data>
 			T6QNK1QokZJ9+zTPpZ+iTQAJdUKkPnB4FguLf3zOnas=
@@ -48,10 +44,6 @@
 		</dict>
 		<key>Headers/AutomatIDManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hRt9qagJEZRTTIXaYvI/Af2dqQc=
-			</data>
 			<key>hash2</key>
 			<data>
 			ecvcRoBWxL6haBtYMDqHfvZ74ODzUdMQIeRNZ+0JyAc=
@@ -59,10 +51,6 @@
 		</dict>
 		<key>Headers/SCIErrorCodes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qcPI2LT1L7E+sjQompKzPnfBjHk=
-			</data>
 			<key>hash2</key>
 			<data>
 			t6woGnGH8NXmkJb5UAu3+tFRibiZrxczMAlQA0kpzhI=
@@ -70,32 +58,20 @@
 		</dict>
 		<key>Headers/frameworkversion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9itGFhF25Ok2bVyt9QNK9fUzCs0=
-			</data>
 			<key>hash2</key>
 			<data>
-			DNGkQaFJWB0WVYetlUGs8ZLwA+D7FoSTpZdQ8+UIj4E=
+			mQIvI2fMI73WLSgG3ixuCSfxtt6kK8ddAQM/UfJ8Yoc=
 			</data>
 		</dict>
 		<key>Headers/internalversion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rrjj4XwUJE+uBOXdp3m8A/Bg/vc=
-			</data>
 			<key>hash2</key>
 			<data>
-			UUlGmqIGaDSvkeuXcyvuspEdgOdk/3MmJv6hlc5E+lE=
+			OMkyBvbwo3TsveNBrgwnLSQYKM9quARIIV1ha52T4uI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0rCGejC6Q496EahL3++AhM6fd6M=
-			</data>
 			<key>hash2</key>
 			<data>
 			3dbx1rTOrftvoGe0RcPDffUFeM36T04Q03wIXmH4QWg=
